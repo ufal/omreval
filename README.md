@@ -7,6 +7,7 @@ Directories and Files
 ---------------------
 
 * **ismir2016_benchmarking_camera.pdf** -- full text of the camera-ready article
+  (will be made available after presenting at the conference)
 * **evaluations/** -- contains the collected human judgment data for developing
   and assessing OMR evaluation metrics, and the code to replicate our experiments
 * **muscima++/** -- contains the symbol-level and MusicXML data described in sec. 4
