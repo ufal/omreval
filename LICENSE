@@ -3,20 +3,15 @@ This file details the licensing information for the supplementary materials
 for the article "Further Steps Towards a Standard Testbed for Optical Music Recognition"
 by Jan Hajič jr., Jiří Novotný, Pavel Pecina and Jaroslav Pokorný.
 
-The licensing situation is a little complicated due to two factors.
-First, the copyright for the human judgment data belongs to the annotators.
-Second, we tie together many technologies that have different licensing
-requirements, some more restrictive than others, and we want to place
-as few restrictions on using our code as possible.
+The copyright to this repository belongs to Jan Hajič jr. and Jiří Novotný,
+Charles University.
 
-That being said, if you are in academia, you will generally have no licensing
-issues with our work. If you are a business, however, make sure you comply
-especially with the data licencing requirements (CC-BY-SA, see below)
-and the portions of our code that link to GPL technologies.
-
-
-------------------------------------------------------------------------------
-
+There are different licensing requirements for code and data. This file details
+which licenses apply to which parts of this repository. Generally, if you are in academia,
+you should have absolutely zero licensing issues working with anything in here
+(but please do check anyway); if you are in industry, just pay extra attention to
+the GPL 2.0 license for code and the Share-Alike clause for the human judgments
+we have collected.
 
 
 Data
@@ -29,7 +24,7 @@ The content of the evaluations/costs folder and the evaluations/REAMDE.md file
 are provided under a Creative Commons 4.0 Attribution license.
 
 The content of the evaluations/annotations and evaluations/test_case_corpus folders
-is provided under a Creative Commons 4.0 Attribution Share Alike license.
+is provided under a Creative Commons 4.0 Attribution Share-Alike license.
 
 The Share-Alike clause is a key difference. You can do anything with MUSCIMA++, as long
 as you credit its creators as required by the terms of the CC 4.0 license.
@@ -47,7 +42,10 @@ Code
 ================
 
 The content of the muscima++/code and evaluations/code folders is provided
-under the MIT license, with the exception of the following files that must
-be provided under LGPL 3.0, as they import the Levenshtein and zss packages
-that are distributed under such terms.
+under the GPL 2.0 license. (This is mostly because of the Levenshtein package,
+which we use extensively: it is provided under GPL 2.0.)
+
+The text of the GPL 2.0 license can be found in the LICENSE.GPL file in this directory.
+
+
 
