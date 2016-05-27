@@ -7,7 +7,10 @@ The copyright to this repository belongs to Jan Hajič jr. and Jiří Novotný,
 Charles University.
 
 There are different licensing requirements for code and data. This file details
-which licenses apply to which parts of this repository. Generally, if you are in academia,
+which licenses apply to which parts of this repository. Please read this file
+carefully.
+
+Generally, if you are in academia,
 you should have absolutely zero licensing issues working with anything in here
 (but please do check anyway); if you are in industry, just pay extra attention to
 the GPL 2.0 license for code and the Share-Alike clause for the human judgments
@@ -36,6 +39,9 @@ for the community, and ensuring the evaluation data stays publicly
 available is paramount for replicability. Of course, if you have good reason,
 you can contact us and we can work out some separate licensing scheme.
 
+The text of the Creative Commons Attribution (CC-BY) and Creative Commons Attribution Share-Alike
+(CC-BY-SA) licenses can be found in the LICENSE.CC-BY and LICENSE.CC-BY-SA files
+in this directory.
 
 
 Code
