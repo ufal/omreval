@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xs:annotation>
+    <xs:documentation>MFF-MUSCIMA symbolic W3C XML schema.
+
+        Version 0.1
+
+        Annotation of music notation symbols.
+        </xs:documentation>
+    </xs:annotation>
+
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.musicxml.org/xsd/xml.xsd"/>
+	<xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="http://www.musicxml.org/xsd/xlink.xsd"/>
+
+    <xs:complexType name="CropObject">
+        <xs:element name="Id" type="xs:integer"/>
+        <xs:element name="MLClassId"/>
+        <xs:element name="X" type="xs:integer"/>
+        <xs:element name="Y" type="xs:integer"/>
+        <xs:element name="Width" type="xs:integer"/>
+        <xs:element name="Height" type="xs:integer"/>
+        <xs:element name="Selected" type="xs:boolean"/>
+    </xs:complexType>
+
+    <xs:element name="CropObjectList">
+        <xs:element name="CropObjects">
+            <xs:sequence>
+                <xs:element name="CropObject" type="CropObject"/>
+                </xs:sequence>
+            </xs:element>
+        <xs:attribute name="xmlns:xsi"/>
+        <xs:attribute name="xmlns:xsd"/>
+    </xs:element>
+
+</xs:schema>

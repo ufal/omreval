@@ -1,0 +1,747 @@
+<as:CAM
+ xmlns:as="http://www.oasis-open.org/committees/cam"
+ xmlns:camed="http://jcam.org.uk/editor"
+ xmlns:xml="http://www.w3.org/XML/1998/namespace" CAMlevel="1" version="1.0" cameditor="3.2.1">
+  <as:Header>
+    <as:Description>Generated for score-partwise  by XSD 2 CAM generator v2.31</as:Description>
+    <as:Owner>To be Completed</as:Owner>
+    <as:Version>0.1</as:Version>
+    <as:DateTime>2016-01-23T00:27:25</as:DateTime>
+  </as:Header>
+  <as:AssemblyStructure>
+    <as:Structure taxonomy="XML" ID="score-partwise" reference="">
+      <score-partwise version="%Token%">
+        <work>
+          <work-number />
+          <work-title />
+          <opus />
+        </work>
+        <movement-number />
+        <movement-title />
+        <identification>
+          <creator type="%Token%" />
+          <rights type="%Token%" />
+          <encoding>
+            <encoding-date>%YYYY-MM-DDZ%</encoding-date>
+            <encoder type="%Token%" />
+            <software />
+            <encoding-description />
+            <supports />
+          </encoding>
+          <source />
+          <relation type="%Token%" />
+          <miscellaneous>
+            <miscellaneous-field name="%Token%" />
+          </miscellaneous>
+        </identification>
+        <defaults>
+          <scaling>
+            <millimeters>%54321.00%</millimeters>
+            <tenths>%54321.00%</tenths>
+          </scaling>
+          <page-layout>
+            <page-height>%54321.00%</page-height>
+            <page-width>%54321.00%</page-width>
+            <page-margins />
+          </page-layout>
+          <system-layout>
+            <system-margins />
+            <system-distance>%54321.00%</system-distance>
+            <top-system-distance>%54321.00%</top-system-distance>
+            <system-dividers>
+              <left-divider />
+              <right-divider />
+            </system-dividers>
+          </system-layout>
+          <staff-layout number="%1%">
+            <staff-distance>%54321.00%</staff-distance>
+          </staff-layout>
+          <appearance>
+            <line-width />
+            <note-size />
+            <distance />
+            <other-appearance type="%Token%" />
+          </appearance>
+          <music-font />
+          <word-font />
+          <lyric-font />
+          <lyric-language />
+        </defaults>
+        <credit page="%1%">
+          <credit-type />
+          <link />
+          <bookmark />
+          <credit-words />
+          <credit-image />
+        </credit>
+        <part-list>
+          <part-group type="%start%" number="%Token%">
+            <group-name />
+            <group-name-display print-object="%yes-no%">
+              <display-text />
+              <accidental-text />
+            </group-name-display>
+            <group-abbreviation />
+            <group-abbreviation-display print-object="%yes-no%">
+              <display-text />
+              <accidental-text />
+            </group-abbreviation-display>
+            <group-symbol />
+            <group-barline />
+            <group-time />
+            <footnote />
+            <level reference="%yes%" />
+          </part-group>
+          <score-part id="%xs:ID%">
+            <identification>
+              <creator type="%Token%" />
+              <rights type="%Token%" />
+              <encoding>
+                <encoding-date>%YYYY-MM-DDZ%</encoding-date>
+                <encoder type="%Token%" />
+                <software />
+                <encoding-description />
+                <supports />
+              </encoding>
+              <source />
+              <relation type="%Token%" />
+              <miscellaneous>
+                <miscellaneous-field name="%Token%" />
+              </miscellaneous>
+            </identification>
+            <part-name />
+            <part-name-display print-object="%yes-no%">
+              <display-text />
+              <accidental-text />
+            </part-name-display>
+            <part-abbreviation />
+            <part-abbreviation-display print-object="%yes-no%">
+              <display-text />
+              <accidental-text />
+            </part-abbreviation-display>
+            <group />
+            <score-instrument id="%xs:ID%">
+              <instrument-name />
+              <instrument-abbreviation />
+              <instrument-sound />
+              <solo />
+              <ensemble>%type=positive-integer-or-empty%</ensemble>
+              <virtual-instrument>
+                <virtual-library />
+                <virtual-name />
+              </virtual-instrument>
+            </score-instrument>
+            <midi-device port="%1%" id="%xs:IDREF%" />
+            <midi-instrument id="%xs:IDREF%">
+              <midi-channel>%1%</midi-channel>
+              <midi-name />
+              <midi-bank>%1%</midi-bank>
+              <midi-program>%1%</midi-program>
+              <midi-unpitched>%1%</midi-unpitched>
+              <volume>%54321.00%</volume>
+              <pan>%54321.00%</pan>
+              <elevation>%54321.00%</elevation>
+            </midi-instrument>
+          </score-part>
+          <part-group type="%start%" number="%Token%">
+            <group-name />
+            <group-name-display print-object="%yes-no%">
+              <display-text />
+              <accidental-text />
+            </group-name-display>
+            <group-abbreviation />
+            <group-abbreviation-display print-object="%yes-no%">
+              <display-text />
+              <accidental-text />
+            </group-abbreviation-display>
+            <group-symbol />
+            <group-barline />
+            <group-time />
+            <footnote />
+            <level reference="%yes%" />
+          </part-group>
+          <score-part id="%xs:ID%">
+            <identification>
+              <creator type="%Token%" />
+              <rights type="%Token%" />
+              <encoding>
+                <encoding-date>%YYYY-MM-DDZ%</encoding-date>
+                <encoder type="%Token%" />
+                <software />
+                <encoding-description />
+                <supports />
+              </encoding>
+              <source />
+              <relation type="%Token%" />
+              <miscellaneous>
+                <miscellaneous-field name="%Token%" />
+              </miscellaneous>
+            </identification>
+            <part-name />
+            <part-name-display print-object="%yes-no%">
+              <display-text />
+              <accidental-text />
+            </part-name-display>
+            <part-abbreviation />
+            <part-abbreviation-display print-object="%yes-no%">
+              <display-text />
+              <accidental-text />
+            </part-abbreviation-display>
+            <group />
+            <score-instrument id="%xs:ID%">
+              <instrument-name />
+              <instrument-abbreviation />
+              <instrument-sound />
+              <solo />
+              <ensemble>%type=positive-integer-or-empty%</ensemble>
+              <virtual-instrument>
+                <virtual-library />
+                <virtual-name />
+              </virtual-instrument>
+            </score-instrument>
+            <midi-device port="%1%" id="%xs:IDREF%" />
+            <midi-instrument id="%xs:IDREF%">
+              <midi-channel>%1%</midi-channel>
+              <midi-name />
+              <midi-bank>%1%</midi-bank>
+              <midi-program>%1%</midi-program>
+              <midi-unpitched>%1%</midi-unpitched>
+              <volume>%54321.00%</volume>
+              <pan>%54321.00%</pan>
+              <elevation>%54321.00%</elevation>
+            </midi-instrument>
+          </score-part>
+        </part-list>
+        <part id="%xs:IDREF%">
+          <measure number="%Token%" implicit="%yes-no%" non-controlling="%yes-no%" width="%tenths%" />
+        </part>
+      </score-partwise>
+    </as:Structure>
+  </as:AssemblyStructure>
+  <as:BusinessUseContext>
+    <as:Rules>
+      <as:default>
+        <as:context>
+          <as:constraint action="makeOptional(//appearance/distance)" />
+          <as:constraint action="makeRepeatable(//appearance/distance)" />
+          <as:constraint action="makeOptional(//appearance/line-width)" />
+          <as:constraint action="makeRepeatable(//appearance/line-width)" />
+          <as:constraint action="makeOptional(//appearance/note-size)" />
+          <as:constraint action="makeRepeatable(//appearance/note-size)" />
+          <as:constraint action="makeOptional(//appearance/other-appearance)" />
+          <as:constraint action="makeRepeatable(//appearance/other-appearance)" />
+          <as:constraint action="datatype(//appearance/other-appearance/@type,token)" />
+          <as:constraint action="makeOptional(//credit/bookmark)" />
+          <as:constraint action="makeRepeatable(//credit/bookmark)" />
+          <as:constraint action="makeOptional(//credit/credit-type)" />
+          <as:constraint action="makeRepeatable(//credit/credit-type)" />
+          <as:constraint action="makeOptional(//credit/credit-words)" />
+          <as:constraint action="makeOptional(//credit/link)" />
+          <as:constraint action="makeRepeatable(//credit/link)" />
+          <as:constraint action="makeOptional(//defaults/appearance)" />
+          <as:constraint action="makeOptional(//defaults/lyric-font)" />
+          <as:constraint action="makeRepeatable(//defaults/lyric-font)" />
+          <as:constraint action="makeOptional(//defaults/lyric-language)" />
+          <as:constraint action="makeRepeatable(//defaults/lyric-language)" />
+          <as:constraint action="makeOptional(//defaults/music-font)" />
+          <as:constraint action="makeOptional(//defaults/page-layout)" />
+          <as:constraint action="makeOptional(//defaults/scaling)" />
+          <as:constraint action="makeOptional(//defaults/staff-layout)" />
+          <as:constraint action="makeRepeatable(//defaults/staff-layout)" />
+          <as:constraint action="makeOptional(//defaults/staff-layout/@number)" />
+          <as:constraint action="setNumberMask(//defaults/staff-layout/@number,######)" />
+          <as:constraint action="makeOptional(//defaults/system-layout)" />
+          <as:constraint action="makeOptional(//defaults/word-font)" />
+          <as:constraint action="datatype(//encoding/encoder/@type,token)" />
+          <as:constraint action="makeOptional(//encoding/encoder/@type)" />
+          <as:constraint action="setDateMask(//encoding/encoding-date,[^:Z]*|||)" />
+          <as:constraint action="makeOptional(//identification/creator)" />
+          <as:constraint action="makeRepeatable(//identification/creator)" />
+          <as:constraint action="datatype(//identification/creator/@type,token)" />
+          <as:constraint action="makeOptional(//identification/creator/@type)" />
+          <as:constraint action="makeOptional(//identification/encoder)" />
+          <as:constraint action="makeOptional(//identification/encoding-date)" />
+          <as:constraint action="makeOptional(//identification/encoding-description)" />
+          <as:constraint action="makeOptional(//identification/miscellaneous)" />
+          <as:constraint action="makeOptional(//identification/relation)" />
+          <as:constraint action="makeRepeatable(//identification/relation)" />
+          <as:constraint action="datatype(//identification/relation/@type,token)" />
+          <as:constraint action="makeOptional(//identification/relation/@type)" />
+          <as:constraint action="makeOptional(//identification/rights)" />
+          <as:constraint action="makeRepeatable(//identification/rights)" />
+          <as:constraint action="datatype(//identification/rights/@type,token)" />
+          <as:constraint action="makeOptional(//identification/rights/@type)" />
+          <as:constraint action="makeOptional(//identification/software)" />
+          <as:constraint action="makeOptional(//identification/source)" />
+          <as:constraint action="makeOptional(//identification/supports)" />
+          <as:constraint action="makeOptional(//midi-instrument/elevation)" />
+          <as:constraint action="setNumberMask(//midi-instrument/elevation,######.##)" />
+          <as:constraint action="makeOptional(//midi-instrument/midi-bank)" />
+          <as:constraint action="setNumberMask(//midi-instrument/midi-bank,######)" />
+          <as:constraint action="setNumberRange(//midi-instrument/midi-bank,1-16384)" />
+          <as:constraint action="makeOptional(//midi-instrument/midi-channel)" />
+          <as:constraint action="setNumberMask(//midi-instrument/midi-channel,######)" />
+          <as:constraint action="setNumberRange(//midi-instrument/midi-channel,1-16)" />
+          <as:constraint action="makeOptional(//midi-instrument/midi-name)" />
+          <as:constraint action="makeOptional(//midi-instrument/midi-program)" />
+          <as:constraint action="setNumberMask(//midi-instrument/midi-program,######)" />
+          <as:constraint action="setNumberRange(//midi-instrument/midi-program,1-128)" />
+          <as:constraint action="makeOptional(//midi-instrument/midi-unpitched)" />
+          <as:constraint action="setNumberMask(//midi-instrument/midi-unpitched,######)" />
+          <as:constraint action="setNumberRange(//midi-instrument/midi-unpitched,1-128)" />
+          <as:constraint action="makeOptional(//midi-instrument/pan)" />
+          <as:constraint action="setNumberMask(//midi-instrument/pan,######.##)" />
+          <as:constraint action="makeOptional(//midi-instrument/volume)" />
+          <as:constraint action="setNumberMask(//midi-instrument/volume,######.##)" />
+          <as:constraint action="setNumberRange(//midi-instrument/volume,0-100)" />
+          <as:constraint action="makeOptional(//miscellaneous/miscellaneous-field)" />
+          <as:constraint action="makeRepeatable(//miscellaneous/miscellaneous-field)" />
+          <as:constraint action="datatype(//miscellaneous/miscellaneous-field/@name,token)" />
+          <as:constraint action="setNumberMask(//page-layout/page-height,######.##)" />
+          <as:constraint action="makeOptional(//page-layout/page-margins)" />
+          <as:constraint action="makeRepeatable(//page-layout/page-margins)" />
+          <as:constraint action="setLimit(//page-layout/page-margins,0-2)" />
+          <as:constraint action="setNumberMask(//page-layout/page-width,######.##)" />
+          <as:constraint action="makeOptional(//part-group/accidental-text)" />
+          <as:constraint action="makeRepeatable(//part-group/accidental-text)" />
+          <as:constraint action="makeOptional(//part-group/display-text)" />
+          <as:constraint action="makeRepeatable(//part-group/display-text)" />
+          <as:constraint action="makeOptional(//part-group/group-abbreviation)" />
+          <as:constraint action="makeOptional(//part-group/group-abbreviation-display)" />
+          <as:constraint action="makeOptional(//part-group/group-barline)" />
+          <as:constraint action="makeOptional(//part-group/group-name)" />
+          <as:constraint action="makeOptional(//part-group/group-name-display)" />
+          <as:constraint action="makeOptional(//part-group/group-symbol)" />
+          <as:constraint action="makeOptional(//part-group/group-time)" />
+          <as:constraint action="makeOptional(//part-group/level/@reference)" />
+          <as:constraint action="restrictValues(//part-group/level/@reference,'yes' |'no')" />
+          <as:constraint action="datatype(//part-list/part-group/@number,token)" />
+          <as:constraint action="makeOptional(//part-list/part-group/@number)" />
+          <as:constraint action="restrictValues(//part-list/part-group/@type,'start' |'stop')" />
+          <as:constraint action="datatype(//part-list/score-part/@id,ID)" />
+          <as:constraint action="makeRepeatable(//part/measure)" />
+          <as:constraint action="setNumberMask(//scaling/millimeters,######.##)" />
+          <as:constraint action="setNumberMask(//scaling/tenths,######.##)" />
+          <as:constraint action="setNumberMask(//score-instrument/ensemble,######)" />
+          <as:constraint action="makeOptional(//score-instrument/instrument-abbreviation)" />
+          <as:constraint action="makeOptional(//score-instrument/instrument-sound)" />
+          <as:constraint action="makeOptional(//score-instrument/virtual-instrument)" />
+          <as:constraint action="makeOptional(//score-part/accidental-text)" />
+          <as:constraint action="makeRepeatable(//score-part/accidental-text)" />
+          <as:constraint action="makeOptional(//score-part/display-text)" />
+          <as:constraint action="makeRepeatable(//score-part/display-text)" />
+          <as:constraint action="makeOptional(//score-part/ensemble)" />
+          <as:constraint action="makeOptional(//score-part/group)" />
+          <as:constraint action="makeRepeatable(//score-part/group)" />
+          <as:constraint action="makeOptional(//score-part/identification)" />
+          <as:constraint action="makeOptional(//score-part/midi-device)" />
+          <as:constraint action="datatype(//score-part/midi-device/@id,IDREF)" />
+          <as:constraint action="makeOptional(//score-part/midi-device/@id)" />
+          <as:constraint action="makeOptional(//score-part/midi-device/@port)" />
+          <as:constraint action="setNumberMask(//score-part/midi-device/@port,######)" />
+          <as:constraint action="setNumberRange(//score-part/midi-device/@port,1-16)" />
+          <as:constraint action="makeOptional(//score-part/midi-instrument)" />
+          <as:constraint action="datatype(//score-part/midi-instrument/@id,IDREF)" />
+          <as:constraint action="makeOptional(//score-part/part-abbreviation)" />
+          <as:constraint action="makeOptional(//score-part/part-abbreviation-display)" />
+          <as:constraint action="makeOptional(//score-part/part-name-display)" />
+          <as:constraint action="makeOptional(//score-part/score-instrument)" />
+          <as:constraint action="makeRepeatable(//score-part/score-instrument)" />
+          <as:constraint action="datatype(//score-part/score-instrument/@id,ID)" />
+          <as:constraint action="makeOptional(//score-part/solo)" />
+          <as:constraint action="makeOptional(//score-partwise/credit)" />
+          <as:constraint action="makeRepeatable(//score-partwise/credit)" />
+          <as:constraint action="makeOptional(//score-partwise/credit/@page)" />
+          <as:constraint action="setNumberMask(//score-partwise/credit/@page,######)" />
+          <as:constraint action="makeOptional(//score-partwise/defaults)" />
+          <as:constraint action="makeOptional(//score-partwise/identification)" />
+          <as:constraint action="makeOptional(//score-partwise/movement-number)" />
+          <as:constraint action="makeOptional(//score-partwise/movement-title)" />
+          <as:constraint action="makeRepeatable(//score-partwise/part)" />
+          <as:constraint action="makeOptional(//score-partwise/part-group)" />
+          <as:constraint action="makeRepeatable(//score-partwise/part-group)" />
+          <as:constraint action="makeOptional(//score-partwise/score-part)" />
+          <as:constraint action="makeRepeatable(//score-partwise/score-part)" />
+          <as:constraint action="makeOptional(//score-partwise/work)" />
+          <as:constraint action="makeOptional(//staff-layout/staff-distance)" />
+          <as:constraint action="setNumberMask(//staff-layout/staff-distance,######.##)" />
+          <as:constraint action="makeOptional(//system-layout/system-distance)" />
+          <as:constraint action="setNumberMask(//system-layout/system-distance,######.##)" />
+          <as:constraint action="makeOptional(//system-layout/system-dividers)" />
+          <as:constraint action="makeOptional(//system-layout/system-margins)" />
+          <as:constraint action="makeOptional(//system-layout/top-system-distance)" />
+          <as:constraint action="setNumberMask(//system-layout/top-system-distance,######.##)" />
+          <as:constraint action="makeOptional(//virtual-instrument/virtual-library)" />
+          <as:constraint action="makeOptional(//virtual-instrument/virtual-name)" />
+          <as:constraint action="makeOptional(//work/opus)" />
+          <as:constraint action="makeOptional(//work/work-number)" />
+          <as:constraint action="makeOptional(//work/work-title)" />
+          <as:constraint action="setChoice(//score-partwise/credit/*[(name()='credit-words')])" />
+        </as:context>
+      </as:default>
+    </as:Rules>
+  </as:BusinessUseContext>
+  <as:Extension name="uk.org.jcam.camed.extensions.StructureAnnotations">
+    <camed:annotation item="//appearance/distance">
+      <camed:documentation type="Definition">The distance element represents standard distances between notation elements in tenths. The type attribute defines what type of distance is being defined. Valid values include hyphen (for hyphens in lyrics) and beam.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//appearance/line-width">
+      <camed:documentation type="Definition">The line-width type indicates the width of a line type in tenths. The type attribute defines what type of line is being defined. Values include beam, bracket, dashes, enclosure, ending, extend, heavy barline, leger, light barline, octave shift, pedal, slur middle, slur tip, staff, stem, tie middle, tie tip, tuplet bracket, and wedge. The text content is expressed in tenths.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//appearance/note-size">
+      <camed:documentation type="Definition">The note-size type indicates the percentage of the regular note size to use for notes with a cue and large size as defined in the type element. The grace type is used for notes of cue size that that include a grace element. The cue type is used for all other notes with cue size, whether defined explicitly or implicitly via a cue element. The large type is used for notes of large size. The text content represent the numeric percentage. A value of 100 would be identical to the size of a regular note as defined by the music font.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//appearance/other-appearance">
+      <camed:documentation type="Definition">The other-appearance type is used to define any graphical settings not yet in the current version of the MusicXML format. This allows extended representation, though without application interoperability.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//credit/bookmark">
+      <camed:documentation type="Definition">The bookmark type serves as a well-defined target for an incoming simple XLink.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//credit/credit-image">
+      <camed:documentation type="Type">image</camed:documentation>
+      <camed:documentation type="Ref">credit/credit-image</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//credit/credit-words">
+      <camed:documentation type="Type">formatted-text</camed:documentation>
+      <camed:documentation type="Ref">credit/credit-words</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//credit/link">
+      <camed:documentation type="Definition">The link type serves as an outgoing simple XLink. It is also used to connect a MusicXML score with a MusicXML opus. If a relative link is used within a document that is part of a compressed MusicXML file, the link is relative to the  root folder of the zip file.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//defaults/appearance">
+      <camed:documentation type="Definition">The appearance type controls general graphical settings for the music's final form appearance on a printed page of display. This includes support for line widths, definitions for note sizes, and standard distances between notation elements, plus an extension element for other aspects of appearance.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//defaults/lyric-font">
+      <camed:documentation type="Definition">The lyric-font type specifies the default font for a particular name and number of lyric.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//defaults/lyric-language">
+      <camed:documentation type="Definition">The lyric-language type specifies the default language for a particular name and number of lyric.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//defaults/music-font">
+      <camed:documentation type="Type">empty-font</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//defaults/page-layout">
+      <camed:documentation type="Definition">Page layout can be defined both in score-wide defaults and in the print element. Page margins are specified either for both even and odd pages, or via separate odd and even page number values. The type is not needed when used as part of a print element. If omitted when used in the defaults element, "both" is the default.</camed:documentation>
+      <camed:documentation type="Ref">defaults/page-layout</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//defaults/scaling">
+      <camed:documentation type="Definition">Margins, page sizes, and distances are all measured in tenths to keep MusicXML data in a consistent coordinate system as much as possible. The translation to absolute units is done with the scaling type, which specifies how many millimeters are equal to how many tenths. For a staff height of 7 mm, millimeters would be set to 7 while tenths is set to 40. The ability to set a formula rather than a single scaling factor helps avoid roundoff errors.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//defaults/staff-layout">
+      <camed:documentation type="Definition">Staff layout includes the vertical distance from the bottom line of the previous staff in this system to the top line of the staff specified by the number attribute. The optional number attribute refers to staff numbers within the part, from top to bottom on the system. A value of 1 is assumed if not present. When used in the defaults element, the values apply to all parts. This value is ignored for the first staff in a system.</camed:documentation>
+      <camed:documentation type="Ref">defaults/staff-layout</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//defaults/system-layout">
+      <camed:documentation type="Definition">A system is a group of staves that are read and played simultaneously. System layout includes left and right margins and the vertical distance from the previous system. The system distance is measured from the bottom line of the previous system to the top line of the current system. It is ignored for the first system on a page. The top system distance is measured from the page's top margin to the top line of the first system. It is ignored for all but the first system on a page.
+	
+Sometimes the sum of measure widths in a system may not equal the system width specified by the layout elements due to roundoff or other errors. The behavior when reading MusicXML files in these cases is application-dependent. For instance, applications may find that the system layout data is more reliable than the sum of the measure widths, and adjust the measure widths accordingly.</camed:documentation>
+      <camed:documentation type="Ref">defaults/system-layout</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//defaults/word-font">
+      <camed:documentation type="Type">empty-font</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//encoding/encoder">
+      <camed:documentation type="Type">typed-text</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//encoding/encoding-date">
+      <camed:documentation type="Type">yyyy-mm-dd</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//encoding/supports">
+      <camed:documentation type="Definition">The supports type indicates if a MusicXML encoding supports a particular MusicXML element. This is recommended for elements like beam, stem, and accidental, where the absence of an element is ambiguous if you do not know if the encoding supports that element. For Version 2.0, the supports element is expanded to allow programs to indicate support for particular attributes or particular values. This lets applications communicate, for example, that all system and/or page breaks are contained in the MusicXML file.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//group-abbreviation-display/display-text">
+      <camed:documentation type="Type">formatted-text</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//group-name-display/display-text">
+      <camed:documentation type="Type">formatted-text</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//identification/creator">
+      <camed:documentation type="Type">typed-text</camed:documentation>
+      <camed:documentation type="Definition">The creator element is borrowed from Dublin Core. It is used for the creators of the score. The type attribute is used to distinguish different creative contributions. Thus, there can be multiple creators within an identification. Standard type values are composer, lyricist, and arranger. Other type values may be used for different types of creative roles. The type attribute should usually be used even if there is just a single creator element. The MusicXML format does not use the creator / contributor distinction from Dublin Core.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//identification/encoding">
+      <camed:documentation type="Definition">The encoding element contains information about who did the digital encoding, when, with what software, and in what aspects. Standard type values for the encoder element are music, words, and arrangement, but other types may be used. The type attribute is only needed when there are multiple encoder elements.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//identification/miscellaneous">
+      <camed:documentation type="Definition">If a program has other metadata not yet supported in the MusicXML format, it can go in the miscellaneous element. The miscellaneous type puts each separate part of metadata into its own miscellaneous-field type.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//identification/relation">
+      <camed:documentation type="Type">typed-text</camed:documentation>
+      <camed:documentation type="Definition">A related resource for the music that is encoded. This is similar to the Dublin Core relation element. Standard type values are music, words, and arrangement, but other types may be used.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//identification/rights">
+      <camed:documentation type="Type">typed-text</camed:documentation>
+      <camed:documentation type="Definition">The rights element is borrowed from Dublin Core. It contains copyright and other intellectual property notices. Words, music, and derivatives can have different types, so multiple rights tags with different type attributes are supported. Standard type values are music, words, and arrangement, but other types may be used. The type attribute is only needed when there are multiple rights elements.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//identification/source">
+      <camed:documentation type="Definition">The source for the music that is encoded. This is similar to the Dublin Core source element.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//midi-device/@id">
+      <camed:documentation type="Definition">See http://www.w3.org/TR/xml-id/ for
+                     information about this attribute.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//midi-instrument/@id">
+      <camed:documentation type="Definition">See http://www.w3.org/TR/xml-id/ for
+                     information about this attribute.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//midi-instrument/elevation">
+      <camed:documentation type="Type">rotation-degrees</camed:documentation>
+      <camed:documentation type="Definition">The elevation and pan elements allow placing of sound in a 3-D space relative to the listener. Both are expressed in degrees ranging from -180 to 180. For elevation, 0 is level with the listener, 90 is directly above, and -90 is directly below.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//midi-instrument/midi-bank">
+      <camed:documentation type="Type">midi-16384</camed:documentation>
+      <camed:documentation type="Definition">The midi-bank element specified a MIDI 1.0 bank number ranging from 1 to 16,384.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//midi-instrument/midi-channel">
+      <camed:documentation type="Type">midi-16</camed:documentation>
+      <camed:documentation type="Definition">The midi-channel element specifies a MIDI 1.0 channel numbers ranging from 1 to 16.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//midi-instrument/midi-name">
+      <camed:documentation type="Definition">The midi-name element corresponds to a ProgramName meta-event within a Standard MIDI File.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//midi-instrument/midi-program">
+      <camed:documentation type="Type">midi-128</camed:documentation>
+      <camed:documentation type="Definition">The midi-program element specifies a MIDI 1.0 program number ranging from 1 to 128.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//midi-instrument/midi-unpitched">
+      <camed:documentation type="Type">midi-128</camed:documentation>
+      <camed:documentation type="Definition">For unpitched instruments, the midi-unpitched element specifies a MIDI 1.0 note number ranging from 1 to 128. It is usually used with MIDI banks for percussion. Note that MIDI 1.0 note numbers are generally specified from 0 to 127 rather than the 1 to 128 numbering used in this element.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//midi-instrument/pan">
+      <camed:documentation type="Type">rotation-degrees</camed:documentation>
+      <camed:documentation type="Definition">The pan and elevation elements allow placing of sound in a 3-D space relative to the listener. Both are expressed in degrees ranging from -180 to 180. For pan, 0 is straight ahead, -90 is hard left, 90 is hard right, and -180 and 180 are directly behind the listener.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//midi-instrument/volume">
+      <camed:documentation type="Type">percent</camed:documentation>
+      <camed:documentation type="Definition">The volume element value is a percentage of the maximum ranging from 0 to 100, with decimal values allowed. This corresponds to a scaling value for the MIDI 1.0 channel volume controller.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//miscellaneous/miscellaneous-field">
+      <camed:documentation type="Definition">If a program has other metadata not yet supported in the MusicXML format, each type of metadata can go in a miscellaneous-field element. The required name attribute indicates the type of metadata the element content represents.</camed:documentation>
+      <camed:documentation type="Group">%Token%</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//notehead-text/display-text">
+      <camed:documentation type="Type">formatted-text</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//page-layout/page-height">
+      <camed:documentation type="Type">tenths</camed:documentation>
+      <camed:documentation type="Ref">page-layout/page-height</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//page-layout/page-margins">
+      <camed:documentation type="Definition">Page margins are specified either for both even and odd pages, or via separate odd and even page number values. The type attribute is not needed when used as part of a print element. If omitted when the page-margins type is used in the defaults element, "both" is the default value.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//page-layout/page-width">
+      <camed:documentation type="Type">tenths</camed:documentation>
+      <camed:documentation type="Ref">page-layout/page-width</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-abbreviation-display/display-text">
+      <camed:documentation type="Type">formatted-text</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-group">
+      <camed:documentation type="Definition">The part-group element indicates groupings of parts in the score, usually indicated by braces and brackets. Braces that are used for multi-staff parts should be defined in the attributes element for that part. The part-group start element appears before the first score-part in the group. The part-group stop element appears after the last score-part in the group.
+	
+The number attribute is used to distinguish overlapping and nested part-groups, not the sequence of groups. As with parts, groups can have a name and abbreviation. Values for the child elements are ignored at the stop of a group. 
+	
+A part-group element is not needed for a single multi-staff part. By default, multi-staff parts include a brace symbol and (if appropriate given the bar-style) common barlines. The symbol formatting for a multi-staff part can be more fully specified using the part-symbol element.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-group/footnote">
+      <camed:documentation type="Group">Item is a XSD group construct: footnote</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-group/group-abbreviation">
+      <camed:documentation type="Type">group-name</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-group/group-abbreviation-display">
+      <camed:documentation type="Type">name-display</camed:documentation>
+      <camed:documentation type="Definition">Formatting specified in the group-abbreviation-display element overrides formatting specified in the group-abbreviation element.</camed:documentation>
+      <camed:documentation type="attributeGroup">name-display|print-object</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-group/group-barline">
+      <camed:documentation type="Definition">The group-barline type indicates if the group should have common barlines.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-group/group-name">
+      <camed:documentation type="Definition">The group-name type describes the name or abbreviation of a part-group element. Formatting attributes in the group-name type are deprecated in Version 2.0 in favor of the new group-name-display and group-abbreviation-display elements.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-group/group-name-display">
+      <camed:documentation type="Type">name-display</camed:documentation>
+      <camed:documentation type="Definition">Formatting specified in the group-name-display element overrides formatting specified in the group-name element.</camed:documentation>
+      <camed:documentation type="attributeGroup">name-display|print-object</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-group/group-symbol">
+      <camed:documentation type="Definition">The group-symbol type indicates how the symbol for a group is indicated in the score.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-group/group-time">
+      <camed:documentation type="Type">empty</camed:documentation>
+      <camed:documentation type="Definition">The group-time element indicates that the displayed time signatures should stretch across all parts and staves in the group.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-group/level">
+      <camed:documentation type="Group">Item is a XSD group construct: level</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-list/part-group">
+      <camed:documentation type="Group">Item is a XSD group construct: part-group</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-list/score-part">
+      <camed:documentation type="Group">Item is a XSD group construct: score-part</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-name-display/accidental-text">
+      <camed:documentation type="Definition">The accidental-text type represents an element with an accidental value and text-formatting attributes.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part-name-display/display-text">
+      <camed:documentation type="Type">formatted-text</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//part/@id">
+      <camed:documentation type="Definition">See http://www.w3.org/TR/xml-id/ for
+                     information about this attribute.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//scaling/millimeters">
+      <camed:documentation type="Definition">The millimeters type is a number representing millimeters. This is used in the scaling element to provide a default scaling from tenths to physical units.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//scaling/tenths">
+      <camed:documentation type="Definition">The tenths type is a number representing tenths of interline staff space (positive or negative). Both integer and decimal values are allowed, such as 5 for a half space and 2.5 for a quarter space. Interline space is measured from the middle of a staff line.
+
+Distances in a MusicXML file are measured in tenths of staff space. Tenths are then scaled to millimeters within the scaling element, used in the defaults element at the start of a score. Individual staves can apply a scaling factor to adjust staff size. When a MusicXML element or attribute refers to tenths, it means the global tenths defined by the scaling element, not the local tenths as adjusted by the staff-size element.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-instrument/@id">
+      <camed:documentation type="Definition">See http://www.w3.org/TR/xml-id/ for
+                     information about this attribute.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-instrument/ensemble">
+      <camed:documentation type="Type">positive-integer-or-empty</camed:documentation>
+      <camed:documentation type="Definition">The ensemble element was added in Version 2.0. It is present if performance is intended by an ensemble such as an orchestral section. The text of the ensemble element contains the size of the section, or is empty if the ensemble size is not specified.</camed:documentation>
+      <camed:documentation type="Ref">score-instrument/ensemble</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-instrument/instrument-abbreviation">
+      <camed:documentation type="Definition">The optional instrument-abbreviation element is typically used within a software application, rather than appearing on the printed page of a score.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-instrument/instrument-name">
+      <camed:documentation type="Definition">The instrument-name element is typically used within a software application, rather than appearing on the printed page of a score.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-instrument/instrument-sound">
+      <camed:documentation type="Definition">The instrument-sound element describes the default timbre of the score-instrument. This description is independent of a particular virtual or MIDI instrument specification and allows playback to be shared more easily between applications and libraries.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-instrument/solo">
+      <camed:documentation type="Type">empty</camed:documentation>
+      <camed:documentation type="Definition">The solo element was added in Version 2.0. It is present if performance is intended by a solo instrument.</camed:documentation>
+      <camed:documentation type="Ref">score-instrument/solo</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-instrument/virtual-instrument">
+      <camed:documentation type="Definition">The virtual-instrument element defines a specific virtual instrument used for an instrument sound.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-part/@id">
+      <camed:documentation type="Definition">See http://www.w3.org/TR/xml-id/ for
+                     information about this attribute.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-part/group">
+      <camed:documentation type="Definition">The group element allows the use of different versions of the part for different purposes. Typical values include score, parts, sound, and data. Ordering information that is directly encoded in MuseData can be derived from the ordering within a MusicXML score or opus.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-part/identification">
+      <camed:documentation type="Definition">Identification contains basic metadata about the score. It includes the information in MuseData headers that may apply at a score-wide, movement-wide, or part-wide level. The creator, rights, source, and relation elements are based on Dublin Core.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-part/midi-device">
+      <camed:documentation type="Definition">The midi-device type corresponds to the DeviceName meta event in Standard MIDI Files. The optional port attribute is a number from 1 to 16 that can be used with the unofficial MIDI port (or cable) meta event. Unlike the DeviceName meta event, there can be multiple midi-device elements per MusicXML part starting in MusicXML 3.0. The optional id attribute refers to the score-instrument assigned to this device. If missing, the device assignment affects all score-instrument elements in the score-part.</camed:documentation>
+      <camed:documentation type="Ref">score-part/midi-device</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-part/midi-instrument">
+      <camed:documentation type="Definition">The midi-instrument type defines MIDI 1.0 instrument playback. The midi-instrument element can be a part of either the score-instrument element at the start of a part, or the sound element within a part. The id attribute refers to the score-instrument affected by the change.</camed:documentation>
+      <camed:documentation type="Ref">score-part/midi-instrument</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-part/part-abbreviation">
+      <camed:documentation type="Type">part-name</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-part/part-abbreviation-display">
+      <camed:documentation type="Type">name-display</camed:documentation>
+      <camed:documentation type="attributeGroup">name-display|print-object</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-part/part-name">
+      <camed:documentation type="Definition">The part-name type describes the name or abbreviation of a score-part element. Formatting attributes for the part-name element are deprecated in Version 2.0 in favor of the new part-name-display and part-abbreviation-display elements.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-part/part-name-display">
+      <camed:documentation type="Type">name-display</camed:documentation>
+      <camed:documentation type="attributeGroup">name-display|print-object</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-part/score-instrument">
+      <camed:documentation type="Definition">The score-instrument type represents a single instrument within a score-part. As with the score-part type, each score-instrument has a required ID attribute, a name, and an optional abbreviation.
+	
+A score-instrument type is also required if the score specifies MIDI 1.0 channels, banks, or programs. An initial midi-instrument assignment can also be made here. MusicXML software should be able to automatically assign reasonable channels and instruments without these elements in simple cases, such as where part names match General MIDI instrument names.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-partwise">
+      <camed:documentation type="Definition">The score-partwise element is the root element for a partwise MusicXML score. It includes a score-header group followed by a series of parts with measures inside. The document-attributes attribute group includes the version attribute.</camed:documentation>
+      <camed:documentation type="Generated">Built by XSD 2 CAM - 2.31 - 2016-01-23T00:27:25.646+01:00</camed:documentation>
+      <camed:documentation type="Imports">Definitions were imported from:
+xs:import + http://www.musicxml.org/xsd/xml.xsd nsURI: http://www.w3.org/XML/1998/namespace 
+xs:import + http://www.musicxml.org/xsd/xlink.xsd nsURI: http://www.w3.org/1999/xlink</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-partwise/credit">
+      <camed:documentation type="Definition">The credit type represents the appearance of the title, composer, arranger, lyricist, copyright, dedication, and other text and graphics that commonly appears on the first page of a score. The credit-words and credit-image elements are similar to the words and image elements for directions. However, since the credit is not part of a measure, the default-x and default-y attributes adjust the origin relative to the bottom left-hand corner of the first page. The enclosure for credit-words is none by default.
+	
+By default, a series of credit-words elements within a single credit element follow one another in sequence visually. Non-positional formatting attributes are carried over from the previous element by default.
+	
+The page attribute for the credit element, new in Version 2.0, specifies the page number where the credit should appear. This is an integer value that starts with 1 for the first page. Its value is 1 by default. Since credits occur before the music, these page numbers do not refer to the page numbering specified by the print element's page-number attribute.
+
+The credit-type element, new in Version 3.0, indicates the purpose behind a credit. Multiple types of data may be combined in a single credit, so multiple elements may be used. Standard values include page number, title, subtitle, composer, arranger, lyricist, and rights.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-partwise/defaults">
+      <camed:documentation type="Definition">The defaults type specifies score-wide defaults for scaling, layout, and appearance.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-partwise/identification">
+      <camed:documentation type="Definition">Identification contains basic metadata about the score. It includes the information in MuseData headers that may apply at a score-wide, movement-wide, or part-wide level. The creator, rights, source, and relation elements are based on Dublin Core.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-partwise/movement-number">
+      <camed:documentation type="Definition">The movement-number element specifies the number of a movement.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-partwise/movement-title">
+      <camed:documentation type="Definition">The movement-title element specifies the title of a movement, not including its number.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-partwise/part-group">
+      <camed:documentation type="Group">Item is a XSD group construct: part-group</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-partwise/part-list">
+      <camed:documentation type="Definition">The part-list identifies the different musical parts in this movement. Each part has an ID that is used later within the musical data. Since parts may be encoded separately and combined later, identification elements are present at both the score and score-part levels. There must be at least one score-part, combined as desired with part-group elements that indicate braces and brackets. Parts are ordered from top to bottom in a score based on the order in which they appear in the part-list.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-partwise/score-part">
+      <camed:documentation type="Group">Item is a XSD group construct: score-part</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-partwise/score-partwise">
+      <camed:documentation type="Definition">The score-partwise element is the root element for a partwise MusicXML score. It includes a score-header group followed by a series of parts with measures inside. The document-attributes attribute group includes the version attribute.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//score-partwise/work">
+      <camed:documentation type="Definition">Works are optionally identified by number and title. The work type also may indicate a link to the opus document that composes multiple scores into a collection.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//staff-layout/staff-distance">
+      <camed:documentation type="Type">tenths</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//system-dividers/left-divider">
+      <camed:documentation type="Type">empty-print-object-style-align</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//system-dividers/right-divider">
+      <camed:documentation type="Type">empty-print-object-style-align</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//system-layout/system-distance">
+      <camed:documentation type="Type">tenths</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//system-layout/system-dividers">
+      <camed:documentation type="Definition">The system-dividers element indicates the presence or absence of system dividers (also known as system separation marks) between systems displayed on the same page. Dividers on the left and right side of the page are controlled by the left-divider and right-divider elements respectively. The default vertical position is half the system-distance value from the top of the system that is below the divider. The default horizontal position is the left and right system margin, respectively.
+
+When used in the print element, the system-dividers element affects the dividers that would appear between the current system and the previous system.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//system-layout/system-margins">
+      <camed:documentation type="Definition">System margins are relative to the page margins. Positive values indent and negative values reduce the margin size.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//system-layout/top-system-distance">
+      <camed:documentation type="Type">tenths</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//virtual-instrument/virtual-library">
+      <camed:documentation type="Definition">The virtual-library element indicates the virtual instrument library name.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//virtual-instrument/virtual-name">
+      <camed:documentation type="Definition">The virtual-name element indicates the library-specific name for the virtual instrument.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//work/opus">
+      <camed:documentation type="Definition">The opus type represents a link to a MusicXML opus document that composes multiple MusicXML scores into a collection.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//work/work-number">
+      <camed:documentation type="Definition">The work-number element specifies the number of a work, such as its opus number.</camed:documentation>
+    </camed:annotation>
+    <camed:annotation item="//work/work-title">
+      <camed:documentation type="Definition">The work-title element specifies the title of a work, not including its opus or other work number.</camed:documentation>
+    </camed:annotation>
+  </as:Extension>
+</as:CAM>

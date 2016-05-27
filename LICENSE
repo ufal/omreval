@@ -1,0 +1,53 @@
+
+This file details the licensing information for the supplementary materials
+for the article "Further Steps Towards a Standard Testbed for Optical Music Recognition"
+by Jan Hajič jr., Jiří Novotný, Pavel Pecina and Jaroslav Pokorný.
+
+The licensing situation is a little complicated due to two factors.
+First, the copyright for the human judgment data belongs to the annotators.
+Second, we tie together many technologies that have different licensing
+requirements, some more restrictive than others, and we want to place
+as few restrictions on using our code as possible.
+
+That being said, if you are in academia, you will generally have no licensing
+issues with our work. If you are a business, however, make sure you comply
+especially with the data licencing requirements (CC-BY-SA, see below)
+and the portions of our code that link to GPL technologies.
+
+
+------------------------------------------------------------------------------
+
+
+
+Data
+================
+
+The content of the muscima++/data folder and the muscima++/README.md file
+are provided under a Creative Commons 4.0 Attribution license.
+
+The content of the evaluations/costs folder and the evaluations/REAMDE.md file
+are provided under a Creative Commons 4.0 Attribution license.
+
+The content of the evaluations/annotations and evaluations/test_case_corpus folders
+is provided under a Creative Commons 4.0 Attribution Share Alike license.
+
+The Share-Alike clause is a key difference. You can do anything with MUSCIMA++, as long
+as you credit its creators as required by the terms of the CC 4.0 license.
+However, if you do anything (modification/derivative work...) with
+the evaluations data, you are required to let it remain copylefted under the same
+CC-BY-SA terms. The Share-Alike is what adds this additional obligation.
+This is because we believe transparency in evaluating OMR is key
+for the community, and ensuring the evaluation data stays publicly
+available is paramount for replicability. Of course, if you have good reason,
+you can contact us and we can work out some separate licensing scheme.
+
+
+
+Code
+================
+
+The content of the muscima++/code and evaluations/code folders is provided
+under the MIT license, with the exception of the following files that must
+be provided under LGPL 3.0, as they import the Levenshtein and zss packages
+that are distributed under such terms.
+

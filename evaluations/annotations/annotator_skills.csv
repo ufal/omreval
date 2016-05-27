@@ -1,0 +1,36 @@
+#
+# This file records the self-reported notation software usage
+# skill levels of individual annotators.
+#
+# Skill levels, as explained to the annotators:
+#
+# 1: Sporadic user, uses mouse even for pitch input.
+# 2: Infrequent user, can input pitches and perform basic edits
+#    with keyboard shortcuts.
+# 3: Frequent user (several 10s of pages), uses keyboard shortcuts
+#    for more or less everything (when efficient).
+# 4: Expert user, extensive editorial work (like a symphony), can define
+#    their own software behavior (shortcuts, macros...) to suit their needs.
+#
+# When we got uncertain responses (3 people), we adjusted for the Dunning-Kruger effect
+# and moved people self-reporting between 3 and 4 to 4 and between 1 and 2 to 1.
+# (Fortunately, no one reported between 2 and 3.)
+#
+A01.1   2
+A02.1   1
+A03.1   1
+A03.2   1
+A04.1   1
+A05.1   2
+A06.1   3
+A06.2   3
+A07.1   3
+A08.1   1
+A09.1   4
+A10.1   1
+A11.1   4
+A11.2   4
+A12.1   4
+A13.1   1
+A13.2   1
+A14.1   2

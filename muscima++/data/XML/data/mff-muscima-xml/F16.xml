@@ -1,0 +1,3129 @@
+<score-partwise eid="F16_score-partwise-0-0">
+  <identification eid="F16_identification-0-1">
+    <rights eid="F16_rights-0-2">Charles University in Prague 2015</rights>
+    <encoding eid="F16_encoding-0-3">
+      <software eid="F16_software-0-4">MuseScore 2.0.2</software>
+      <encoding-date eid="F16_encoding-date-0-5">2016-01-06</encoding-date>
+      <supports eid="F16_supports-0-6" element="accidental" type="yes" />
+      <supports eid="F16_supports-1-7" element="beam" type="yes" />
+      <supports attribute="new-page" eid="F16_supports-2-8" element="print" type="yes" value="yes" />
+      <supports attribute="new-system" eid="F16_supports-3-9" element="print" type="yes" value="yes" />
+      <supports eid="F16_supports-4-10" element="stem" type="yes" />
+      </encoding>
+    </identification>
+  <defaults eid="F16_defaults-0-11">
+    <scaling eid="F16_scaling-0-12">
+      <millimeters eid="F16_millimeters-0-13">7.05556</millimeters>
+      <tenths eid="F16_tenths-0-14">40</tenths>
+      </scaling>
+    <page-layout eid="F16_page-layout-0-15">
+      <page-height eid="F16_page-height-0-16">1683.36</page-height>
+      <page-width eid="F16_page-width-0-17">1190.88</page-width>
+      <page-margins eid="F16_page-margins-0-18" type="even">
+        <left-margin eid="F16_left-margin-0-19">56.6929</left-margin>
+        <right-margin eid="F16_right-margin-0-20">56.6929</right-margin>
+        <top-margin eid="F16_top-margin-0-21">56.6929</top-margin>
+        <bottom-margin eid="F16_bottom-margin-0-22">113.386</bottom-margin>
+        </page-margins>
+      <page-margins eid="F16_page-margins-1-23" type="odd">
+        <left-margin eid="F16_left-margin-1-24">56.6929</left-margin>
+        <right-margin eid="F16_right-margin-1-25">56.6929</right-margin>
+        <top-margin eid="F16_top-margin-1-26">56.6929</top-margin>
+        <bottom-margin eid="F16_bottom-margin-1-27">113.386</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <word-font eid="F16_word-font-0-28" font-family="FreeSerif" font-size="10" />
+    <lyric-font eid="F16_lyric-font-0-29" font-family="FreeSerif" font-size="11" />
+    </defaults>
+  <credit eid="F16_credit-0-30" page="1">
+    <credit-words default-x="595.44" default-y="113.386" eid="F16_credit-words-0-31" font-size="8" justify="center" valign="bottom">Charles University in Prague 2015</credit-words>
+    </credit>
+  <part-list eid="F16_part-list-0-32">
+    <part-group eid="F16_part-group-0-33" number="1" type="start">
+      <group-symbol eid="F16_group-symbol-0-34">bracket</group-symbol>
+      </part-group>
+    <score-part eid="F16_score-part-0-35" id="P1">
+      <part-name eid="F16_part-name-0-36" print-object="no">Soprano</part-name>
+      <part-abbreviation eid="F16_part-abbreviation-0-37">S.</part-abbreviation>
+      <score-instrument eid="F16_score-instrument-0-38" id="P1-I1">
+        <instrument-name eid="F16_instrument-name-0-39">Soprano</instrument-name>
+        </score-instrument>
+      <midi-device eid="F16_midi-device-0-40" id="P1-I1" port="1" />
+      <midi-instrument eid="F16_midi-instrument-0-41" id="P1-I1">
+        <midi-channel eid="F16_midi-channel-0-42">1</midi-channel>
+        <midi-program eid="F16_midi-program-0-43">53</midi-program>
+        <volume eid="F16_volume-0-44">78.7402</volume>
+        <pan eid="F16_pan-0-45">0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part eid="F16_score-part-1-46" id="P2">
+      <part-name eid="F16_part-name-1-47" print-object="no">Soprano</part-name>
+      <part-abbreviation eid="F16_part-abbreviation-1-48">S.</part-abbreviation>
+      <score-instrument eid="F16_score-instrument-1-49" id="P2-I1">
+        <instrument-name eid="F16_instrument-name-1-50">Soprano</instrument-name>
+        </score-instrument>
+      <midi-device eid="F16_midi-device-1-51" id="P2-I1" port="1" />
+      <midi-instrument eid="F16_midi-instrument-1-52" id="P2-I1">
+        <midi-channel eid="F16_midi-channel-1-53">2</midi-channel>
+        <midi-program eid="F16_midi-program-1-54">53</midi-program>
+        <volume eid="F16_volume-1-55">78.7402</volume>
+        <pan eid="F16_pan-1-56">0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part eid="F16_score-part-2-57" id="P3">
+      <part-name eid="F16_part-name-2-58" print-object="no">Tenor</part-name>
+      <part-abbreviation eid="F16_part-abbreviation-2-59">T.</part-abbreviation>
+      <score-instrument eid="F16_score-instrument-2-60" id="P3-I1">
+        <instrument-name eid="F16_instrument-name-2-61">Tenor</instrument-name>
+        </score-instrument>
+      <midi-device eid="F16_midi-device-2-62" id="P3-I1" port="1" />
+      <midi-instrument eid="F16_midi-instrument-2-63" id="P3-I1">
+        <midi-channel eid="F16_midi-channel-2-64">3</midi-channel>
+        <midi-program eid="F16_midi-program-2-65">53</midi-program>
+        <volume eid="F16_volume-2-66">78.7402</volume>
+        <pan eid="F16_pan-2-67">0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part eid="F16_score-part-3-68" id="P4">
+      <part-name eid="F16_part-name-3-69" print-object="no">Violin</part-name>
+      <part-abbreviation eid="F16_part-abbreviation-3-70">Vln.</part-abbreviation>
+      <score-instrument eid="F16_score-instrument-3-71" id="P4-I1">
+        <instrument-name eid="F16_instrument-name-3-72">Violin</instrument-name>
+        </score-instrument>
+      <midi-device eid="F16_midi-device-3-73" id="P4-I1" port="1" />
+      <midi-instrument eid="F16_midi-instrument-3-74" id="P4-I1">
+        <midi-channel eid="F16_midi-channel-3-75">4</midi-channel>
+        <midi-program eid="F16_midi-program-3-76">41</midi-program>
+        <volume eid="F16_volume-3-77">78.7402</volume>
+        <pan eid="F16_pan-3-78">0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part eid="F16_score-part-4-79" id="P5">
+      <part-name eid="F16_part-name-4-80" print-object="no">Violin</part-name>
+      <part-abbreviation eid="F16_part-abbreviation-4-81">Vln.</part-abbreviation>
+      <score-instrument eid="F16_score-instrument-4-82" id="P5-I1">
+        <instrument-name eid="F16_instrument-name-4-83">Violin</instrument-name>
+        </score-instrument>
+      <midi-device eid="F16_midi-device-4-84" id="P5-I1" port="1" />
+      <midi-instrument eid="F16_midi-instrument-4-85" id="P5-I1">
+        <midi-channel eid="F16_midi-channel-4-86">7</midi-channel>
+        <midi-program eid="F16_midi-program-4-87">41</midi-program>
+        <volume eid="F16_volume-4-88">78.7402</volume>
+        <pan eid="F16_pan-4-89">0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part eid="F16_score-part-5-90" id="P6">
+      <part-name eid="F16_part-name-5-91" print-object="no">Viola</part-name>
+      <part-abbreviation eid="F16_part-abbreviation-5-92">Vla.</part-abbreviation>
+      <score-instrument eid="F16_score-instrument-5-93" id="P6-I1">
+        <instrument-name eid="F16_instrument-name-5-94">Viola</instrument-name>
+        </score-instrument>
+      <midi-device eid="F16_midi-device-5-95" id="P6-I1" port="1" />
+      <midi-instrument eid="F16_midi-instrument-5-96" id="P6-I1">
+        <midi-channel eid="F16_midi-channel-5-97">11</midi-channel>
+        <midi-program eid="F16_midi-program-5-98">42</midi-program>
+        <volume eid="F16_volume-5-99">78.7402</volume>
+        <pan eid="F16_pan-5-100">0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part eid="F16_score-part-6-101" id="P7">
+      <part-name eid="F16_part-name-6-102" print-object="no">Violoncello</part-name>
+      <part-abbreviation eid="F16_part-abbreviation-6-103">Vc.</part-abbreviation>
+      <score-instrument eid="F16_score-instrument-6-104" id="P7-I1">
+        <instrument-name eid="F16_instrument-name-6-105">Violoncello</instrument-name>
+        </score-instrument>
+      <midi-device eid="F16_midi-device-6-106" id="P7-I1" port="1" />
+      <midi-instrument eid="F16_midi-instrument-6-107" id="P7-I1">
+        <midi-channel eid="F16_midi-channel-6-108">14</midi-channel>
+        <midi-program eid="F16_midi-program-6-109">43</midi-program>
+        <volume eid="F16_volume-6-110">78.7402</volume>
+        <pan eid="F16_pan-6-111">0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part eid="F16_score-part-7-112" id="P8">
+      <part-name eid="F16_part-name-7-113" print-object="no">Contrabass</part-name>
+      <part-abbreviation eid="F16_part-abbreviation-7-114">Cb.</part-abbreviation>
+      <score-instrument eid="F16_score-instrument-7-115" id="P8-I1">
+        <instrument-name eid="F16_instrument-name-7-116">Contrabass</instrument-name>
+        </score-instrument>
+      <midi-device eid="F16_midi-device-7-117" id="P8-I1" port="2" />
+      <midi-instrument eid="F16_midi-instrument-7-118" id="P8-I1">
+        <midi-channel eid="F16_midi-channel-7-119">1</midi-channel>
+        <midi-program eid="F16_midi-program-7-120">44</midi-program>
+        <volume eid="F16_volume-7-121">78.7402</volume>
+        <pan eid="F16_pan-7-122">0</pan>
+        </midi-instrument>
+      </score-part>
+    <part-group eid="F16_part-group-1-123" number="1" type="stop" />
+    </part-list>
+  <part eid="F16_part-0-124" id="P1">
+    <measure eid="F16_measure-0-125" number="1" width="316.25">
+      <print eid="F16_print-0-126">
+        <system-layout eid="F16_system-layout-0-127">
+          <system-margins eid="F16_system-margins-0-128">
+            <left-margin eid="F16_left-margin-2-129">6.50</left-margin>
+            <right-margin eid="F16_right-margin-2-130">-0.00</right-margin>
+            </system-margins>
+          <top-system-distance eid="F16_top-system-distance-0-131">70.00</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes eid="F16_attributes-0-132">
+        <divisions eid="F16_divisions-0-133">2</divisions>
+        <key eid="F16_key-0-134">
+          <fifths eid="F16_fifths-0-135">1</fifths>
+          </key>
+        <clef eid="F16_clef-0-136">
+          <sign eid="F16_sign-0-137">G</sign>
+          <line eid="F16_line-0-138">2</line>
+          </clef>
+        </attributes>
+      <note eid="F16_note-0-139">
+        <rest eid="F16_rest-0-140" />
+        <duration eid="F16_duration-0-141">2</duration>
+        <voice eid="F16_voice-0-142">1</voice>
+        <type eid="F16_type-0-143">quarter</type>
+        </note>
+      <note default-x="130.77" default-y="-5.00" eid="F16_note-1-144">
+        <pitch eid="F16_pitch-0-145">
+          <step eid="F16_step-0-146">E</step>
+          <octave eid="F16_octave-0-147">5</octave>
+          </pitch>
+        <duration eid="F16_duration-1-148">2</duration>
+        <voice eid="F16_voice-1-149">1</voice>
+        <type eid="F16_type-1-150">quarter</type>
+        <stem eid="F16_stem-0-151">down</stem>
+        <notations eid="F16_notations-0-152">
+          <slur eid="F16_slur-0-153" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="192.41" default-y="0.00" eid="F16_note-2-154">
+        <pitch eid="F16_pitch-1-155">
+          <step eid="F16_step-1-156">F</step>
+          <alter eid="F16_alter-0-157">1</alter>
+          <octave eid="F16_octave-1-158">5</octave>
+          </pitch>
+        <duration eid="F16_duration-2-159">2</duration>
+        <voice eid="F16_voice-2-160">1</voice>
+        <type eid="F16_type-2-161">quarter</type>
+        <stem eid="F16_stem-1-162">down</stem>
+        </note>
+      <note default-x="253.53" default-y="5.00" eid="F16_note-3-163">
+        <pitch eid="F16_pitch-2-164">
+          <step eid="F16_step-2-165">G</step>
+          <octave eid="F16_octave-2-166">5</octave>
+          </pitch>
+        <duration eid="F16_duration-3-167">2</duration>
+        <voice eid="F16_voice-3-168">1</voice>
+        <type eid="F16_type-3-169">quarter</type>
+        <stem eid="F16_stem-2-170">down</stem>
+        </note>
+      </measure>
+    <measure eid="F16_measure-1-171" number="2" width="284.85">
+      <note default-x="18.05" default-y="10.00" eid="F16_note-4-172">
+        <pitch eid="F16_pitch-3-173">
+          <step eid="F16_step-3-174">A</step>
+          <octave eid="F16_octave-3-175">5</octave>
+          </pitch>
+        <duration eid="F16_duration-4-176">6</duration>
+        <voice eid="F16_voice-4-177">1</voice>
+        <type eid="F16_type-4-178">half</type>
+        <dot eid="F16_dot-0-179" />
+        <stem eid="F16_stem-3-180">down</stem>
+        </note>
+      <note default-x="217.04" default-y="-10.00" eid="F16_note-5-181">
+        <pitch eid="F16_pitch-4-182">
+          <step eid="F16_step-4-183">D</step>
+          <alter eid="F16_alter-1-184">1</alter>
+          <octave eid="F16_octave-4-185">5</octave>
+          </pitch>
+        <duration eid="F16_duration-5-186">2</duration>
+        <voice eid="F16_voice-5-187">1</voice>
+        <type eid="F16_type-5-188">quarter</type>
+        <accidental eid="F16_accidental-0-189">sharp</accidental>
+        <stem eid="F16_stem-4-190">down</stem>
+        <notations eid="F16_notations-1-191">
+          <slur eid="F16_slur-1-192" number="1" type="stop" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-2-193" number="3" width="149.91">
+      <note default-x="15.32" default-y="-5.00" eid="F16_note-6-194">
+        <pitch eid="F16_pitch-5-195">
+          <step eid="F16_step-5-196">E</step>
+          <octave eid="F16_octave-5-197">5</octave>
+          </pitch>
+        <duration eid="F16_duration-6-198">2</duration>
+        <voice eid="F16_voice-6-199">1</voice>
+        <type eid="F16_type-6-200">quarter</type>
+        <stem eid="F16_stem-5-201">down</stem>
+        </note>
+      <direction eid="F16_direction-0-202" placement="above">
+        <direction-type eid="F16_direction-type-0-203">
+          <wedge eid="F16_wedge-0-204" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="48.57" default-y="5.00" eid="F16_note-7-205">
+        <pitch eid="F16_pitch-6-206">
+          <step eid="F16_step-6-207">G</step>
+          <octave eid="F16_octave-6-208">5</octave>
+          </pitch>
+        <duration eid="F16_duration-7-209">2</duration>
+        <voice eid="F16_voice-7-210">1</voice>
+        <type eid="F16_type-7-211">quarter</type>
+        <stem eid="F16_stem-6-212">down</stem>
+        <notations eid="F16_notations-2-213">
+          <slur eid="F16_slur-2-214" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="81.81" default-y="0.00" eid="F16_note-8-215">
+        <pitch eid="F16_pitch-7-216">
+          <step eid="F16_step-7-217">F</step>
+          <alter eid="F16_alter-2-218">1</alter>
+          <octave eid="F16_octave-7-219">5</octave>
+          </pitch>
+        <duration eid="F16_duration-8-220">2</duration>
+        <voice eid="F16_voice-8-221">1</voice>
+        <type eid="F16_type-8-222">quarter</type>
+        <stem eid="F16_stem-7-223">down</stem>
+        </note>
+      <note default-x="115.06" default-y="-5.00" eid="F16_note-9-224">
+        <pitch eid="F16_pitch-8-225">
+          <step eid="F16_step-8-226">E</step>
+          <octave eid="F16_octave-8-227">5</octave>
+          </pitch>
+        <duration eid="F16_duration-9-228">2</duration>
+        <voice eid="F16_voice-9-229">1</voice>
+        <type eid="F16_type-9-230">quarter</type>
+        <stem eid="F16_stem-8-231">down</stem>
+        <notations eid="F16_notations-3-232">
+          <slur eid="F16_slur-3-233" number="1" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-1-234" placement="above">
+        <direction-type eid="F16_direction-type-1-235">
+          <wedge eid="F16_wedge-1-236" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      </measure>
+    <measure eid="F16_measure-3-237" number="4" width="159.32">
+      <note eid="F16_note-10-238">
+        <rest eid="F16_rest-1-239" />
+        <duration eid="F16_duration-10-240">2</duration>
+        <voice eid="F16_voice-10-241">1</voice>
+        <type eid="F16_type-10-242">quarter</type>
+        </note>
+      <direction eid="F16_direction-2-243" placement="above">
+        <direction-type eid="F16_direction-type-2-244">
+          <wedge eid="F16_wedge-2-245" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="48.21" default-y="5.00" eid="F16_note-11-246">
+        <pitch eid="F16_pitch-9-247">
+          <step eid="F16_step-9-248">G</step>
+          <octave eid="F16_octave-9-249">5</octave>
+          </pitch>
+        <duration eid="F16_duration-11-250">2</duration>
+        <voice eid="F16_voice-11-251">1</voice>
+        <type eid="F16_type-11-252">quarter</type>
+        <stem eid="F16_stem-9-253">down</stem>
+        <notations eid="F16_notations-4-254">
+          <slur eid="F16_slur-4-255" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="81.11" default-y="0.00" eid="F16_note-12-256">
+        <pitch eid="F16_pitch-10-257">
+          <step eid="F16_step-10-258">F</step>
+          <alter eid="F16_alter-3-259">1</alter>
+          <octave eid="F16_octave-10-260">5</octave>
+          </pitch>
+        <duration eid="F16_duration-12-261">2</duration>
+        <voice eid="F16_voice-12-262">1</voice>
+        <type eid="F16_type-12-263">quarter</type>
+        <stem eid="F16_stem-10-264">down</stem>
+        </note>
+      <note default-x="114.00" default-y="-5.00" eid="F16_note-13-265">
+        <pitch eid="F16_pitch-11-266">
+          <step eid="F16_step-11-267">E</step>
+          <octave eid="F16_octave-11-268">5</octave>
+          </pitch>
+        <duration eid="F16_duration-13-269">2</duration>
+        <voice eid="F16_voice-13-270">1</voice>
+        <type eid="F16_type-13-271">quarter</type>
+        <stem eid="F16_stem-11-272">down</stem>
+        <notations eid="F16_notations-5-273">
+          <slur eid="F16_slur-5-274" number="1" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-3-275" placement="above">
+        <direction-type eid="F16_direction-type-3-276">
+          <wedge eid="F16_wedge-3-277" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      </measure>
+    <measure eid="F16_measure-4-278" number="5" width="160.66">
+      <note eid="F16_note-14-279">
+        <rest eid="F16_rest-2-280" />
+        <duration eid="F16_duration-14-281">2</duration>
+        <voice eid="F16_voice-14-282">1</voice>
+        <type eid="F16_type-14-283">quarter</type>
+        </note>
+      <direction eid="F16_direction-4-284" placement="above">
+        <direction-type eid="F16_direction-type-4-285">
+          <wedge eid="F16_wedge-4-286" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="53.23" default-y="5.00" eid="F16_note-15-287">
+        <pitch eid="F16_pitch-12-288">
+          <step eid="F16_step-12-289">G</step>
+          <octave eid="F16_octave-12-290">5</octave>
+          </pitch>
+        <duration eid="F16_duration-15-291">2</duration>
+        <voice eid="F16_voice-15-292">1</voice>
+        <type eid="F16_type-15-293">quarter</type>
+        <stem eid="F16_stem-12-294">down</stem>
+        <notations eid="F16_notations-6-295">
+          <slur eid="F16_slur-6-296" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="84.72" default-y="0.00" eid="F16_note-16-297">
+        <pitch eid="F16_pitch-13-298">
+          <step eid="F16_step-13-299">F</step>
+          <alter eid="F16_alter-4-300">1</alter>
+          <octave eid="F16_octave-13-301">5</octave>
+          </pitch>
+        <duration eid="F16_duration-16-302">2</duration>
+        <voice eid="F16_voice-16-303">1</voice>
+        <type eid="F16_type-16-304">quarter</type>
+        <stem eid="F16_stem-13-305">down</stem>
+        </note>
+      <note default-x="116.21" default-y="-5.00" eid="F16_note-17-306">
+        <pitch eid="F16_pitch-14-307">
+          <step eid="F16_step-14-308">E</step>
+          <octave eid="F16_octave-14-309">5</octave>
+          </pitch>
+        <duration eid="F16_duration-17-310">2</duration>
+        <voice eid="F16_voice-17-311">1</voice>
+        <type eid="F16_type-17-312">quarter</type>
+        <stem eid="F16_stem-14-313">down</stem>
+        <notations eid="F16_notations-7-314">
+          <slur eid="F16_slur-7-315" number="1" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-5-316" placement="above">
+        <direction-type eid="F16_direction-type-5-317">
+          <wedge eid="F16_wedge-5-318" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      </measure>
+    <measure eid="F16_measure-5-319" number="6" width="396.33">
+      <print eid="F16_print-1-320" new-page="yes">
+        <system-layout eid="F16_system-layout-1-321">
+          <system-margins eid="F16_system-margins-1-322">
+            <left-margin eid="F16_left-margin-3-323">57.22</left-margin>
+            <right-margin eid="F16_right-margin-3-324">623.94</right-margin>
+            </system-margins>
+          <top-system-distance eid="F16_top-system-distance-1-325">70.00</top-system-distance>
+          </system-layout>
+        </print>
+      <note eid="F16_note-18-326">
+        <rest eid="F16_rest-3-327" />
+        <duration eid="F16_duration-18-328">2</duration>
+        <voice eid="F16_voice-18-329">1</voice>
+        <type eid="F16_type-18-330">quarter</type>
+        </note>
+      <direction eid="F16_direction-6-331" placement="above">
+        <direction-type eid="F16_direction-type-6-332">
+          <wedge eid="F16_wedge-6-333" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="159.75" default-y="5.00" eid="F16_note-19-334">
+        <pitch eid="F16_pitch-15-335">
+          <step eid="F16_step-15-336">G</step>
+          <octave eid="F16_octave-15-337">5</octave>
+          </pitch>
+        <duration eid="F16_duration-19-338">2</duration>
+        <voice eid="F16_voice-19-339">1</voice>
+        <type eid="F16_type-19-340">quarter</type>
+        <stem eid="F16_stem-15-341">down</stem>
+        <notations eid="F16_notations-8-342">
+          <slur eid="F16_slur-8-343" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="232.06" default-y="0.00" eid="F16_note-20-344">
+        <pitch eid="F16_pitch-16-345">
+          <step eid="F16_step-16-346">F</step>
+          <alter eid="F16_alter-5-347">1</alter>
+          <octave eid="F16_octave-16-348">5</octave>
+          </pitch>
+        <duration eid="F16_duration-20-349">2</duration>
+        <voice eid="F16_voice-20-350">1</voice>
+        <type eid="F16_type-20-351">quarter</type>
+        <stem eid="F16_stem-16-352">down</stem>
+        </note>
+      <note default-x="304.36" default-y="-5.00" eid="F16_note-21-353">
+        <pitch eid="F16_pitch-17-354">
+          <step eid="F16_step-17-355">E</step>
+          <octave eid="F16_octave-17-356">5</octave>
+          </pitch>
+        <duration eid="F16_duration-21-357">2</duration>
+        <voice eid="F16_voice-21-358">1</voice>
+        <type eid="F16_type-21-359">quarter</type>
+        <stem eid="F16_stem-17-360">down</stem>
+        <notations eid="F16_notations-9-361">
+          <slur eid="F16_slur-9-362" number="1" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-7-363" placement="above">
+        <direction-type eid="F16_direction-type-7-364">
+          <wedge eid="F16_wedge-7-365" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      </measure>
+    </part>
+  <part eid="F16_part-1-366" id="P2">
+    <measure eid="F16_measure-6-367" number="1" width="316.25">
+      <print eid="F16_print-2-368">
+        <staff-layout eid="F16_staff-layout-0-369" number="1">
+          <staff-distance eid="F16_staff-distance-0-370">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes eid="F16_attributes-1-371">
+        <divisions eid="F16_divisions-1-372">2</divisions>
+        <key eid="F16_key-1-373">
+          <fifths eid="F16_fifths-1-374">1</fifths>
+          </key>
+        <clef eid="F16_clef-1-375">
+          <sign eid="F16_sign-1-376">G</sign>
+          <line eid="F16_line-1-377">2</line>
+          </clef>
+        </attributes>
+      <note default-x="69.29" default-y="-120.00" eid="F16_note-22-378">
+        <pitch eid="F16_pitch-18-379">
+          <step eid="F16_step-18-380">C</step>
+          <octave eid="F16_octave-18-381">5</octave>
+          </pitch>
+        <duration eid="F16_duration-22-382">4</duration>
+        <voice eid="F16_voice-22-383">1</voice>
+        <type eid="F16_type-22-384">half</type>
+        <stem eid="F16_stem-18-385">down</stem>
+        </note>
+      <note default-x="192.05" default-y="-130.00" eid="F16_note-23-386">
+        <pitch eid="F16_pitch-19-387">
+          <step eid="F16_step-19-388">A</step>
+          <octave eid="F16_octave-19-389">4</octave>
+          </pitch>
+        <duration eid="F16_duration-23-390">4</duration>
+        <voice eid="F16_voice-23-391">1</voice>
+        <type eid="F16_type-23-392">half</type>
+        <accidental eid="F16_accidental-1-393">natural</accidental>
+        <stem eid="F16_stem-19-394">up</stem>
+        </note>
+      </measure>
+    <measure eid="F16_measure-7-395" number="2" width="284.85">
+      <note default-x="18.05" default-y="-140.00" eid="F16_note-24-396">
+        <pitch eid="F16_pitch-20-397">
+          <step eid="F16_step-20-398">F</step>
+          <alter eid="F16_alter-6-399">1</alter>
+          <octave eid="F16_octave-20-400">4</octave>
+          </pitch>
+        <duration eid="F16_duration-24-401">4</duration>
+        <voice eid="F16_voice-24-402">1</voice>
+        <type eid="F16_type-24-403">half</type>
+        <stem eid="F16_stem-20-404">up</stem>
+        </note>
+      <note default-x="150.47" default-y="-160.00" eid="F16_note-25-405">
+        <pitch eid="F16_pitch-21-406">
+          <step eid="F16_step-21-407">B</step>
+          <octave eid="F16_octave-21-408">3</octave>
+          </pitch>
+        <duration eid="F16_duration-25-409">4</duration>
+        <voice eid="F16_voice-25-410">1</voice>
+        <type eid="F16_type-25-411">half</type>
+        <stem eid="F16_stem-21-412">up</stem>
+        </note>
+      </measure>
+    <measure eid="F16_measure-8-413" number="3" width="149.91">
+      <note default-x="15.32" default-y="-145.00" eid="F16_note-26-414">
+        <pitch eid="F16_pitch-22-415">
+          <step eid="F16_step-22-416">E</step>
+          <octave eid="F16_octave-22-417">4</octave>
+          </pitch>
+        <duration eid="F16_duration-26-418">2</duration>
+        <voice eid="F16_voice-26-419">1</voice>
+        <type eid="F16_type-26-420">quarter</type>
+        <stem eid="F16_stem-22-421">up</stem>
+        </note>
+      <note eid="F16_note-27-422">
+        <rest eid="F16_rest-4-423" />
+        <duration eid="F16_duration-27-424">2</duration>
+        <voice eid="F16_voice-27-425">1</voice>
+        <type eid="F16_type-27-426">quarter</type>
+        </note>
+      <note eid="F16_note-28-427">
+        <rest eid="F16_rest-5-428" />
+        <duration eid="F16_duration-28-429">4</duration>
+        <voice eid="F16_voice-28-430">1</voice>
+        <type eid="F16_type-28-431">half</type>
+        </note>
+      </measure>
+    <measure eid="F16_measure-9-432" number="4" width="159.32">
+      <note default-x="14.96" default-y="-120.00" eid="F16_note-29-433">
+        <pitch eid="F16_pitch-23-434">
+          <step eid="F16_step-23-435">C</step>
+          <octave eid="F16_octave-23-436">5</octave>
+          </pitch>
+        <duration eid="F16_duration-29-437">7</duration>
+        <voice eid="F16_voice-29-438">1</voice>
+        <type eid="F16_type-29-439">half</type>
+        <dot eid="F16_dot-1-440" />
+        <dot eid="F16_dot-2-441" />
+        <stem eid="F16_stem-23-442">down</stem>
+        <notations eid="F16_notations-10-443">
+          <articulations eid="F16_articulations-0-444">
+            <accent eid="F16_accent-0-445" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="134.56" default-y="-120.00" eid="F16_note-30-446">
+        <pitch eid="F16_pitch-24-447">
+          <step eid="F16_step-24-448">C</step>
+          <octave eid="F16_octave-24-449">5</octave>
+          </pitch>
+        <duration eid="F16_duration-30-450">1</duration>
+        <voice eid="F16_voice-30-451">1</voice>
+        <type eid="F16_type-30-452">eighth</type>
+        <stem eid="F16_stem-24-453">down</stem>
+        </note>
+      </measure>
+    <measure eid="F16_measure-10-454" number="5" width="160.66">
+      <note default-x="21.38" default-y="-120.00" eid="F16_note-31-455">
+        <pitch eid="F16_pitch-25-456">
+          <step eid="F16_step-25-457">C</step>
+          <octave eid="F16_octave-25-458">5</octave>
+          </pitch>
+        <duration eid="F16_duration-31-459">7</duration>
+        <voice eid="F16_voice-31-460">1</voice>
+        <type eid="F16_type-31-461">half</type>
+        <dot eid="F16_dot-3-462" />
+        <dot eid="F16_dot-4-463" />
+        <stem eid="F16_stem-25-464">down</stem>
+        <notations eid="F16_notations-11-465">
+          <articulations eid="F16_articulations-1-466">
+            <accent eid="F16_accent-1-467" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="135.89" default-y="-120.00" eid="F16_note-32-468">
+        <pitch eid="F16_pitch-26-469">
+          <step eid="F16_step-26-470">C</step>
+          <octave eid="F16_octave-26-471">5</octave>
+          </pitch>
+        <duration eid="F16_duration-32-472">1</duration>
+        <voice eid="F16_voice-32-473">1</voice>
+        <type eid="F16_type-32-474">eighth</type>
+        <stem eid="F16_stem-26-475">down</stem>
+        </note>
+      </measure>
+    <measure eid="F16_measure-11-476" number="6" width="396.33">
+      <print eid="F16_print-3-477" new-page="yes">
+        <staff-layout eid="F16_staff-layout-1-478" number="1">
+          <staff-distance eid="F16_staff-distance-1-479">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="87.09" default-y="-120.00" eid="F16_note-33-480">
+        <pitch eid="F16_pitch-27-481">
+          <step eid="F16_step-27-482">C</step>
+          <octave eid="F16_octave-27-483">5</octave>
+          </pitch>
+        <duration eid="F16_duration-33-484">7</duration>
+        <voice eid="F16_voice-33-485">1</voice>
+        <type eid="F16_type-33-486">half</type>
+        <dot eid="F16_dot-5-487" />
+        <dot eid="F16_dot-6-488" />
+        <stem eid="F16_stem-27-489">down</stem>
+        <notations eid="F16_notations-12-490">
+          <articulations eid="F16_articulations-2-491">
+            <accent eid="F16_accent-2-492" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="349.55" default-y="-120.00" eid="F16_note-34-493">
+        <pitch eid="F16_pitch-28-494">
+          <step eid="F16_step-28-495">C</step>
+          <octave eid="F16_octave-28-496">5</octave>
+          </pitch>
+        <duration eid="F16_duration-34-497">1</duration>
+        <voice eid="F16_voice-34-498">1</voice>
+        <type eid="F16_type-34-499">eighth</type>
+        <stem eid="F16_stem-28-500">down</stem>
+        </note>
+      </measure>
+    </part>
+  <part eid="F16_part-2-501" id="P3">
+    <measure eid="F16_measure-12-502" number="1" width="316.25">
+      <print eid="F16_print-4-503">
+        <staff-layout eid="F16_staff-layout-2-504" number="1">
+          <staff-distance eid="F16_staff-distance-2-505">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes eid="F16_attributes-2-506">
+        <divisions eid="F16_divisions-2-507">2</divisions>
+        <key eid="F16_key-2-508">
+          <fifths eid="F16_fifths-2-509">1</fifths>
+          </key>
+        <clef eid="F16_clef-2-510">
+          <sign eid="F16_sign-2-511">G</sign>
+          <line eid="F16_line-2-512">2</line>
+          <clef-octave-change eid="F16_clef-octave-change-0-513">-1</clef-octave-change>
+          </clef>
+        </attributes>
+      <note default-x="69.65" default-y="-210.00" eid="F16_note-35-514">
+        <pitch eid="F16_pitch-29-515">
+          <step eid="F16_step-29-516">F</step>
+          <alter eid="F16_alter-7-517">1</alter>
+          <octave eid="F16_octave-29-518">4</octave>
+          </pitch>
+        <duration eid="F16_duration-35-519">3</duration>
+        <voice eid="F16_voice-35-520">1</voice>
+        <type eid="F16_type-35-521">quarter</type>
+        <dot eid="F16_dot-7-522" />
+        <stem eid="F16_stem-29-523">down</stem>
+        <notations eid="F16_notations-13-524">
+          <slur eid="F16_slur-10-525" number="1" type="start" />
+          <articulations eid="F16_articulations-3-526">
+            <accent eid="F16_accent-3-527" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="161.33" default-y="-215.00" eid="F16_note-36-528">
+        <pitch eid="F16_pitch-30-529">
+          <step eid="F16_step-30-530">E</step>
+          <octave eid="F16_octave-30-531">4</octave>
+          </pitch>
+        <duration eid="F16_duration-36-532">1</duration>
+        <voice eid="F16_voice-36-533">1</voice>
+        <type eid="F16_type-36-534">eighth</type>
+        <stem eid="F16_stem-30-535">down</stem>
+        <notations eid="F16_notations-14-536">
+          <slur eid="F16_slur-11-537" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="192.41" default-y="-220.00" eid="F16_note-37-538">
+        <pitch eid="F16_pitch-31-539">
+          <step eid="F16_step-31-540">D</step>
+          <octave eid="F16_octave-31-541">4</octave>
+          </pitch>
+        <duration eid="F16_duration-37-542">3</duration>
+        <voice eid="F16_voice-37-543">1</voice>
+        <type eid="F16_type-37-544">quarter</type>
+        <dot eid="F16_dot-8-545" />
+        <stem eid="F16_stem-31-546">down</stem>
+        <notations eid="F16_notations-15-547">
+          <slur eid="F16_slur-12-548" number="1" type="start" />
+          <articulations eid="F16_articulations-4-549">
+            <accent eid="F16_accent-4-550" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="284.09" default-y="-225.00" eid="F16_note-38-551">
+        <pitch eid="F16_pitch-32-552">
+          <step eid="F16_step-32-553">C</step>
+          <octave eid="F16_octave-32-554">4</octave>
+          </pitch>
+        <duration eid="F16_duration-38-555">1</duration>
+        <voice eid="F16_voice-38-556">1</voice>
+        <type eid="F16_type-38-557">eighth</type>
+        <stem eid="F16_stem-32-558">down</stem>
+        <notations eid="F16_notations-16-559">
+          <slur eid="F16_slur-13-560" number="1" type="stop" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-13-561" number="2" width="284.85">
+      <note default-x="18.42" default-y="-230.00" eid="F16_note-39-562">
+        <pitch eid="F16_pitch-33-563">
+          <step eid="F16_step-33-564">B</step>
+          <octave eid="F16_octave-33-565">3</octave>
+          </pitch>
+        <duration eid="F16_duration-39-566">3</duration>
+        <voice eid="F16_voice-39-567">1</voice>
+        <type eid="F16_type-39-568">quarter</type>
+        <dot eid="F16_dot-9-569" />
+        <stem eid="F16_stem-33-570">down</stem>
+        <notations eid="F16_notations-17-571">
+          <slur eid="F16_slur-14-572" number="1" type="start" />
+          <articulations eid="F16_articulations-5-573">
+            <accent eid="F16_accent-5-574" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="117.73" default-y="-235.00" eid="F16_note-40-575">
+        <pitch eid="F16_pitch-34-576">
+          <step eid="F16_step-34-577">A</step>
+          <octave eid="F16_octave-34-578">3</octave>
+          </pitch>
+        <duration eid="F16_duration-40-579">1</duration>
+        <voice eid="F16_voice-40-580">1</voice>
+        <type eid="F16_type-40-581">eighth</type>
+        <stem eid="F16_stem-34-582">up</stem>
+        <notations eid="F16_notations-18-583">
+          <slur eid="F16_slur-15-584" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="150.83" default-y="-240.00" eid="F16_note-41-585">
+        <pitch eid="F16_pitch-35-586">
+          <step eid="F16_step-35-587">G</step>
+          <octave eid="F16_octave-35-588">3</octave>
+          </pitch>
+        <duration eid="F16_duration-41-589">3</duration>
+        <voice eid="F16_voice-41-590">1</voice>
+        <type eid="F16_type-41-591">quarter</type>
+        <dot eid="F16_dot-10-592" />
+        <stem eid="F16_stem-35-593">up</stem>
+        <notations eid="F16_notations-19-594">
+          <slur eid="F16_slur-16-595" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="250.15" default-y="-245.00" eid="F16_note-42-596">
+        <pitch eid="F16_pitch-36-597">
+          <step eid="F16_step-36-598">F</step>
+          <alter eid="F16_alter-8-599">1</alter>
+          <octave eid="F16_octave-36-600">3</octave>
+          </pitch>
+        <duration eid="F16_duration-42-601">1</duration>
+        <voice eid="F16_voice-42-602">1</voice>
+        <type eid="F16_type-42-603">eighth</type>
+        <stem eid="F16_stem-36-604">up</stem>
+        <notations eid="F16_notations-20-605">
+          <slur eid="F16_slur-17-606" number="1" type="stop" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-14-607" number="3" width="149.91">
+      <note default-x="15.32" default-y="-225.00" eid="F16_note-43-608">
+        <pitch eid="F16_pitch-37-609">
+          <step eid="F16_step-37-610">C</step>
+          <octave eid="F16_octave-37-611">4</octave>
+          </pitch>
+        <duration eid="F16_duration-43-612">2</duration>
+        <voice eid="F16_voice-43-613">1</voice>
+        <type eid="F16_type-43-614">quarter</type>
+        <stem eid="F16_stem-37-615">down</stem>
+        </note>
+      <note eid="F16_note-44-616">
+        <rest eid="F16_rest-6-617" />
+        <duration eid="F16_duration-44-618">2</duration>
+        <voice eid="F16_voice-44-619">1</voice>
+        <type eid="F16_type-44-620">quarter</type>
+        </note>
+      <note eid="F16_note-45-621">
+        <rest eid="F16_rest-7-622" />
+        <duration eid="F16_duration-45-623">2</duration>
+        <voice eid="F16_voice-45-624">1</voice>
+        <type eid="F16_type-45-625">quarter</type>
+        </note>
+      <note default-x="115.06" default-y="-205.00" eid="F16_note-46-626">
+        <pitch eid="F16_pitch-38-627">
+          <step eid="F16_step-38-628">G</step>
+          <octave eid="F16_octave-38-629">4</octave>
+          </pitch>
+        <duration eid="F16_duration-46-630">2</duration>
+        <voice eid="F16_voice-46-631">1</voice>
+        <type eid="F16_type-46-632">quarter</type>
+        <stem eid="F16_stem-38-633">down</stem>
+        <notations eid="F16_notations-21-634">
+          <slur eid="F16_slur-18-635" number="1" type="start" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-15-636" number="4" width="159.32">
+      <note default-x="15.32" default-y="-210.00" eid="F16_note-47-637">
+        <pitch eid="F16_pitch-39-638">
+          <step eid="F16_step-39-639">F</step>
+          <alter eid="F16_alter-9-640">1</alter>
+          <octave eid="F16_octave-39-641">4</octave>
+          </pitch>
+        <duration eid="F16_duration-47-642">2</duration>
+        <voice eid="F16_voice-47-643">1</voice>
+        <type eid="F16_type-47-644">quarter</type>
+        <stem eid="F16_stem-39-645">down</stem>
+        </note>
+      <note default-x="48.21" default-y="-215.00" eid="F16_note-48-646">
+        <pitch eid="F16_pitch-40-647">
+          <step eid="F16_step-40-648">E</step>
+          <octave eid="F16_octave-40-649">4</octave>
+          </pitch>
+        <duration eid="F16_duration-48-650">2</duration>
+        <voice eid="F16_voice-48-651">1</voice>
+        <type eid="F16_type-48-652">quarter</type>
+        <stem eid="F16_stem-40-653">down</stem>
+        <notations eid="F16_notations-22-654">
+          <slur eid="F16_slur-19-655" number="1" type="stop" />
+          </notations>
+        </note>
+      <note eid="F16_note-49-656">
+        <rest eid="F16_rest-8-657" />
+        <duration eid="F16_duration-49-658">2</duration>
+        <voice eid="F16_voice-49-659">1</voice>
+        <type eid="F16_type-49-660">quarter</type>
+        </note>
+      <note default-x="114.00" default-y="-205.00" eid="F16_note-50-661">
+        <pitch eid="F16_pitch-41-662">
+          <step eid="F16_step-41-663">G</step>
+          <octave eid="F16_octave-41-664">4</octave>
+          </pitch>
+        <duration eid="F16_duration-50-665">2</duration>
+        <voice eid="F16_voice-50-666">1</voice>
+        <type eid="F16_type-50-667">quarter</type>
+        <stem eid="F16_stem-41-668">down</stem>
+        <notations eid="F16_notations-23-669">
+          <slur eid="F16_slur-20-670" number="1" type="start" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-16-671" number="5" width="160.66">
+      <note default-x="21.74" default-y="-210.00" eid="F16_note-51-672">
+        <pitch eid="F16_pitch-42-673">
+          <step eid="F16_step-42-674">F</step>
+          <alter eid="F16_alter-10-675">1</alter>
+          <octave eid="F16_octave-42-676">4</octave>
+          </pitch>
+        <duration eid="F16_duration-51-677">2</duration>
+        <voice eid="F16_voice-51-678">1</voice>
+        <type eid="F16_type-51-679">quarter</type>
+        <stem eid="F16_stem-42-680">down</stem>
+        </note>
+      <note default-x="53.23" default-y="-215.00" eid="F16_note-52-681">
+        <pitch eid="F16_pitch-43-682">
+          <step eid="F16_step-43-683">E</step>
+          <octave eid="F16_octave-43-684">4</octave>
+          </pitch>
+        <duration eid="F16_duration-52-685">2</duration>
+        <voice eid="F16_voice-52-686">1</voice>
+        <type eid="F16_type-52-687">quarter</type>
+        <stem eid="F16_stem-43-688">down</stem>
+        </note>
+      <note eid="F16_note-53-689">
+        <rest eid="F16_rest-9-690" />
+        <duration eid="F16_duration-53-691">2</duration>
+        <voice eid="F16_voice-53-692">1</voice>
+        <type eid="F16_type-53-693">quarter</type>
+        </note>
+      <note default-x="116.21" default-y="-205.00" eid="F16_note-54-694">
+        <pitch eid="F16_pitch-44-695">
+          <step eid="F16_step-44-696">G</step>
+          <octave eid="F16_octave-44-697">4</octave>
+          </pitch>
+        <duration eid="F16_duration-54-698">2</duration>
+        <voice eid="F16_voice-54-699">1</voice>
+        <type eid="F16_type-54-700">quarter</type>
+        <stem eid="F16_stem-44-701">down</stem>
+        <notations eid="F16_notations-24-702">
+          <slur eid="F16_slur-21-703" number="2" type="start" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-17-704" number="6" width="396.33">
+      <print eid="F16_print-5-705" new-page="yes">
+        <staff-layout eid="F16_staff-layout-3-706" number="1">
+          <staff-distance eid="F16_staff-distance-3-707">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="87.45" default-y="-210.00" eid="F16_note-55-708">
+        <pitch eid="F16_pitch-45-709">
+          <step eid="F16_step-45-710">F</step>
+          <alter eid="F16_alter-11-711">1</alter>
+          <octave eid="F16_octave-45-712">4</octave>
+          </pitch>
+        <duration eid="F16_duration-55-713">2</duration>
+        <voice eid="F16_voice-55-714">1</voice>
+        <type eid="F16_type-55-715">quarter</type>
+        <stem eid="F16_stem-45-716">down</stem>
+        </note>
+      <note default-x="159.75" default-y="-215.00" eid="F16_note-56-717">
+        <pitch eid="F16_pitch-46-718">
+          <step eid="F16_step-46-719">E</step>
+          <octave eid="F16_octave-46-720">4</octave>
+          </pitch>
+        <duration eid="F16_duration-56-721">2</duration>
+        <voice eid="F16_voice-56-722">1</voice>
+        <type eid="F16_type-56-723">quarter</type>
+        <stem eid="F16_stem-46-724">down</stem>
+        <notations eid="F16_notations-25-725">
+          <slur eid="F16_slur-22-726" number="2" type="stop" />
+          </notations>
+        </note>
+      <note eid="F16_note-57-727">
+        <rest eid="F16_rest-10-728" />
+        <duration eid="F16_duration-57-729">4</duration>
+        <voice eid="F16_voice-57-730">1</voice>
+        <type eid="F16_type-57-731">half</type>
+        </note>
+      </measure>
+    </part>
+  <part eid="F16_part-3-732" id="P4">
+    <measure eid="F16_measure-18-733" number="1" width="316.25">
+      <print eid="F16_print-6-734">
+        <staff-layout eid="F16_staff-layout-4-735" number="1">
+          <staff-distance eid="F16_staff-distance-4-736">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes eid="F16_attributes-3-737">
+        <divisions eid="F16_divisions-3-738">2</divisions>
+        <key eid="F16_key-3-739">
+          <fifths eid="F16_fifths-3-740">1</fifths>
+          </key>
+        <clef eid="F16_clef-3-741">
+          <sign eid="F16_sign-3-742">G</sign>
+          <line eid="F16_line-3-743">2</line>
+          </clef>
+        </attributes>
+      <note default-x="69.65" default-y="-315.00" eid="F16_note-58-744">
+        <pitch eid="F16_pitch-47-745">
+          <step eid="F16_step-47-746">F</step>
+          <alter eid="F16_alter-12-747">1</alter>
+          <octave eid="F16_octave-47-748">5</octave>
+          </pitch>
+        <duration eid="F16_duration-58-749">1</duration>
+        <voice eid="F16_voice-58-750">1</voice>
+        <type eid="F16_type-58-751">eighth</type>
+        <stem eid="F16_stem-47-752">down</stem>
+        <beam eid="F16_beam-0-753" number="1">begin</beam>
+        <notations eid="F16_notations-26-754">
+          <slur eid="F16_slur-23-755" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="100.21" default-y="-320.00" eid="F16_note-59-756">
+        <pitch eid="F16_pitch-48-757">
+          <step eid="F16_step-48-758">E</step>
+          <octave eid="F16_octave-48-759">5</octave>
+          </pitch>
+        <duration eid="F16_duration-59-760">1</duration>
+        <voice eid="F16_voice-59-761">1</voice>
+        <type eid="F16_type-59-762">eighth</type>
+        <stem eid="F16_stem-48-763">down</stem>
+        <beam eid="F16_beam-1-764" number="1">continue</beam>
+        <notations eid="F16_notations-27-765">
+          <slur eid="F16_slur-24-766" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="130.77" default-y="-315.00" eid="F16_note-60-767">
+        <pitch eid="F16_pitch-49-768">
+          <step eid="F16_step-49-769">F</step>
+          <alter eid="F16_alter-13-770">1</alter>
+          <octave eid="F16_octave-49-771">5</octave>
+          </pitch>
+        <duration eid="F16_duration-60-772">1</duration>
+        <voice eid="F16_voice-60-773">1</voice>
+        <type eid="F16_type-60-774">eighth</type>
+        <stem eid="F16_stem-49-775">down</stem>
+        <beam eid="F16_beam-2-776" number="1">continue</beam>
+        <notations eid="F16_notations-28-777">
+          <articulations eid="F16_articulations-6-778">
+            <staccato eid="F16_staccato-0-779" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="161.33" default-y="-320.00" eid="F16_note-61-780">
+        <pitch eid="F16_pitch-50-781">
+          <step eid="F16_step-50-782">E</step>
+          <octave eid="F16_octave-50-783">5</octave>
+          </pitch>
+        <duration eid="F16_duration-61-784">1</duration>
+        <voice eid="F16_voice-61-785">1</voice>
+        <type eid="F16_type-61-786">eighth</type>
+        <stem eid="F16_stem-50-787">down</stem>
+        <beam eid="F16_beam-3-788" number="1">end</beam>
+        <notations eid="F16_notations-29-789">
+          <articulations eid="F16_articulations-7-790">
+            <staccato eid="F16_staccato-1-791" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="192.41" default-y="-325.00" eid="F16_note-62-792">
+        <pitch eid="F16_pitch-51-793">
+          <step eid="F16_step-51-794">D</step>
+          <octave eid="F16_octave-51-795">5</octave>
+          </pitch>
+        <duration eid="F16_duration-62-796">1</duration>
+        <voice eid="F16_voice-62-797">1</voice>
+        <type eid="F16_type-62-798">eighth</type>
+        <stem eid="F16_stem-51-799">down</stem>
+        <beam eid="F16_beam-4-800" number="1">begin</beam>
+        <notations eid="F16_notations-30-801">
+          <slur eid="F16_slur-25-802" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="222.97" default-y="-330.00" eid="F16_note-63-803">
+        <pitch eid="F16_pitch-52-804">
+          <step eid="F16_step-52-805">C</step>
+          <octave eid="F16_octave-52-806">5</octave>
+          </pitch>
+        <duration eid="F16_duration-63-807">1</duration>
+        <voice eid="F16_voice-63-808">1</voice>
+        <type eid="F16_type-63-809">eighth</type>
+        <stem eid="F16_stem-52-810">down</stem>
+        <beam eid="F16_beam-5-811" number="1">continue</beam>
+        <notations eid="F16_notations-31-812">
+          <slur eid="F16_slur-26-813" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="253.53" default-y="-325.00" eid="F16_note-64-814">
+        <pitch eid="F16_pitch-53-815">
+          <step eid="F16_step-53-816">D</step>
+          <octave eid="F16_octave-53-817">5</octave>
+          </pitch>
+        <duration eid="F16_duration-64-818">1</duration>
+        <voice eid="F16_voice-64-819">1</voice>
+        <type eid="F16_type-64-820">eighth</type>
+        <stem eid="F16_stem-53-821">down</stem>
+        <beam eid="F16_beam-6-822" number="1">continue</beam>
+        <notations eid="F16_notations-32-823">
+          <articulations eid="F16_articulations-8-824">
+            <staccato eid="F16_staccato-2-825" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="284.09" default-y="-330.00" eid="F16_note-65-826">
+        <pitch eid="F16_pitch-54-827">
+          <step eid="F16_step-54-828">C</step>
+          <octave eid="F16_octave-54-829">5</octave>
+          </pitch>
+        <duration eid="F16_duration-65-830">1</duration>
+        <voice eid="F16_voice-65-831">1</voice>
+        <type eid="F16_type-65-832">eighth</type>
+        <stem eid="F16_stem-54-833">down</stem>
+        <beam eid="F16_beam-7-834" number="1">end</beam>
+        <notations eid="F16_notations-33-835">
+          <articulations eid="F16_articulations-9-836">
+            <staccato eid="F16_staccato-3-837" />
+            </articulations>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-19-838" number="2" width="284.85">
+      <note default-x="18.42" default-y="-335.00" eid="F16_note-66-839">
+        <pitch eid="F16_pitch-55-840">
+          <step eid="F16_step-55-841">B</step>
+          <octave eid="F16_octave-55-842">4</octave>
+          </pitch>
+        <duration eid="F16_duration-66-843">1</duration>
+        <voice eid="F16_voice-66-844">1</voice>
+        <type eid="F16_type-66-845">eighth</type>
+        <stem eid="F16_stem-55-846">up</stem>
+        <beam eid="F16_beam-8-847" number="1">begin</beam>
+        <notations eid="F16_notations-34-848">
+          <slur eid="F16_slur-27-849" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="51.52" default-y="-340.00" eid="F16_note-67-850">
+        <pitch eid="F16_pitch-56-851">
+          <step eid="F16_step-56-852">A</step>
+          <octave eid="F16_octave-56-853">4</octave>
+          </pitch>
+        <duration eid="F16_duration-67-854">1</duration>
+        <voice eid="F16_voice-67-855">1</voice>
+        <type eid="F16_type-67-856">eighth</type>
+        <stem eid="F16_stem-56-857">up</stem>
+        <beam eid="F16_beam-9-858" number="1">continue</beam>
+        <notations eid="F16_notations-35-859">
+          <slur eid="F16_slur-28-860" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="84.62" default-y="-335.00" eid="F16_note-68-861">
+        <pitch eid="F16_pitch-57-862">
+          <step eid="F16_step-57-863">B</step>
+          <octave eid="F16_octave-57-864">4</octave>
+          </pitch>
+        <duration eid="F16_duration-68-865">1</duration>
+        <voice eid="F16_voice-68-866">1</voice>
+        <type eid="F16_type-68-867">eighth</type>
+        <stem eid="F16_stem-57-868">up</stem>
+        <beam eid="F16_beam-10-869" number="1">continue</beam>
+        <notations eid="F16_notations-36-870">
+          <articulations eid="F16_articulations-10-871">
+            <staccato eid="F16_staccato-4-872" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="117.73" default-y="-340.00" eid="F16_note-69-873">
+        <pitch eid="F16_pitch-58-874">
+          <step eid="F16_step-58-875">A</step>
+          <octave eid="F16_octave-58-876">4</octave>
+          </pitch>
+        <duration eid="F16_duration-69-877">1</duration>
+        <voice eid="F16_voice-69-878">1</voice>
+        <type eid="F16_type-69-879">eighth</type>
+        <stem eid="F16_stem-58-880">up</stem>
+        <beam eid="F16_beam-11-881" number="1">end</beam>
+        <notations eid="F16_notations-37-882">
+          <articulations eid="F16_articulations-11-883">
+            <staccato eid="F16_staccato-5-884" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="150.83" default-y="-345.00" eid="F16_note-70-885">
+        <pitch eid="F16_pitch-59-886">
+          <step eid="F16_step-59-887">G</step>
+          <octave eid="F16_octave-59-888">4</octave>
+          </pitch>
+        <duration eid="F16_duration-70-889">1</duration>
+        <voice eid="F16_voice-70-890">1</voice>
+        <type eid="F16_type-70-891">eighth</type>
+        <stem eid="F16_stem-59-892">up</stem>
+        <beam eid="F16_beam-12-893" number="1">begin</beam>
+        <notations eid="F16_notations-38-894">
+          <slur eid="F16_slur-29-895" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="183.94" default-y="-350.00" eid="F16_note-71-896">
+        <pitch eid="F16_pitch-60-897">
+          <step eid="F16_step-60-898">F</step>
+          <alter eid="F16_alter-14-899">1</alter>
+          <octave eid="F16_octave-60-900">4</octave>
+          </pitch>
+        <duration eid="F16_duration-71-901">1</duration>
+        <voice eid="F16_voice-71-902">1</voice>
+        <type eid="F16_type-71-903">eighth</type>
+        <stem eid="F16_stem-60-904">up</stem>
+        <beam eid="F16_beam-13-905" number="1">continue</beam>
+        <notations eid="F16_notations-39-906">
+          <slur eid="F16_slur-30-907" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="217.04" default-y="-345.00" eid="F16_note-72-908">
+        <pitch eid="F16_pitch-61-909">
+          <step eid="F16_step-61-910">G</step>
+          <octave eid="F16_octave-61-911">4</octave>
+          </pitch>
+        <duration eid="F16_duration-72-912">1</duration>
+        <voice eid="F16_voice-72-913">1</voice>
+        <type eid="F16_type-72-914">eighth</type>
+        <stem eid="F16_stem-61-915">up</stem>
+        <beam eid="F16_beam-14-916" number="1">continue</beam>
+        <notations eid="F16_notations-40-917">
+          <articulations eid="F16_articulations-12-918">
+            <staccato eid="F16_staccato-6-919" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="250.15" default-y="-350.00" eid="F16_note-73-920">
+        <pitch eid="F16_pitch-62-921">
+          <step eid="F16_step-62-922">F</step>
+          <alter eid="F16_alter-15-923">1</alter>
+          <octave eid="F16_octave-62-924">4</octave>
+          </pitch>
+        <duration eid="F16_duration-73-925">1</duration>
+        <voice eid="F16_voice-73-926">1</voice>
+        <type eid="F16_type-73-927">eighth</type>
+        <stem eid="F16_stem-62-928">up</stem>
+        <beam eid="F16_beam-15-929" number="1">end</beam>
+        <notations eid="F16_notations-41-930">
+          <articulations eid="F16_articulations-13-931">
+            <staccato eid="F16_staccato-7-932" />
+            </articulations>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-20-933" number="3" width="149.91">
+      <note default-x="15.32" default-y="-355.00" eid="F16_note-74-934">
+        <pitch eid="F16_pitch-63-935">
+          <step eid="F16_step-63-936">E</step>
+          <octave eid="F16_octave-63-937">4</octave>
+          </pitch>
+        <duration eid="F16_duration-74-938">2</duration>
+        <voice eid="F16_voice-74-939">1</voice>
+        <type eid="F16_type-74-940">quarter</type>
+        <stem eid="F16_stem-63-941">up</stem>
+        </note>
+      <direction eid="F16_direction-8-942" placement="below">
+        <direction-type eid="F16_direction-type-8-943">
+          <dynamics eid="F16_dynamics-0-944">
+            <ff eid="F16_ff-0-945" />
+            </dynamics>
+          </direction-type>
+        <sound dynamics="124.44" eid="F16_sound-0-946" />
+        </direction>
+      <direction eid="F16_direction-9-947" placement="below">
+        <direction-type eid="F16_direction-type-9-948">
+          <wedge eid="F16_wedge-8-949" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="48.57" default-y="-310.00" eid="F16_note-75-950">
+        <pitch eid="F16_pitch-64-951">
+          <step eid="F16_step-64-952">G</step>
+          <octave eid="F16_octave-64-953">5</octave>
+          </pitch>
+        <duration eid="F16_duration-75-954">2</duration>
+        <voice eid="F16_voice-75-955">1</voice>
+        <type eid="F16_type-75-956">quarter</type>
+        <stem eid="F16_stem-64-957">down</stem>
+        <notations eid="F16_notations-42-958">
+          <slur eid="F16_slur-31-959" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="81.81" default-y="-315.00" eid="F16_note-76-960">
+        <pitch eid="F16_pitch-65-961">
+          <step eid="F16_step-65-962">F</step>
+          <alter eid="F16_alter-16-963">1</alter>
+          <octave eid="F16_octave-65-964">5</octave>
+          </pitch>
+        <duration eid="F16_duration-76-965">2</duration>
+        <voice eid="F16_voice-76-966">1</voice>
+        <type eid="F16_type-76-967">quarter</type>
+        <stem eid="F16_stem-65-968">down</stem>
+        </note>
+      <note default-x="115.06" default-y="-320.00" eid="F16_note-77-969">
+        <pitch eid="F16_pitch-66-970">
+          <step eid="F16_step-66-971">E</step>
+          <octave eid="F16_octave-66-972">5</octave>
+          </pitch>
+        <duration eid="F16_duration-77-973">2</duration>
+        <voice eid="F16_voice-77-974">1</voice>
+        <type eid="F16_type-77-975">quarter</type>
+        <stem eid="F16_stem-66-976">down</stem>
+        <notations eid="F16_notations-43-977">
+          <slur eid="F16_slur-32-978" number="2" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-10-979" placement="below">
+        <direction-type eid="F16_direction-type-10-980">
+          <wedge eid="F16_wedge-9-981" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      </measure>
+    <measure eid="F16_measure-21-982" number="4" width="159.32">
+      <note eid="F16_note-78-983">
+        <rest eid="F16_rest-11-984" />
+        <duration eid="F16_duration-78-985">2</duration>
+        <voice eid="F16_voice-78-986">1</voice>
+        <type eid="F16_type-78-987">quarter</type>
+        </note>
+      <direction eid="F16_direction-11-988" placement="below">
+        <direction-type eid="F16_direction-type-11-989">
+          <wedge eid="F16_wedge-10-990" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="48.21" default-y="-310.00" eid="F16_note-79-991">
+        <pitch eid="F16_pitch-67-992">
+          <step eid="F16_step-67-993">G</step>
+          <octave eid="F16_octave-67-994">5</octave>
+          </pitch>
+        <duration eid="F16_duration-79-995">2</duration>
+        <voice eid="F16_voice-79-996">1</voice>
+        <type eid="F16_type-79-997">quarter</type>
+        <stem eid="F16_stem-67-998">down</stem>
+        <notations eid="F16_notations-44-999">
+          <slur eid="F16_slur-33-1000" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="81.11" default-y="-315.00" eid="F16_note-80-1001">
+        <pitch eid="F16_pitch-68-1002">
+          <step eid="F16_step-68-1003">F</step>
+          <alter eid="F16_alter-17-1004">1</alter>
+          <octave eid="F16_octave-68-1005">5</octave>
+          </pitch>
+        <duration eid="F16_duration-80-1006">2</duration>
+        <voice eid="F16_voice-80-1007">1</voice>
+        <type eid="F16_type-80-1008">quarter</type>
+        <stem eid="F16_stem-68-1009">down</stem>
+        </note>
+      <note default-x="114.00" default-y="-320.00" eid="F16_note-81-1010">
+        <pitch eid="F16_pitch-69-1011">
+          <step eid="F16_step-69-1012">E</step>
+          <octave eid="F16_octave-69-1013">5</octave>
+          </pitch>
+        <duration eid="F16_duration-81-1014">2</duration>
+        <voice eid="F16_voice-81-1015">1</voice>
+        <type eid="F16_type-81-1016">quarter</type>
+        <stem eid="F16_stem-69-1017">down</stem>
+        <notations eid="F16_notations-45-1018">
+          <slur eid="F16_slur-34-1019" number="2" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-12-1020" placement="below">
+        <direction-type eid="F16_direction-type-12-1021">
+          <wedge eid="F16_wedge-11-1022" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      </measure>
+    <measure eid="F16_measure-22-1023" number="5" width="160.66">
+      <note eid="F16_note-82-1024">
+        <rest eid="F16_rest-12-1025" />
+        <duration eid="F16_duration-82-1026">2</duration>
+        <voice eid="F16_voice-82-1027">1</voice>
+        <type eid="F16_type-82-1028">quarter</type>
+        </note>
+      <direction eid="F16_direction-13-1029" placement="below">
+        <direction-type eid="F16_direction-type-13-1030">
+          <wedge eid="F16_wedge-12-1031" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="53.23" default-y="-310.00" eid="F16_note-83-1032">
+        <pitch eid="F16_pitch-70-1033">
+          <step eid="F16_step-70-1034">G</step>
+          <octave eid="F16_octave-70-1035">5</octave>
+          </pitch>
+        <duration eid="F16_duration-83-1036">2</duration>
+        <voice eid="F16_voice-83-1037">1</voice>
+        <type eid="F16_type-83-1038">quarter</type>
+        <stem eid="F16_stem-70-1039">down</stem>
+        <notations eid="F16_notations-46-1040">
+          <slur eid="F16_slur-35-1041" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="84.72" default-y="-315.00" eid="F16_note-84-1042">
+        <pitch eid="F16_pitch-71-1043">
+          <step eid="F16_step-71-1044">F</step>
+          <alter eid="F16_alter-18-1045">1</alter>
+          <octave eid="F16_octave-71-1046">5</octave>
+          </pitch>
+        <duration eid="F16_duration-84-1047">2</duration>
+        <voice eid="F16_voice-84-1048">1</voice>
+        <type eid="F16_type-84-1049">quarter</type>
+        <stem eid="F16_stem-71-1050">down</stem>
+        </note>
+      <note default-x="116.21" default-y="-320.00" eid="F16_note-85-1051">
+        <pitch eid="F16_pitch-72-1052">
+          <step eid="F16_step-72-1053">E</step>
+          <octave eid="F16_octave-72-1054">5</octave>
+          </pitch>
+        <duration eid="F16_duration-85-1055">2</duration>
+        <voice eid="F16_voice-85-1056">1</voice>
+        <type eid="F16_type-85-1057">quarter</type>
+        <stem eid="F16_stem-72-1058">down</stem>
+        <notations eid="F16_notations-47-1059">
+          <slur eid="F16_slur-36-1060" number="2" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-14-1061" placement="below">
+        <direction-type eid="F16_direction-type-14-1062">
+          <wedge eid="F16_wedge-13-1063" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      </measure>
+    <measure eid="F16_measure-23-1064" number="6" width="396.33">
+      <print eid="F16_print-7-1065" new-page="yes">
+        <staff-layout eid="F16_staff-layout-5-1066" number="1">
+          <staff-distance eid="F16_staff-distance-5-1067">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <note eid="F16_note-86-1068">
+        <rest eid="F16_rest-13-1069" />
+        <duration eid="F16_duration-86-1070">2</duration>
+        <voice eid="F16_voice-86-1071">1</voice>
+        <type eid="F16_type-86-1072">quarter</type>
+        </note>
+      <direction eid="F16_direction-15-1073" placement="below">
+        <direction-type eid="F16_direction-type-15-1074">
+          <wedge eid="F16_wedge-14-1075" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="159.75" default-y="-310.00" eid="F16_note-87-1076">
+        <pitch eid="F16_pitch-73-1077">
+          <step eid="F16_step-73-1078">G</step>
+          <octave eid="F16_octave-73-1079">5</octave>
+          </pitch>
+        <duration eid="F16_duration-87-1080">2</duration>
+        <voice eid="F16_voice-87-1081">1</voice>
+        <type eid="F16_type-87-1082">quarter</type>
+        <stem eid="F16_stem-73-1083">down</stem>
+        <notations eid="F16_notations-48-1084">
+          <slur eid="F16_slur-37-1085" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="232.06" default-y="-315.00" eid="F16_note-88-1086">
+        <pitch eid="F16_pitch-74-1087">
+          <step eid="F16_step-74-1088">F</step>
+          <alter eid="F16_alter-19-1089">1</alter>
+          <octave eid="F16_octave-74-1090">5</octave>
+          </pitch>
+        <duration eid="F16_duration-88-1091">2</duration>
+        <voice eid="F16_voice-88-1092">1</voice>
+        <type eid="F16_type-88-1093">quarter</type>
+        <stem eid="F16_stem-74-1094">down</stem>
+        </note>
+      <note default-x="304.36" default-y="-320.00" eid="F16_note-89-1095">
+        <pitch eid="F16_pitch-75-1096">
+          <step eid="F16_step-75-1097">E</step>
+          <octave eid="F16_octave-75-1098">5</octave>
+          </pitch>
+        <duration eid="F16_duration-89-1099">2</duration>
+        <voice eid="F16_voice-89-1100">1</voice>
+        <type eid="F16_type-89-1101">quarter</type>
+        <stem eid="F16_stem-75-1102">down</stem>
+        <notations eid="F16_notations-49-1103">
+          <slur eid="F16_slur-38-1104" number="2" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-16-1105" placement="below">
+        <direction-type eid="F16_direction-type-16-1106">
+          <wedge eid="F16_wedge-15-1107" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      </measure>
+    </part>
+  <part eid="F16_part-4-1108" id="P5">
+    <measure eid="F16_measure-24-1109" number="1" width="316.25">
+      <print eid="F16_print-8-1110">
+        <staff-layout eid="F16_staff-layout-6-1111" number="1">
+          <staff-distance eid="F16_staff-distance-6-1112">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes eid="F16_attributes-4-1113">
+        <divisions eid="F16_divisions-4-1114">2</divisions>
+        <key eid="F16_key-4-1115">
+          <fifths eid="F16_fifths-4-1116">1</fifths>
+          </key>
+        <clef eid="F16_clef-4-1117">
+          <sign eid="F16_sign-4-1118">G</sign>
+          <line eid="F16_line-4-1119">2</line>
+          </clef>
+        </attributes>
+      <note default-x="69.65" default-y="-445.00" eid="F16_note-90-1120">
+        <pitch eid="F16_pitch-76-1121">
+          <step eid="F16_step-76-1122">A</step>
+          <octave eid="F16_octave-76-1123">4</octave>
+          </pitch>
+        <duration eid="F16_duration-90-1124">1</duration>
+        <voice eid="F16_voice-90-1125">1</voice>
+        <type eid="F16_type-90-1126">eighth</type>
+        <stem eid="F16_stem-76-1127">up</stem>
+        <beam eid="F16_beam-16-1128" number="1">begin</beam>
+        </note>
+      <note default-x="100.21" default-y="-460.00" eid="F16_note-91-1129">
+        <pitch eid="F16_pitch-77-1130">
+          <step eid="F16_step-77-1131">E</step>
+          <octave eid="F16_octave-77-1132">4</octave>
+          </pitch>
+        <duration eid="F16_duration-91-1133">1</duration>
+        <voice eid="F16_voice-91-1134">1</voice>
+        <type eid="F16_type-91-1135">eighth</type>
+        <stem eid="F16_stem-77-1136">up</stem>
+        <beam eid="F16_beam-17-1137" number="1">continue</beam>
+        </note>
+      <note default-x="130.77" default-y="-460.00" eid="F16_note-92-1138">
+        <pitch eid="F16_pitch-78-1139">
+          <step eid="F16_step-78-1140">E</step>
+          <octave eid="F16_octave-78-1141">4</octave>
+          </pitch>
+        <duration eid="F16_duration-92-1142">1</duration>
+        <voice eid="F16_voice-92-1143">1</voice>
+        <type eid="F16_type-92-1144">eighth</type>
+        <stem eid="F16_stem-78-1145">up</stem>
+        <beam eid="F16_beam-18-1146" number="1">continue</beam>
+        <notations eid="F16_notations-50-1147">
+          <articulations eid="F16_articulations-14-1148">
+            <staccato eid="F16_staccato-8-1149" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="161.33" default-y="-460.00" eid="F16_note-93-1150">
+        <pitch eid="F16_pitch-79-1151">
+          <step eid="F16_step-79-1152">E</step>
+          <octave eid="F16_octave-79-1153">4</octave>
+          </pitch>
+        <duration eid="F16_duration-93-1154">1</duration>
+        <voice eid="F16_voice-93-1155">1</voice>
+        <type eid="F16_type-93-1156">eighth</type>
+        <stem eid="F16_stem-79-1157">up</stem>
+        <beam eid="F16_beam-19-1158" number="1">end</beam>
+        <notations eid="F16_notations-51-1159">
+          <articulations eid="F16_articulations-15-1160">
+            <staccato eid="F16_staccato-9-1161" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="192.41" default-y="-460.00" eid="F16_note-94-1162">
+        <pitch eid="F16_pitch-80-1163">
+          <step eid="F16_step-80-1164">E</step>
+          <octave eid="F16_octave-80-1165">4</octave>
+          </pitch>
+        <duration eid="F16_duration-94-1166">1</duration>
+        <voice eid="F16_voice-94-1167">1</voice>
+        <type eid="F16_type-94-1168">eighth</type>
+        <stem eid="F16_stem-80-1169">up</stem>
+        <beam eid="F16_beam-20-1170" number="1">begin</beam>
+        <notations eid="F16_notations-52-1171">
+          <slur eid="F16_slur-39-1172" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="222.97" default-y="-470.00" eid="F16_note-95-1173">
+        <pitch eid="F16_pitch-81-1174">
+          <step eid="F16_step-81-1175">C</step>
+          <octave eid="F16_octave-81-1176">4</octave>
+          </pitch>
+        <duration eid="F16_duration-95-1177">1</duration>
+        <voice eid="F16_voice-95-1178">1</voice>
+        <type eid="F16_type-95-1179">eighth</type>
+        <stem eid="F16_stem-81-1180">up</stem>
+        <beam eid="F16_beam-21-1181" number="1">continue</beam>
+        <notations eid="F16_notations-53-1182">
+          <slur eid="F16_slur-40-1183" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="253.53" default-y="-470.00" eid="F16_note-96-1184">
+        <pitch eid="F16_pitch-82-1185">
+          <step eid="F16_step-82-1186">C</step>
+          <octave eid="F16_octave-82-1187">4</octave>
+          </pitch>
+        <duration eid="F16_duration-96-1188">1</duration>
+        <voice eid="F16_voice-96-1189">1</voice>
+        <type eid="F16_type-96-1190">eighth</type>
+        <stem eid="F16_stem-82-1191">up</stem>
+        <beam eid="F16_beam-22-1192" number="1">continue</beam>
+        <notations eid="F16_notations-54-1193">
+          <articulations eid="F16_articulations-16-1194">
+            <staccato eid="F16_staccato-10-1195" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="284.09" default-y="-470.00" eid="F16_note-97-1196">
+        <pitch eid="F16_pitch-83-1197">
+          <step eid="F16_step-83-1198">C</step>
+          <octave eid="F16_octave-83-1199">4</octave>
+          </pitch>
+        <duration eid="F16_duration-97-1200">1</duration>
+        <voice eid="F16_voice-97-1201">1</voice>
+        <type eid="F16_type-97-1202">eighth</type>
+        <stem eid="F16_stem-83-1203">up</stem>
+        <beam eid="F16_beam-23-1204" number="1">end</beam>
+        <notations eid="F16_notations-55-1205">
+          <articulations eid="F16_articulations-17-1206">
+            <staccato eid="F16_staccato-11-1207" />
+            </articulations>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-25-1208" number="2" width="284.85">
+      <note default-x="18.42" default-y="-470.00" eid="F16_note-98-1209">
+        <pitch eid="F16_pitch-84-1210">
+          <step eid="F16_step-84-1211">C</step>
+          <octave eid="F16_octave-84-1212">4</octave>
+          </pitch>
+        <duration eid="F16_duration-98-1213">1</duration>
+        <voice eid="F16_voice-98-1214">1</voice>
+        <type eid="F16_type-98-1215">eighth</type>
+        <stem eid="F16_stem-84-1216">up</stem>
+        <beam eid="F16_beam-24-1217" number="1">begin</beam>
+        <notations eid="F16_notations-56-1218">
+          <slur eid="F16_slur-41-1219" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="51.52" default-y="-480.00" eid="F16_note-99-1220">
+        <pitch eid="F16_pitch-85-1221">
+          <step eid="F16_step-85-1222">A</step>
+          <octave eid="F16_octave-85-1223">3</octave>
+          </pitch>
+        <duration eid="F16_duration-99-1224">1</duration>
+        <voice eid="F16_voice-99-1225">1</voice>
+        <type eid="F16_type-99-1226">eighth</type>
+        <stem eid="F16_stem-85-1227">up</stem>
+        <beam eid="F16_beam-25-1228" number="1">continue</beam>
+        <notations eid="F16_notations-57-1229">
+          <slur eid="F16_slur-42-1230" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="84.62" default-y="-470.00" eid="F16_note-100-1231">
+        <pitch eid="F16_pitch-86-1232">
+          <step eid="F16_step-86-1233">C</step>
+          <octave eid="F16_octave-86-1234">4</octave>
+          </pitch>
+        <duration eid="F16_duration-100-1235">1</duration>
+        <voice eid="F16_voice-100-1236">1</voice>
+        <type eid="F16_type-100-1237">eighth</type>
+        <stem eid="F16_stem-86-1238">up</stem>
+        <beam eid="F16_beam-26-1239" number="1">continue</beam>
+        <notations eid="F16_notations-58-1240">
+          <slur eid="F16_slur-43-1241" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="117.73" default-y="-480.00" eid="F16_note-101-1242">
+        <pitch eid="F16_pitch-87-1243">
+          <step eid="F16_step-87-1244">A</step>
+          <octave eid="F16_octave-87-1245">3</octave>
+          </pitch>
+        <duration eid="F16_duration-101-1246">1</duration>
+        <voice eid="F16_voice-101-1247">1</voice>
+        <type eid="F16_type-101-1248">eighth</type>
+        <stem eid="F16_stem-87-1249">up</stem>
+        <beam eid="F16_beam-27-1250" number="1">end</beam>
+        <notations eid="F16_notations-59-1251">
+          <slur eid="F16_slur-44-1252" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="150.83" default-y="-475.00" eid="F16_note-102-1253">
+        <pitch eid="F16_pitch-88-1254">
+          <step eid="F16_step-88-1255">B</step>
+          <octave eid="F16_octave-88-1256">3</octave>
+          </pitch>
+        <duration eid="F16_duration-102-1257">1</duration>
+        <voice eid="F16_voice-102-1258">1</voice>
+        <type eid="F16_type-102-1259">eighth</type>
+        <stem eid="F16_stem-88-1260">up</stem>
+        <beam eid="F16_beam-28-1261" number="1">begin</beam>
+        <notations eid="F16_notations-60-1262">
+          <slur eid="F16_slur-45-1263" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="183.94" default-y="-480.00" eid="F16_note-103-1264">
+        <pitch eid="F16_pitch-89-1265">
+          <step eid="F16_step-89-1266">A</step>
+          <octave eid="F16_octave-89-1267">3</octave>
+          </pitch>
+        <duration eid="F16_duration-103-1268">1</duration>
+        <voice eid="F16_voice-103-1269">1</voice>
+        <type eid="F16_type-103-1270">eighth</type>
+        <stem eid="F16_stem-89-1271">up</stem>
+        <beam eid="F16_beam-29-1272" number="1">continue</beam>
+        <notations eid="F16_notations-61-1273">
+          <slur eid="F16_slur-46-1274" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="217.04" default-y="-475.00" eid="F16_note-104-1275">
+        <pitch eid="F16_pitch-90-1276">
+          <step eid="F16_step-90-1277">B</step>
+          <octave eid="F16_octave-90-1278">3</octave>
+          </pitch>
+        <duration eid="F16_duration-104-1279">1</duration>
+        <voice eid="F16_voice-104-1280">1</voice>
+        <type eid="F16_type-104-1281">eighth</type>
+        <stem eid="F16_stem-90-1282">up</stem>
+        <beam eid="F16_beam-30-1283" number="1">continue</beam>
+        <notations eid="F16_notations-62-1284">
+          <slur eid="F16_slur-47-1285" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="250.15" default-y="-480.00" eid="F16_note-105-1286">
+        <pitch eid="F16_pitch-91-1287">
+          <step eid="F16_step-91-1288">A</step>
+          <octave eid="F16_octave-91-1289">3</octave>
+          </pitch>
+        <duration eid="F16_duration-105-1290">1</duration>
+        <voice eid="F16_voice-105-1291">1</voice>
+        <type eid="F16_type-105-1292">eighth</type>
+        <stem eid="F16_stem-91-1293">up</stem>
+        <beam eid="F16_beam-31-1294" number="1">end</beam>
+        <notations eid="F16_notations-63-1295">
+          <slur eid="F16_slur-48-1296" number="2" type="stop" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-26-1297" number="3" width="149.91">
+      <note default-x="14.96" default-y="-470.00" eid="F16_note-106-1298">
+        <pitch eid="F16_pitch-92-1299">
+          <step eid="F16_step-92-1300">C</step>
+          <octave eid="F16_octave-92-1301">4</octave>
+          </pitch>
+        <duration eid="F16_duration-106-1302">2</duration>
+        <voice eid="F16_voice-106-1303">1</voice>
+        <type eid="F16_type-106-1304">half</type>
+        <time-modification eid="F16_time-modification-0-1305">
+          <actual-notes eid="F16_actual-notes-0-1306">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-0-1307">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-92-1308">up</stem>
+        <notations eid="F16_notations-64-1309">
+          <slur eid="F16_slur-49-1310" number="2" type="start" />
+          <ornaments eid="F16_ornaments-0-1311">
+            <tremolo eid="F16_tremolo-0-1312" type="start">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="48.21" default-y="-460.00" eid="F16_note-107-1313">
+        <pitch eid="F16_pitch-93-1314">
+          <step eid="F16_step-93-1315">E</step>
+          <octave eid="F16_octave-93-1316">4</octave>
+          </pitch>
+        <duration eid="F16_duration-107-1317">2</duration>
+        <voice eid="F16_voice-107-1318">1</voice>
+        <type eid="F16_type-107-1319">half</type>
+        <time-modification eid="F16_time-modification-1-1320">
+          <actual-notes eid="F16_actual-notes-1-1321">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-1-1322">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-93-1323">up</stem>
+        <notations eid="F16_notations-65-1324">
+          <slur eid="F16_slur-50-1325" number="2" type="stop" />
+          <ornaments eid="F16_ornaments-1-1326">
+            <tremolo eid="F16_tremolo-1-1327" type="stop">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="81.45" default-y="-470.00" eid="F16_note-108-1328">
+        <pitch eid="F16_pitch-94-1329">
+          <step eid="F16_step-94-1330">C</step>
+          <octave eid="F16_octave-94-1331">4</octave>
+          </pitch>
+        <duration eid="F16_duration-108-1332">2</duration>
+        <voice eid="F16_voice-108-1333">1</voice>
+        <type eid="F16_type-108-1334">half</type>
+        <time-modification eid="F16_time-modification-2-1335">
+          <actual-notes eid="F16_actual-notes-2-1336">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-2-1337">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-94-1338">up</stem>
+        <notations eid="F16_notations-66-1339">
+          <slur eid="F16_slur-51-1340" number="2" type="start" />
+          <ornaments eid="F16_ornaments-2-1341">
+            <tremolo eid="F16_tremolo-2-1342" type="start">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="114.70" default-y="-460.00" eid="F16_note-109-1343">
+        <pitch eid="F16_pitch-95-1344">
+          <step eid="F16_step-95-1345">E</step>
+          <octave eid="F16_octave-95-1346">4</octave>
+          </pitch>
+        <duration eid="F16_duration-109-1347">2</duration>
+        <voice eid="F16_voice-109-1348">1</voice>
+        <type eid="F16_type-109-1349">half</type>
+        <time-modification eid="F16_time-modification-3-1350">
+          <actual-notes eid="F16_actual-notes-3-1351">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-3-1352">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-95-1353">up</stem>
+        <notations eid="F16_notations-67-1354">
+          <slur eid="F16_slur-52-1355" number="2" type="stop" />
+          <ornaments eid="F16_ornaments-3-1356">
+            <tremolo eid="F16_tremolo-3-1357" type="stop">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-27-1358" number="4" width="159.32">
+      <note default-x="14.96" default-y="-470.00" eid="F16_note-110-1359">
+        <pitch eid="F16_pitch-96-1360">
+          <step eid="F16_step-96-1361">C</step>
+          <octave eid="F16_octave-96-1362">4</octave>
+          </pitch>
+        <duration eid="F16_duration-110-1363">2</duration>
+        <voice eid="F16_voice-110-1364">1</voice>
+        <type eid="F16_type-110-1365">half</type>
+        <time-modification eid="F16_time-modification-4-1366">
+          <actual-notes eid="F16_actual-notes-4-1367">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-4-1368">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-96-1369">up</stem>
+        <notations eid="F16_notations-68-1370">
+          <slur eid="F16_slur-53-1371" number="2" type="start" />
+          <ornaments eid="F16_ornaments-4-1372">
+            <tremolo eid="F16_tremolo-4-1373" type="start">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="47.85" default-y="-460.00" eid="F16_note-111-1374">
+        <pitch eid="F16_pitch-97-1375">
+          <step eid="F16_step-97-1376">E</step>
+          <octave eid="F16_octave-97-1377">4</octave>
+          </pitch>
+        <duration eid="F16_duration-111-1378">2</duration>
+        <voice eid="F16_voice-111-1379">1</voice>
+        <type eid="F16_type-111-1380">half</type>
+        <time-modification eid="F16_time-modification-5-1381">
+          <actual-notes eid="F16_actual-notes-5-1382">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-5-1383">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-97-1384">up</stem>
+        <notations eid="F16_notations-69-1385">
+          <slur eid="F16_slur-54-1386" number="2" type="stop" />
+          <ornaments eid="F16_ornaments-5-1387">
+            <tremolo eid="F16_tremolo-5-1388" type="stop">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="80.75" default-y="-470.00" eid="F16_note-112-1389">
+        <pitch eid="F16_pitch-98-1390">
+          <step eid="F16_step-98-1391">C</step>
+          <octave eid="F16_octave-98-1392">4</octave>
+          </pitch>
+        <duration eid="F16_duration-112-1393">2</duration>
+        <voice eid="F16_voice-112-1394">1</voice>
+        <type eid="F16_type-112-1395">half</type>
+        <time-modification eid="F16_time-modification-6-1396">
+          <actual-notes eid="F16_actual-notes-6-1397">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-6-1398">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-98-1399">up</stem>
+        <notations eid="F16_notations-70-1400">
+          <slur eid="F16_slur-55-1401" number="2" type="start" />
+          <ornaments eid="F16_ornaments-6-1402">
+            <tremolo eid="F16_tremolo-6-1403" type="start">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="113.64" default-y="-460.00" eid="F16_note-113-1404">
+        <pitch eid="F16_pitch-99-1405">
+          <step eid="F16_step-99-1406">E</step>
+          <octave eid="F16_octave-99-1407">4</octave>
+          </pitch>
+        <duration eid="F16_duration-113-1408">2</duration>
+        <voice eid="F16_voice-113-1409">1</voice>
+        <type eid="F16_type-113-1410">half</type>
+        <time-modification eid="F16_time-modification-7-1411">
+          <actual-notes eid="F16_actual-notes-7-1412">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-7-1413">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-99-1414">up</stem>
+        <notations eid="F16_notations-71-1415">
+          <slur eid="F16_slur-56-1416" number="2" type="stop" />
+          <ornaments eid="F16_ornaments-7-1417">
+            <tremolo eid="F16_tremolo-7-1418" type="stop">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-28-1419" number="5" width="160.66">
+      <note default-x="21.38" default-y="-470.00" eid="F16_note-114-1420">
+        <pitch eid="F16_pitch-100-1421">
+          <step eid="F16_step-100-1422">C</step>
+          <octave eid="F16_octave-100-1423">4</octave>
+          </pitch>
+        <duration eid="F16_duration-114-1424">2</duration>
+        <voice eid="F16_voice-114-1425">1</voice>
+        <type eid="F16_type-114-1426">half</type>
+        <time-modification eid="F16_time-modification-8-1427">
+          <actual-notes eid="F16_actual-notes-8-1428">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-8-1429">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-100-1430">up</stem>
+        <notations eid="F16_notations-72-1431">
+          <slur eid="F16_slur-57-1432" number="2" type="start" />
+          <ornaments eid="F16_ornaments-8-1433">
+            <tremolo eid="F16_tremolo-8-1434" type="start">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="52.87" default-y="-460.00" eid="F16_note-115-1435">
+        <pitch eid="F16_pitch-101-1436">
+          <step eid="F16_step-101-1437">E</step>
+          <octave eid="F16_octave-101-1438">4</octave>
+          </pitch>
+        <duration eid="F16_duration-115-1439">2</duration>
+        <voice eid="F16_voice-115-1440">1</voice>
+        <type eid="F16_type-115-1441">half</type>
+        <time-modification eid="F16_time-modification-9-1442">
+          <actual-notes eid="F16_actual-notes-9-1443">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-9-1444">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-101-1445">up</stem>
+        <notations eid="F16_notations-73-1446">
+          <slur eid="F16_slur-58-1447" number="2" type="stop" />
+          <ornaments eid="F16_ornaments-9-1448">
+            <tremolo eid="F16_tremolo-9-1449" type="stop">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="84.36" default-y="-470.00" eid="F16_note-116-1450">
+        <pitch eid="F16_pitch-102-1451">
+          <step eid="F16_step-102-1452">C</step>
+          <octave eid="F16_octave-102-1453">4</octave>
+          </pitch>
+        <duration eid="F16_duration-116-1454">2</duration>
+        <voice eid="F16_voice-116-1455">1</voice>
+        <type eid="F16_type-116-1456">half</type>
+        <time-modification eid="F16_time-modification-10-1457">
+          <actual-notes eid="F16_actual-notes-10-1458">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-10-1459">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-102-1460">up</stem>
+        <notations eid="F16_notations-74-1461">
+          <slur eid="F16_slur-59-1462" number="2" type="start" />
+          <ornaments eid="F16_ornaments-10-1463">
+            <tremolo eid="F16_tremolo-10-1464" type="start">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="115.85" default-y="-460.00" eid="F16_note-117-1465">
+        <pitch eid="F16_pitch-103-1466">
+          <step eid="F16_step-103-1467">E</step>
+          <octave eid="F16_octave-103-1468">4</octave>
+          </pitch>
+        <duration eid="F16_duration-117-1469">2</duration>
+        <voice eid="F16_voice-117-1470">1</voice>
+        <type eid="F16_type-117-1471">half</type>
+        <time-modification eid="F16_time-modification-11-1472">
+          <actual-notes eid="F16_actual-notes-11-1473">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-11-1474">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-103-1475">up</stem>
+        <notations eid="F16_notations-75-1476">
+          <slur eid="F16_slur-60-1477" number="2" type="stop" />
+          <ornaments eid="F16_ornaments-11-1478">
+            <tremolo eid="F16_tremolo-11-1479" type="stop">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-29-1480" number="6" width="396.33">
+      <print eid="F16_print-9-1481" new-page="yes">
+        <staff-layout eid="F16_staff-layout-7-1482" number="1">
+          <staff-distance eid="F16_staff-distance-7-1483">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="87.09" default-y="-470.00" eid="F16_note-118-1484">
+        <pitch eid="F16_pitch-104-1485">
+          <step eid="F16_step-104-1486">C</step>
+          <octave eid="F16_octave-104-1487">4</octave>
+          </pitch>
+        <duration eid="F16_duration-118-1488">2</duration>
+        <voice eid="F16_voice-118-1489">1</voice>
+        <type eid="F16_type-118-1490">half</type>
+        <time-modification eid="F16_time-modification-12-1491">
+          <actual-notes eid="F16_actual-notes-12-1492">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-12-1493">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-104-1494">up</stem>
+        <notations eid="F16_notations-76-1495">
+          <slur eid="F16_slur-61-1496" number="2" type="start" />
+          <ornaments eid="F16_ornaments-12-1497">
+            <tremolo eid="F16_tremolo-12-1498" type="start">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="159.39" default-y="-460.00" eid="F16_note-119-1499">
+        <pitch eid="F16_pitch-105-1500">
+          <step eid="F16_step-105-1501">E</step>
+          <octave eid="F16_octave-105-1502">4</octave>
+          </pitch>
+        <duration eid="F16_duration-119-1503">2</duration>
+        <voice eid="F16_voice-119-1504">1</voice>
+        <type eid="F16_type-119-1505">half</type>
+        <time-modification eid="F16_time-modification-13-1506">
+          <actual-notes eid="F16_actual-notes-13-1507">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-13-1508">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-105-1509">up</stem>
+        <notations eid="F16_notations-77-1510">
+          <slur eid="F16_slur-62-1511" number="2" type="stop" />
+          <ornaments eid="F16_ornaments-13-1512">
+            <tremolo eid="F16_tremolo-13-1513" type="stop">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="231.69" default-y="-470.00" eid="F16_note-120-1514">
+        <pitch eid="F16_pitch-106-1515">
+          <step eid="F16_step-106-1516">C</step>
+          <octave eid="F16_octave-106-1517">4</octave>
+          </pitch>
+        <duration eid="F16_duration-120-1518">2</duration>
+        <voice eid="F16_voice-120-1519">1</voice>
+        <type eid="F16_type-120-1520">half</type>
+        <time-modification eid="F16_time-modification-14-1521">
+          <actual-notes eid="F16_actual-notes-14-1522">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-14-1523">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-106-1524">up</stem>
+        <notations eid="F16_notations-78-1525">
+          <slur eid="F16_slur-63-1526" number="2" type="start" />
+          <ornaments eid="F16_ornaments-14-1527">
+            <tremolo eid="F16_tremolo-14-1528" type="start">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="304.00" default-y="-460.00" eid="F16_note-121-1529">
+        <pitch eid="F16_pitch-107-1530">
+          <step eid="F16_step-107-1531">E</step>
+          <octave eid="F16_octave-107-1532">4</octave>
+          </pitch>
+        <duration eid="F16_duration-121-1533">2</duration>
+        <voice eid="F16_voice-121-1534">1</voice>
+        <type eid="F16_type-121-1535">half</type>
+        <time-modification eid="F16_time-modification-15-1536">
+          <actual-notes eid="F16_actual-notes-15-1537">2</actual-notes>
+          <normal-notes eid="F16_normal-notes-15-1538">1</normal-notes>
+          </time-modification>
+        <stem eid="F16_stem-107-1539">up</stem>
+        <notations eid="F16_notations-79-1540">
+          <slur eid="F16_slur-64-1541" number="2" type="stop" />
+          <ornaments eid="F16_ornaments-15-1542">
+            <tremolo eid="F16_tremolo-15-1543" type="stop">2</tremolo>
+            </ornaments>
+          </notations>
+        </note>
+      </measure>
+    </part>
+  <part eid="F16_part-5-1544" id="P6">
+    <measure eid="F16_measure-30-1545" number="1" width="316.25">
+      <print eid="F16_print-10-1546">
+        <staff-layout eid="F16_staff-layout-8-1547" number="1">
+          <staff-distance eid="F16_staff-distance-8-1548">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes eid="F16_attributes-5-1549">
+        <divisions eid="F16_divisions-5-1550">2</divisions>
+        <key eid="F16_key-5-1551">
+          <fifths eid="F16_fifths-5-1552">1</fifths>
+          </key>
+        <clef eid="F16_clef-5-1553">
+          <sign eid="F16_sign-5-1554">C</sign>
+          <line eid="F16_line-5-1555">3</line>
+          </clef>
+        </attributes>
+      <note default-x="69.65" default-y="-550.00" eid="F16_note-122-1556">
+        <pitch eid="F16_pitch-108-1557">
+          <step eid="F16_step-108-1558">B</step>
+          <octave eid="F16_octave-108-1559">3</octave>
+          </pitch>
+        <duration eid="F16_duration-122-1560">1</duration>
+        <voice eid="F16_voice-122-1561">1</voice>
+        <type eid="F16_type-122-1562">eighth</type>
+        <stem eid="F16_stem-108-1563">up</stem>
+        <beam eid="F16_beam-32-1564" number="1">begin</beam>
+        <notations eid="F16_notations-80-1565">
+          <slur eid="F16_slur-65-1566" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="100.21" default-y="-545.00" eid="F16_note-123-1567">
+        <pitch eid="F16_pitch-109-1568">
+          <step eid="F16_step-109-1569">C</step>
+          <octave eid="F16_octave-109-1570">4</octave>
+          </pitch>
+        <duration eid="F16_duration-123-1571">1</duration>
+        <voice eid="F16_voice-123-1572">1</voice>
+        <type eid="F16_type-123-1573">eighth</type>
+        <stem eid="F16_stem-109-1574">up</stem>
+        <beam eid="F16_beam-33-1575" number="1">continue</beam>
+        <notations eid="F16_notations-81-1576">
+          <slur eid="F16_slur-66-1577" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="130.77" default-y="-545.00" eid="F16_note-124-1578">
+        <pitch eid="F16_pitch-110-1579">
+          <step eid="F16_step-110-1580">C</step>
+          <octave eid="F16_octave-110-1581">4</octave>
+          </pitch>
+        <duration eid="F16_duration-124-1582">1</duration>
+        <voice eid="F16_voice-124-1583">1</voice>
+        <type eid="F16_type-124-1584">eighth</type>
+        <stem eid="F16_stem-110-1585">up</stem>
+        <beam eid="F16_beam-34-1586" number="1">continue</beam>
+        <notations eid="F16_notations-82-1587">
+          <articulations eid="F16_articulations-18-1588">
+            <staccato eid="F16_staccato-12-1589" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="161.33" default-y="-545.00" eid="F16_note-125-1590">
+        <pitch eid="F16_pitch-111-1591">
+          <step eid="F16_step-111-1592">C</step>
+          <octave eid="F16_octave-111-1593">4</octave>
+          </pitch>
+        <duration eid="F16_duration-125-1594">1</duration>
+        <voice eid="F16_voice-125-1595">1</voice>
+        <type eid="F16_type-125-1596">eighth</type>
+        <stem eid="F16_stem-111-1597">up</stem>
+        <beam eid="F16_beam-35-1598" number="1">end</beam>
+        <notations eid="F16_notations-83-1599">
+          <articulations eid="F16_articulations-19-1600">
+            <staccato eid="F16_staccato-13-1601" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="192.41" default-y="-560.00" eid="F16_note-126-1602">
+        <pitch eid="F16_pitch-112-1603">
+          <step eid="F16_step-112-1604">G</step>
+          <alter eid="F16_alter-20-1605">1</alter>
+          <octave eid="F16_octave-112-1606">3</octave>
+          </pitch>
+        <duration eid="F16_duration-126-1607">1</duration>
+        <voice eid="F16_voice-126-1608">1</voice>
+        <type eid="F16_type-126-1609">eighth</type>
+        <accidental eid="F16_accidental-2-1610">sharp</accidental>
+        <stem eid="F16_stem-112-1611">up</stem>
+        <beam eid="F16_beam-36-1612" number="1">begin</beam>
+        <notations eid="F16_notations-84-1613">
+          <slur eid="F16_slur-67-1614" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="222.97" default-y="-555.00" eid="F16_note-127-1615">
+        <pitch eid="F16_pitch-113-1616">
+          <step eid="F16_step-113-1617">A</step>
+          <octave eid="F16_octave-113-1618">3</octave>
+          </pitch>
+        <duration eid="F16_duration-127-1619">1</duration>
+        <voice eid="F16_voice-127-1620">1</voice>
+        <type eid="F16_type-127-1621">eighth</type>
+        <accidental eid="F16_accidental-3-1622">natural</accidental>
+        <stem eid="F16_stem-113-1623">up</stem>
+        <beam eid="F16_beam-37-1624" number="1">continue</beam>
+        <notations eid="F16_notations-85-1625">
+          <slur eid="F16_slur-68-1626" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="253.53" default-y="-555.00" eid="F16_note-128-1627">
+        <pitch eid="F16_pitch-114-1628">
+          <step eid="F16_step-114-1629">A</step>
+          <octave eid="F16_octave-114-1630">3</octave>
+          </pitch>
+        <duration eid="F16_duration-128-1631">1</duration>
+        <voice eid="F16_voice-128-1632">1</voice>
+        <type eid="F16_type-128-1633">eighth</type>
+        <stem eid="F16_stem-114-1634">up</stem>
+        <beam eid="F16_beam-38-1635" number="1">continue</beam>
+        <notations eid="F16_notations-86-1636">
+          <articulations eid="F16_articulations-20-1637">
+            <staccato eid="F16_staccato-14-1638" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="284.09" default-y="-555.00" eid="F16_note-129-1639">
+        <pitch eid="F16_pitch-115-1640">
+          <step eid="F16_step-115-1641">A</step>
+          <octave eid="F16_octave-115-1642">3</octave>
+          </pitch>
+        <duration eid="F16_duration-129-1643">1</duration>
+        <voice eid="F16_voice-129-1644">1</voice>
+        <type eid="F16_type-129-1645">eighth</type>
+        <stem eid="F16_stem-115-1646">up</stem>
+        <beam eid="F16_beam-39-1647" number="1">end</beam>
+        <notations eid="F16_notations-87-1648">
+          <articulations eid="F16_articulations-21-1649">
+            <staccato eid="F16_staccato-15-1650" />
+            </articulations>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-31-1651" number="2" width="284.85">
+      <note default-x="18.42" default-y="-570.00" eid="F16_note-130-1652">
+        <pitch eid="F16_pitch-116-1653">
+          <step eid="F16_step-116-1654">E</step>
+          <alter eid="F16_alter-21-1655">1</alter>
+          <octave eid="F16_octave-116-1656">3</octave>
+          </pitch>
+        <duration eid="F16_duration-130-1657">1</duration>
+        <voice eid="F16_voice-130-1658">1</voice>
+        <type eid="F16_type-130-1659">eighth</type>
+        <accidental eid="F16_accidental-4-1660">sharp</accidental>
+        <stem eid="F16_stem-116-1661">up</stem>
+        <beam eid="F16_beam-40-1662" number="1">begin</beam>
+        <notations eid="F16_notations-88-1663">
+          <slur eid="F16_slur-69-1664" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="51.52" default-y="-565.00" eid="F16_note-131-1665">
+        <pitch eid="F16_pitch-117-1666">
+          <step eid="F16_step-117-1667">F</step>
+          <alter eid="F16_alter-22-1668">1</alter>
+          <octave eid="F16_octave-117-1669">3</octave>
+          </pitch>
+        <duration eid="F16_duration-131-1670">1</duration>
+        <voice eid="F16_voice-131-1671">1</voice>
+        <type eid="F16_type-131-1672">eighth</type>
+        <stem eid="F16_stem-117-1673">up</stem>
+        <beam eid="F16_beam-41-1674" number="1">continue</beam>
+        <notations eid="F16_notations-89-1675">
+          <slur eid="F16_slur-70-1676" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="84.62" default-y="-565.00" eid="F16_note-132-1677">
+        <pitch eid="F16_pitch-118-1678">
+          <step eid="F16_step-118-1679">F</step>
+          <alter eid="F16_alter-23-1680">1</alter>
+          <octave eid="F16_octave-118-1681">3</octave>
+          </pitch>
+        <duration eid="F16_duration-132-1682">1</duration>
+        <voice eid="F16_voice-132-1683">1</voice>
+        <type eid="F16_type-132-1684">eighth</type>
+        <stem eid="F16_stem-118-1685">up</stem>
+        <beam eid="F16_beam-42-1686" number="1">continue</beam>
+        <notations eid="F16_notations-90-1687">
+          <articulations eid="F16_articulations-22-1688">
+            <staccato eid="F16_staccato-16-1689" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="117.73" default-y="-565.00" eid="F16_note-133-1690">
+        <pitch eid="F16_pitch-119-1691">
+          <step eid="F16_step-119-1692">F</step>
+          <alter eid="F16_alter-24-1693">1</alter>
+          <octave eid="F16_octave-119-1694">3</octave>
+          </pitch>
+        <duration eid="F16_duration-133-1695">1</duration>
+        <voice eid="F16_voice-133-1696">1</voice>
+        <type eid="F16_type-133-1697">eighth</type>
+        <stem eid="F16_stem-119-1698">up</stem>
+        <beam eid="F16_beam-43-1699" number="1">end</beam>
+        <notations eid="F16_notations-91-1700">
+          <articulations eid="F16_articulations-23-1701">
+            <staccato eid="F16_staccato-17-1702" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="150.83" default-y="-575.00" eid="F16_note-134-1703">
+        <pitch eid="F16_pitch-120-1704">
+          <step eid="F16_step-120-1705">D</step>
+          <alter eid="F16_alter-25-1706">1</alter>
+          <octave eid="F16_octave-120-1707">3</octave>
+          </pitch>
+        <duration eid="F16_duration-134-1708">1</duration>
+        <voice eid="F16_voice-134-1709">1</voice>
+        <type eid="F16_type-134-1710">eighth</type>
+        <accidental eid="F16_accidental-5-1711">sharp</accidental>
+        <stem eid="F16_stem-120-1712">up</stem>
+        <beam eid="F16_beam-44-1713" number="1">begin</beam>
+        <notations eid="F16_notations-92-1714">
+          <articulations eid="F16_articulations-24-1715">
+            <staccato eid="F16_staccato-18-1716" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="183.94" default-y="-575.00" eid="F16_note-135-1717">
+        <pitch eid="F16_pitch-121-1718">
+          <step eid="F16_step-121-1719">D</step>
+          <alter eid="F16_alter-26-1720">1</alter>
+          <octave eid="F16_octave-121-1721">3</octave>
+          </pitch>
+        <duration eid="F16_duration-135-1722">1</duration>
+        <voice eid="F16_voice-135-1723">1</voice>
+        <type eid="F16_type-135-1724">eighth</type>
+        <stem eid="F16_stem-121-1725">up</stem>
+        <beam eid="F16_beam-45-1726" number="1">continue</beam>
+        <notations eid="F16_notations-93-1727">
+          <articulations eid="F16_articulations-25-1728">
+            <staccato eid="F16_staccato-19-1729" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="217.04" default-y="-575.00" eid="F16_note-136-1730">
+        <pitch eid="F16_pitch-122-1731">
+          <step eid="F16_step-122-1732">D</step>
+          <alter eid="F16_alter-27-1733">1</alter>
+          <octave eid="F16_octave-122-1734">3</octave>
+          </pitch>
+        <duration eid="F16_duration-136-1735">1</duration>
+        <voice eid="F16_voice-136-1736">1</voice>
+        <type eid="F16_type-136-1737">eighth</type>
+        <stem eid="F16_stem-122-1738">up</stem>
+        <beam eid="F16_beam-46-1739" number="1">continue</beam>
+        <notations eid="F16_notations-94-1740">
+          <articulations eid="F16_articulations-26-1741">
+            <staccato eid="F16_staccato-20-1742" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="250.15" default-y="-575.00" eid="F16_note-137-1743">
+        <pitch eid="F16_pitch-123-1744">
+          <step eid="F16_step-123-1745">D</step>
+          <alter eid="F16_alter-28-1746">1</alter>
+          <octave eid="F16_octave-123-1747">3</octave>
+          </pitch>
+        <duration eid="F16_duration-137-1748">1</duration>
+        <voice eid="F16_voice-137-1749">1</voice>
+        <type eid="F16_type-137-1750">eighth</type>
+        <stem eid="F16_stem-123-1751">up</stem>
+        <beam eid="F16_beam-47-1752" number="1">end</beam>
+        <notations eid="F16_notations-95-1753">
+          <articulations eid="F16_articulations-27-1754">
+            <staccato eid="F16_staccato-21-1755" />
+            </articulations>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-32-1756" number="3" width="149.91">
+      <note default-x="15.32" default-y="-570.00" eid="F16_note-138-1757">
+        <pitch eid="F16_pitch-124-1758">
+          <step eid="F16_step-124-1759">E</step>
+          <octave eid="F16_octave-124-1760">3</octave>
+          </pitch>
+        <duration eid="F16_duration-138-1761">2</duration>
+        <voice eid="F16_voice-138-1762">1</voice>
+        <type eid="F16_type-138-1763">quarter</type>
+        <accidental eid="F16_accidental-6-1764">natural</accidental>
+        <stem eid="F16_stem-124-1765">up</stem>
+        </note>
+      <note eid="F16_note-139-1766">
+        <rest eid="F16_rest-14-1767" />
+        <duration eid="F16_duration-139-1768">2</duration>
+        <voice eid="F16_voice-139-1769">1</voice>
+        <type eid="F16_type-139-1770">quarter</type>
+        </note>
+      <note eid="F16_note-140-1771">
+        <rest eid="F16_rest-15-1772" />
+        <duration eid="F16_duration-140-1773">2</duration>
+        <voice eid="F16_voice-140-1774">1</voice>
+        <type eid="F16_type-140-1775">quarter</type>
+        </note>
+      <direction eid="F16_direction-17-1776" placement="below">
+        <direction-type eid="F16_direction-type-17-1777">
+          <wedge eid="F16_wedge-16-1778" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="115.06" default-y="-525.00" eid="F16_note-141-1779">
+        <pitch eid="F16_pitch-125-1780">
+          <step eid="F16_step-125-1781">G</step>
+          <octave eid="F16_octave-125-1782">4</octave>
+          </pitch>
+        <duration eid="F16_duration-141-1783">2</duration>
+        <voice eid="F16_voice-141-1784">1</voice>
+        <type eid="F16_type-141-1785">quarter</type>
+        <stem eid="F16_stem-125-1786">down</stem>
+        <notations eid="F16_notations-96-1787">
+          <slur eid="F16_slur-71-1788" number="2" type="start" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-33-1789" number="4" width="159.32">
+      <note default-x="15.32" default-y="-530.00" eid="F16_note-142-1790">
+        <pitch eid="F16_pitch-126-1791">
+          <step eid="F16_step-126-1792">F</step>
+          <alter eid="F16_alter-29-1793">1</alter>
+          <octave eid="F16_octave-126-1794">4</octave>
+          </pitch>
+        <duration eid="F16_duration-142-1795">2</duration>
+        <voice eid="F16_voice-142-1796">1</voice>
+        <type eid="F16_type-142-1797">quarter</type>
+        <stem eid="F16_stem-126-1798">down</stem>
+        </note>
+      <note default-x="48.21" default-y="-535.00" eid="F16_note-143-1799">
+        <pitch eid="F16_pitch-127-1800">
+          <step eid="F16_step-127-1801">E</step>
+          <octave eid="F16_octave-127-1802">4</octave>
+          </pitch>
+        <duration eid="F16_duration-143-1803">2</duration>
+        <voice eid="F16_voice-143-1804">1</voice>
+        <type eid="F16_type-143-1805">quarter</type>
+        <stem eid="F16_stem-127-1806">down</stem>
+        <notations eid="F16_notations-97-1807">
+          <slur eid="F16_slur-72-1808" number="2" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-18-1809" placement="below">
+        <direction-type eid="F16_direction-type-18-1810">
+          <wedge eid="F16_wedge-17-1811" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      <note eid="F16_note-144-1812">
+        <rest eid="F16_rest-16-1813" />
+        <duration eid="F16_duration-144-1814">2</duration>
+        <voice eid="F16_voice-144-1815">1</voice>
+        <type eid="F16_type-144-1816">quarter</type>
+        </note>
+      <direction eid="F16_direction-19-1817" placement="below">
+        <direction-type eid="F16_direction-type-19-1818">
+          <wedge eid="F16_wedge-18-1819" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="114.00" default-y="-525.00" eid="F16_note-145-1820">
+        <pitch eid="F16_pitch-128-1821">
+          <step eid="F16_step-128-1822">G</step>
+          <octave eid="F16_octave-128-1823">4</octave>
+          </pitch>
+        <duration eid="F16_duration-145-1824">2</duration>
+        <voice eid="F16_voice-145-1825">1</voice>
+        <type eid="F16_type-145-1826">quarter</type>
+        <stem eid="F16_stem-128-1827">down</stem>
+        <notations eid="F16_notations-98-1828">
+          <slur eid="F16_slur-73-1829" number="2" type="start" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-34-1830" number="5" width="160.66">
+      <note default-x="21.74" default-y="-530.00" eid="F16_note-146-1831">
+        <pitch eid="F16_pitch-129-1832">
+          <step eid="F16_step-129-1833">F</step>
+          <alter eid="F16_alter-30-1834">1</alter>
+          <octave eid="F16_octave-129-1835">4</octave>
+          </pitch>
+        <duration eid="F16_duration-146-1836">2</duration>
+        <voice eid="F16_voice-146-1837">1</voice>
+        <type eid="F16_type-146-1838">quarter</type>
+        <stem eid="F16_stem-129-1839">down</stem>
+        </note>
+      <note default-x="53.23" default-y="-535.00" eid="F16_note-147-1840">
+        <pitch eid="F16_pitch-130-1841">
+          <step eid="F16_step-130-1842">E</step>
+          <octave eid="F16_octave-130-1843">4</octave>
+          </pitch>
+        <duration eid="F16_duration-147-1844">2</duration>
+        <voice eid="F16_voice-147-1845">1</voice>
+        <type eid="F16_type-147-1846">quarter</type>
+        <stem eid="F16_stem-130-1847">down</stem>
+        <notations eid="F16_notations-99-1848">
+          <slur eid="F16_slur-74-1849" number="2" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-20-1850" placement="below">
+        <direction-type eid="F16_direction-type-20-1851">
+          <wedge eid="F16_wedge-19-1852" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      <note eid="F16_note-148-1853">
+        <rest eid="F16_rest-17-1854" />
+        <duration eid="F16_duration-148-1855">2</duration>
+        <voice eid="F16_voice-148-1856">1</voice>
+        <type eid="F16_type-148-1857">quarter</type>
+        </note>
+      <direction eid="F16_direction-21-1858" placement="below">
+        <direction-type eid="F16_direction-type-21-1859">
+          <wedge eid="F16_wedge-20-1860" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="116.21" default-y="-525.00" eid="F16_note-149-1861">
+        <pitch eid="F16_pitch-131-1862">
+          <step eid="F16_step-131-1863">G</step>
+          <octave eid="F16_octave-131-1864">4</octave>
+          </pitch>
+        <duration eid="F16_duration-149-1865">2</duration>
+        <voice eid="F16_voice-149-1866">1</voice>
+        <type eid="F16_type-149-1867">quarter</type>
+        <stem eid="F16_stem-131-1868">down</stem>
+        <notations eid="F16_notations-100-1869">
+          <slur eid="F16_slur-75-1870" number="2" type="start" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-35-1871" number="6" width="396.33">
+      <print eid="F16_print-11-1872" new-page="yes">
+        <staff-layout eid="F16_staff-layout-9-1873" number="1">
+          <staff-distance eid="F16_staff-distance-9-1874">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="87.45" default-y="-530.00" eid="F16_note-150-1875">
+        <pitch eid="F16_pitch-132-1876">
+          <step eid="F16_step-132-1877">F</step>
+          <alter eid="F16_alter-31-1878">1</alter>
+          <octave eid="F16_octave-132-1879">4</octave>
+          </pitch>
+        <duration eid="F16_duration-150-1880">2</duration>
+        <voice eid="F16_voice-150-1881">1</voice>
+        <type eid="F16_type-150-1882">quarter</type>
+        <stem eid="F16_stem-132-1883">down</stem>
+        </note>
+      <note default-x="159.75" default-y="-535.00" eid="F16_note-151-1884">
+        <pitch eid="F16_pitch-133-1885">
+          <step eid="F16_step-133-1886">E</step>
+          <octave eid="F16_octave-133-1887">4</octave>
+          </pitch>
+        <duration eid="F16_duration-151-1888">2</duration>
+        <voice eid="F16_voice-151-1889">1</voice>
+        <type eid="F16_type-151-1890">quarter</type>
+        <stem eid="F16_stem-133-1891">down</stem>
+        <notations eid="F16_notations-101-1892">
+          <slur eid="F16_slur-76-1893" number="2" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-22-1894" placement="below">
+        <direction-type eid="F16_direction-type-22-1895">
+          <wedge eid="F16_wedge-21-1896" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      <note eid="F16_note-152-1897">
+        <rest eid="F16_rest-18-1898" />
+        <duration eid="F16_duration-152-1899">4</duration>
+        <voice eid="F16_voice-152-1900">1</voice>
+        <type eid="F16_type-152-1901">half</type>
+        </note>
+      </measure>
+    </part>
+  <part eid="F16_part-6-1902" id="P7">
+    <measure eid="F16_measure-36-1903" number="1" width="316.25">
+      <print eid="F16_print-12-1904">
+        <staff-layout eid="F16_staff-layout-10-1905" number="1">
+          <staff-distance eid="F16_staff-distance-10-1906">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes eid="F16_attributes-6-1907">
+        <divisions eid="F16_divisions-6-1908">2</divisions>
+        <key eid="F16_key-6-1909">
+          <fifths eid="F16_fifths-6-1910">1</fifths>
+          </key>
+        <clef eid="F16_clef-6-1911">
+          <sign eid="F16_sign-6-1912">F</sign>
+          <line eid="F16_line-6-1913">4</line>
+          </clef>
+        </attributes>
+      <note default-x="69.65" default-y="-625.00" eid="F16_note-153-1914">
+        <pitch eid="F16_pitch-134-1915">
+          <step eid="F16_step-134-1916">B</step>
+          <octave eid="F16_octave-134-1917">3</octave>
+          </pitch>
+        <duration eid="F16_duration-153-1918">1</duration>
+        <voice eid="F16_voice-153-1919">1</voice>
+        <type eid="F16_type-153-1920">eighth</type>
+        <stem eid="F16_stem-134-1921">down</stem>
+        <beam eid="F16_beam-48-1922" number="1">begin</beam>
+        <notations eid="F16_notations-102-1923">
+          <slur eid="F16_slur-77-1924" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="100.21" default-y="-620.00" eid="F16_note-154-1925">
+        <pitch eid="F16_pitch-135-1926">
+          <step eid="F16_step-135-1927">C</step>
+          <octave eid="F16_octave-135-1928">4</octave>
+          </pitch>
+        <duration eid="F16_duration-154-1929">1</duration>
+        <voice eid="F16_voice-154-1930">1</voice>
+        <type eid="F16_type-154-1931">eighth</type>
+        <stem eid="F16_stem-135-1932">down</stem>
+        <beam eid="F16_beam-49-1933" number="1">continue</beam>
+        <notations eid="F16_notations-103-1934">
+          <slur eid="F16_slur-78-1935" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="130.77" default-y="-620.00" eid="F16_note-155-1936">
+        <pitch eid="F16_pitch-136-1937">
+          <step eid="F16_step-136-1938">C</step>
+          <octave eid="F16_octave-136-1939">4</octave>
+          </pitch>
+        <duration eid="F16_duration-155-1940">1</duration>
+        <voice eid="F16_voice-155-1941">1</voice>
+        <type eid="F16_type-155-1942">eighth</type>
+        <stem eid="F16_stem-136-1943">down</stem>
+        <beam eid="F16_beam-50-1944" number="1">continue</beam>
+        <notations eid="F16_notations-104-1945">
+          <articulations eid="F16_articulations-28-1946">
+            <staccato eid="F16_staccato-22-1947" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="161.33" default-y="-620.00" eid="F16_note-156-1948">
+        <pitch eid="F16_pitch-137-1949">
+          <step eid="F16_step-137-1950">C</step>
+          <octave eid="F16_octave-137-1951">4</octave>
+          </pitch>
+        <duration eid="F16_duration-156-1952">1</duration>
+        <voice eid="F16_voice-156-1953">1</voice>
+        <type eid="F16_type-156-1954">eighth</type>
+        <stem eid="F16_stem-137-1955">down</stem>
+        <beam eid="F16_beam-51-1956" number="1">end</beam>
+        <notations eid="F16_notations-105-1957">
+          <articulations eid="F16_articulations-29-1958">
+            <staccato eid="F16_staccato-23-1959" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="192.41" default-y="-635.00" eid="F16_note-157-1960">
+        <pitch eid="F16_pitch-138-1961">
+          <step eid="F16_step-138-1962">G</step>
+          <alter eid="F16_alter-32-1963">1</alter>
+          <octave eid="F16_octave-138-1964">3</octave>
+          </pitch>
+        <duration eid="F16_duration-157-1965">1</duration>
+        <voice eid="F16_voice-157-1966">1</voice>
+        <type eid="F16_type-157-1967">eighth</type>
+        <accidental eid="F16_accidental-7-1968">sharp</accidental>
+        <stem eid="F16_stem-138-1969">down</stem>
+        <beam eid="F16_beam-52-1970" number="1">begin</beam>
+        <notations eid="F16_notations-106-1971">
+          <slur eid="F16_slur-79-1972" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="222.97" default-y="-630.00" eid="F16_note-158-1973">
+        <pitch eid="F16_pitch-139-1974">
+          <step eid="F16_step-139-1975">A</step>
+          <octave eid="F16_octave-139-1976">3</octave>
+          </pitch>
+        <duration eid="F16_duration-158-1977">1</duration>
+        <voice eid="F16_voice-158-1978">1</voice>
+        <type eid="F16_type-158-1979">eighth</type>
+        <accidental eid="F16_accidental-8-1980">natural</accidental>
+        <stem eid="F16_stem-139-1981">down</stem>
+        <beam eid="F16_beam-53-1982" number="1">continue</beam>
+        <notations eid="F16_notations-107-1983">
+          <slur eid="F16_slur-80-1984" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="253.53" default-y="-630.00" eid="F16_note-159-1985">
+        <pitch eid="F16_pitch-140-1986">
+          <step eid="F16_step-140-1987">A</step>
+          <octave eid="F16_octave-140-1988">3</octave>
+          </pitch>
+        <duration eid="F16_duration-159-1989">1</duration>
+        <voice eid="F16_voice-159-1990">1</voice>
+        <type eid="F16_type-159-1991">eighth</type>
+        <stem eid="F16_stem-140-1992">down</stem>
+        <beam eid="F16_beam-54-1993" number="1">continue</beam>
+        <notations eid="F16_notations-108-1994">
+          <articulations eid="F16_articulations-30-1995">
+            <staccato eid="F16_staccato-24-1996" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="284.09" default-y="-630.00" eid="F16_note-160-1997">
+        <pitch eid="F16_pitch-141-1998">
+          <step eid="F16_step-141-1999">A</step>
+          <octave eid="F16_octave-141-2000">3</octave>
+          </pitch>
+        <duration eid="F16_duration-160-2001">1</duration>
+        <voice eid="F16_voice-160-2002">1</voice>
+        <type eid="F16_type-160-2003">eighth</type>
+        <stem eid="F16_stem-141-2004">down</stem>
+        <beam eid="F16_beam-55-2005" number="1">end</beam>
+        <notations eid="F16_notations-109-2006">
+          <articulations eid="F16_articulations-31-2007">
+            <staccato eid="F16_staccato-25-2008" />
+            </articulations>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-37-2009" number="2" width="284.85">
+      <note default-x="18.42" default-y="-645.00" eid="F16_note-161-2010">
+        <pitch eid="F16_pitch-142-2011">
+          <step eid="F16_step-142-2012">E</step>
+          <alter eid="F16_alter-33-2013">1</alter>
+          <octave eid="F16_octave-142-2014">3</octave>
+          </pitch>
+        <duration eid="F16_duration-161-2015">1</duration>
+        <voice eid="F16_voice-161-2016">1</voice>
+        <type eid="F16_type-161-2017">eighth</type>
+        <accidental eid="F16_accidental-9-2018">sharp</accidental>
+        <stem eid="F16_stem-142-2019">down</stem>
+        <beam eid="F16_beam-56-2020" number="1">begin</beam>
+        <notations eid="F16_notations-110-2021">
+          <slur eid="F16_slur-81-2022" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="51.52" default-y="-640.00" eid="F16_note-162-2023">
+        <pitch eid="F16_pitch-143-2024">
+          <step eid="F16_step-143-2025">F</step>
+          <alter eid="F16_alter-34-2026">1</alter>
+          <octave eid="F16_octave-143-2027">3</octave>
+          </pitch>
+        <duration eid="F16_duration-162-2028">1</duration>
+        <voice eid="F16_voice-162-2029">1</voice>
+        <type eid="F16_type-162-2030">eighth</type>
+        <stem eid="F16_stem-143-2031">down</stem>
+        <beam eid="F16_beam-57-2032" number="1">continue</beam>
+        <notations eid="F16_notations-111-2033">
+          <slur eid="F16_slur-82-2034" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="84.62" default-y="-640.00" eid="F16_note-163-2035">
+        <pitch eid="F16_pitch-144-2036">
+          <step eid="F16_step-144-2037">F</step>
+          <alter eid="F16_alter-35-2038">1</alter>
+          <octave eid="F16_octave-144-2039">3</octave>
+          </pitch>
+        <duration eid="F16_duration-163-2040">1</duration>
+        <voice eid="F16_voice-163-2041">1</voice>
+        <type eid="F16_type-163-2042">eighth</type>
+        <stem eid="F16_stem-144-2043">down</stem>
+        <beam eid="F16_beam-58-2044" number="1">continue</beam>
+        <notations eid="F16_notations-112-2045">
+          <articulations eid="F16_articulations-32-2046">
+            <staccato eid="F16_staccato-26-2047" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="117.73" default-y="-640.00" eid="F16_note-164-2048">
+        <pitch eid="F16_pitch-145-2049">
+          <step eid="F16_step-145-2050">F</step>
+          <alter eid="F16_alter-36-2051">1</alter>
+          <octave eid="F16_octave-145-2052">3</octave>
+          </pitch>
+        <duration eid="F16_duration-164-2053">1</duration>
+        <voice eid="F16_voice-164-2054">1</voice>
+        <type eid="F16_type-164-2055">eighth</type>
+        <stem eid="F16_stem-145-2056">down</stem>
+        <beam eid="F16_beam-59-2057" number="1">end</beam>
+        <notations eid="F16_notations-113-2058">
+          <articulations eid="F16_articulations-33-2059">
+            <staccato eid="F16_staccato-27-2060" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="150.83" default-y="-660.00" eid="F16_note-165-2061">
+        <pitch eid="F16_pitch-146-2062">
+          <step eid="F16_step-146-2063">B</step>
+          <octave eid="F16_octave-146-2064">2</octave>
+          </pitch>
+        <duration eid="F16_duration-165-2065">1</duration>
+        <voice eid="F16_voice-165-2066">1</voice>
+        <type eid="F16_type-165-2067">eighth</type>
+        <stem eid="F16_stem-146-2068">down</stem>
+        <beam eid="F16_beam-60-2069" number="1">begin</beam>
+        <notations eid="F16_notations-114-2070">
+          <slur eid="F16_slur-83-2071" number="2" type="start" />
+          </notations>
+        </note>
+      <note default-x="183.94" default-y="-625.00" eid="F16_note-166-2072">
+        <pitch eid="F16_pitch-147-2073">
+          <step eid="F16_step-147-2074">B</step>
+          <octave eid="F16_octave-147-2075">3</octave>
+          </pitch>
+        <duration eid="F16_duration-166-2076">1</duration>
+        <voice eid="F16_voice-166-2077">1</voice>
+        <type eid="F16_type-166-2078">eighth</type>
+        <stem eid="F16_stem-147-2079">down</stem>
+        <beam eid="F16_beam-61-2080" number="1">continue</beam>
+        <notations eid="F16_notations-115-2081">
+          <slur eid="F16_slur-84-2082" number="2" type="stop" />
+          </notations>
+        </note>
+      <note default-x="217.04" default-y="-625.00" eid="F16_note-167-2083">
+        <pitch eid="F16_pitch-148-2084">
+          <step eid="F16_step-148-2085">B</step>
+          <octave eid="F16_octave-148-2086">3</octave>
+          </pitch>
+        <duration eid="F16_duration-167-2087">1</duration>
+        <voice eid="F16_voice-167-2088">1</voice>
+        <type eid="F16_type-167-2089">eighth</type>
+        <stem eid="F16_stem-148-2090">down</stem>
+        <beam eid="F16_beam-62-2091" number="1">continue</beam>
+        <notations eid="F16_notations-116-2092">
+          <articulations eid="F16_articulations-34-2093">
+            <staccato eid="F16_staccato-28-2094" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="250.15" default-y="-625.00" eid="F16_note-168-2095">
+        <pitch eid="F16_pitch-149-2096">
+          <step eid="F16_step-149-2097">B</step>
+          <octave eid="F16_octave-149-2098">3</octave>
+          </pitch>
+        <duration eid="F16_duration-168-2099">1</duration>
+        <voice eid="F16_voice-168-2100">1</voice>
+        <type eid="F16_type-168-2101">eighth</type>
+        <stem eid="F16_stem-149-2102">down</stem>
+        <beam eid="F16_beam-63-2103" number="1">end</beam>
+        <notations eid="F16_notations-117-2104">
+          <articulations eid="F16_articulations-35-2105">
+            <staccato eid="F16_staccato-29-2106" />
+            </articulations>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-38-2107" number="3" width="149.91">
+      <note default-x="14.96" default-y="-665.00" eid="F16_note-169-2108">
+        <pitch eid="F16_pitch-150-2109">
+          <step eid="F16_step-150-2110">A</step>
+          <octave eid="F16_octave-150-2111">2</octave>
+          </pitch>
+        <duration eid="F16_duration-169-2112">4</duration>
+        <voice eid="F16_voice-169-2113">1</voice>
+        <type eid="F16_type-169-2114">half</type>
+        <stem eid="F16_stem-150-2115">up</stem>
+        </note>
+      <note eid="F16_note-170-2116">
+        <rest eid="F16_rest-19-2117" />
+        <duration eid="F16_duration-170-2118">2</duration>
+        <voice eid="F16_voice-170-2119">1</voice>
+        <type eid="F16_type-170-2120">quarter</type>
+        </note>
+      <direction eid="F16_direction-23-2121" placement="below">
+        <direction-type eid="F16_direction-type-23-2122">
+          <wedge eid="F16_wedge-22-2123" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="115.06" default-y="-600.00" eid="F16_note-171-2124">
+        <pitch eid="F16_pitch-151-2125">
+          <step eid="F16_step-151-2126">G</step>
+          <octave eid="F16_octave-151-2127">4</octave>
+          </pitch>
+        <duration eid="F16_duration-171-2128">2</duration>
+        <voice eid="F16_voice-171-2129">1</voice>
+        <type eid="F16_type-171-2130">quarter</type>
+        <stem eid="F16_stem-151-2131">down</stem>
+        <notations eid="F16_notations-118-2132">
+          <slur eid="F16_slur-85-2133" number="2" type="start" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-39-2134" number="4" width="159.32">
+      <note default-x="15.32" default-y="-605.00" eid="F16_note-172-2135">
+        <pitch eid="F16_pitch-152-2136">
+          <step eid="F16_step-152-2137">F</step>
+          <alter eid="F16_alter-37-2138">1</alter>
+          <octave eid="F16_octave-152-2139">4</octave>
+          </pitch>
+        <duration eid="F16_duration-172-2140">2</duration>
+        <voice eid="F16_voice-172-2141">1</voice>
+        <type eid="F16_type-172-2142">quarter</type>
+        <stem eid="F16_stem-152-2143">down</stem>
+        </note>
+      <note default-x="48.21" default-y="-610.00" eid="F16_note-173-2144">
+        <pitch eid="F16_pitch-153-2145">
+          <step eid="F16_step-153-2146">E</step>
+          <octave eid="F16_octave-153-2147">4</octave>
+          </pitch>
+        <duration eid="F16_duration-173-2148">2</duration>
+        <voice eid="F16_voice-173-2149">1</voice>
+        <type eid="F16_type-173-2150">quarter</type>
+        <stem eid="F16_stem-153-2151">down</stem>
+        <notations eid="F16_notations-119-2152">
+          <slur eid="F16_slur-86-2153" number="2" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-24-2154" placement="below">
+        <direction-type eid="F16_direction-type-24-2155">
+          <wedge eid="F16_wedge-23-2156" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      <note eid="F16_note-174-2157">
+        <rest eid="F16_rest-20-2158" />
+        <duration eid="F16_duration-174-2159">2</duration>
+        <voice eid="F16_voice-174-2160">1</voice>
+        <type eid="F16_type-174-2161">quarter</type>
+        </note>
+      <direction eid="F16_direction-25-2162" placement="below">
+        <direction-type eid="F16_direction-type-25-2163">
+          <wedge eid="F16_wedge-24-2164" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="114.00" default-y="-600.00" eid="F16_note-175-2165">
+        <pitch eid="F16_pitch-154-2166">
+          <step eid="F16_step-154-2167">G</step>
+          <octave eid="F16_octave-154-2168">4</octave>
+          </pitch>
+        <duration eid="F16_duration-175-2169">2</duration>
+        <voice eid="F16_voice-175-2170">1</voice>
+        <type eid="F16_type-175-2171">quarter</type>
+        <stem eid="F16_stem-154-2172">down</stem>
+        <notations eid="F16_notations-120-2173">
+          <slur eid="F16_slur-87-2174" number="2" type="start" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-40-2175" number="5" width="160.66">
+      <note default-x="21.74" default-y="-605.00" eid="F16_note-176-2176">
+        <pitch eid="F16_pitch-155-2177">
+          <step eid="F16_step-155-2178">F</step>
+          <alter eid="F16_alter-38-2179">1</alter>
+          <octave eid="F16_octave-155-2180">4</octave>
+          </pitch>
+        <duration eid="F16_duration-176-2181">2</duration>
+        <voice eid="F16_voice-176-2182">1</voice>
+        <type eid="F16_type-176-2183">quarter</type>
+        <stem eid="F16_stem-155-2184">down</stem>
+        </note>
+      <note default-x="53.23" default-y="-610.00" eid="F16_note-177-2185">
+        <pitch eid="F16_pitch-156-2186">
+          <step eid="F16_step-156-2187">E</step>
+          <octave eid="F16_octave-156-2188">4</octave>
+          </pitch>
+        <duration eid="F16_duration-177-2189">2</duration>
+        <voice eid="F16_voice-177-2190">1</voice>
+        <type eid="F16_type-177-2191">quarter</type>
+        <stem eid="F16_stem-156-2192">down</stem>
+        <notations eid="F16_notations-121-2193">
+          <slur eid="F16_slur-88-2194" number="2" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-26-2195" placement="below">
+        <direction-type eid="F16_direction-type-26-2196">
+          <wedge eid="F16_wedge-25-2197" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      <note eid="F16_note-178-2198">
+        <rest eid="F16_rest-21-2199" />
+        <duration eid="F16_duration-178-2200">2</duration>
+        <voice eid="F16_voice-178-2201">1</voice>
+        <type eid="F16_type-178-2202">quarter</type>
+        </note>
+      <direction eid="F16_direction-27-2203" placement="below">
+        <direction-type eid="F16_direction-type-27-2204">
+          <wedge eid="F16_wedge-26-2205" number="1" type="diminuendo" />
+          </direction-type>
+        </direction>
+      <note default-x="116.21" default-y="-600.00" eid="F16_note-179-2206">
+        <pitch eid="F16_pitch-157-2207">
+          <step eid="F16_step-157-2208">G</step>
+          <octave eid="F16_octave-157-2209">4</octave>
+          </pitch>
+        <duration eid="F16_duration-179-2210">2</duration>
+        <voice eid="F16_voice-179-2211">1</voice>
+        <type eid="F16_type-179-2212">quarter</type>
+        <stem eid="F16_stem-157-2213">down</stem>
+        <notations eid="F16_notations-122-2214">
+          <slur eid="F16_slur-89-2215" number="2" type="start" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-41-2216" number="6" width="396.33">
+      <print eid="F16_print-13-2217" new-page="yes">
+        <staff-layout eid="F16_staff-layout-11-2218" number="1">
+          <staff-distance eid="F16_staff-distance-11-2219">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="87.45" default-y="-605.00" eid="F16_note-180-2220">
+        <pitch eid="F16_pitch-158-2221">
+          <step eid="F16_step-158-2222">F</step>
+          <alter eid="F16_alter-39-2223">1</alter>
+          <octave eid="F16_octave-158-2224">4</octave>
+          </pitch>
+        <duration eid="F16_duration-180-2225">2</duration>
+        <voice eid="F16_voice-180-2226">1</voice>
+        <type eid="F16_type-180-2227">quarter</type>
+        <stem eid="F16_stem-158-2228">down</stem>
+        </note>
+      <note default-x="159.75" default-y="-610.00" eid="F16_note-181-2229">
+        <pitch eid="F16_pitch-159-2230">
+          <step eid="F16_step-159-2231">E</step>
+          <octave eid="F16_octave-159-2232">4</octave>
+          </pitch>
+        <duration eid="F16_duration-181-2233">2</duration>
+        <voice eid="F16_voice-181-2234">1</voice>
+        <type eid="F16_type-181-2235">quarter</type>
+        <stem eid="F16_stem-159-2236">down</stem>
+        <notations eid="F16_notations-123-2237">
+          <slur eid="F16_slur-90-2238" number="2" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F16_direction-28-2239" placement="below">
+        <direction-type eid="F16_direction-type-28-2240">
+          <wedge eid="F16_wedge-27-2241" number="1" type="stop" />
+          </direction-type>
+        </direction>
+      <note eid="F16_note-182-2242">
+        <rest eid="F16_rest-22-2243" />
+        <duration eid="F16_duration-182-2244">4</duration>
+        <voice eid="F16_voice-182-2245">1</voice>
+        <type eid="F16_type-182-2246">half</type>
+        </note>
+      </measure>
+    </part>
+  <part eid="F16_part-7-2247" id="P8">
+    <measure eid="F16_measure-42-2248" number="1" width="316.25">
+      <print eid="F16_print-14-2249">
+        <staff-layout eid="F16_staff-layout-12-2250" number="1">
+          <staff-distance eid="F16_staff-distance-12-2251">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes eid="F16_attributes-7-2252">
+        <divisions eid="F16_divisions-7-2253">2</divisions>
+        <key eid="F16_key-7-2254">
+          <fifths eid="F16_fifths-7-2255">1</fifths>
+          </key>
+        <clef eid="F16_clef-7-2256">
+          <sign eid="F16_sign-7-2257">F</sign>
+          <line eid="F16_line-7-2258">4</line>
+          </clef>
+        </attributes>
+      <note eid="F16_note-183-2259">
+        <rest eid="F16_rest-23-2260" />
+        <duration eid="F16_duration-183-2261">2</duration>
+        <voice eid="F16_voice-183-2262">1</voice>
+        <type eid="F16_type-183-2263">quarter</type>
+        </note>
+      <note default-x="130.77" default-y="-725.00" eid="F16_note-184-2264">
+        <pitch eid="F16_pitch-160-2265">
+          <step eid="F16_step-160-2266">C</step>
+          <octave eid="F16_octave-160-2267">4</octave>
+          </pitch>
+        <duration eid="F16_duration-184-2268">2</duration>
+        <voice eid="F16_voice-184-2269">1</voice>
+        <type eid="F16_type-184-2270">quarter</type>
+        <stem eid="F16_stem-160-2271">down</stem>
+        </note>
+      <note eid="F16_note-185-2272">
+        <rest eid="F16_rest-24-2273" />
+        <duration eid="F16_duration-185-2274">2</duration>
+        <voice eid="F16_voice-185-2275">1</voice>
+        <type eid="F16_type-185-2276">quarter</type>
+        </note>
+      <note default-x="253.53" default-y="-735.00" eid="F16_note-186-2277">
+        <pitch eid="F16_pitch-161-2278">
+          <step eid="F16_step-161-2279">A</step>
+          <octave eid="F16_octave-161-2280">3</octave>
+          </pitch>
+        <duration eid="F16_duration-186-2281">2</duration>
+        <voice eid="F16_voice-186-2282">1</voice>
+        <type eid="F16_type-186-2283">quarter</type>
+        <stem eid="F16_stem-161-2284">down</stem>
+        </note>
+      </measure>
+    <measure eid="F16_measure-43-2285" number="2" width="284.85">
+      <note eid="F16_note-187-2286">
+        <rest eid="F16_rest-25-2287" />
+        <duration eid="F16_duration-187-2288">2</duration>
+        <voice eid="F16_voice-187-2289">1</voice>
+        <type eid="F16_type-187-2290">quarter</type>
+        </note>
+      <note default-x="84.62" default-y="-745.00" eid="F16_note-188-2291">
+        <pitch eid="F16_pitch-162-2292">
+          <step eid="F16_step-162-2293">F</step>
+          <alter eid="F16_alter-40-2294">1</alter>
+          <octave eid="F16_octave-162-2295">3</octave>
+          </pitch>
+        <duration eid="F16_duration-188-2296">2</duration>
+        <voice eid="F16_voice-188-2297">1</voice>
+        <type eid="F16_type-188-2298">quarter</type>
+        <stem eid="F16_stem-162-2299">down</stem>
+        </note>
+      <note default-x="150.47" default-y="-765.00" eid="F16_note-189-2300">
+        <pitch eid="F16_pitch-163-2301">
+          <step eid="F16_step-163-2302">B</step>
+          <octave eid="F16_octave-163-2303">2</octave>
+          </pitch>
+        <duration eid="F16_duration-189-2304">4</duration>
+        <voice eid="F16_voice-189-2305">1</voice>
+        <type eid="F16_type-189-2306">half</type>
+        <stem eid="F16_stem-163-2307">up</stem>
+        </note>
+      </measure>
+    <measure eid="F16_measure-44-2308" number="3" width="149.91">
+      <note default-x="12.00" default-y="-770.00" eid="F16_note-190-2309">
+        <pitch eid="F16_pitch-164-2310">
+          <step eid="F16_step-164-2311">A</step>
+          <octave eid="F16_octave-164-2312">2</octave>
+          </pitch>
+        <duration eid="F16_duration-190-2313">8</duration>
+        <voice eid="F16_voice-190-2314">1</voice>
+        <type eid="F16_type-190-2315">whole</type>
+        <notations eid="F16_notations-124-2316">
+          <articulations eid="F16_articulations-36-2317">
+            <accent eid="F16_accent-6-2318" />
+            </articulations>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-45-2319" number="4" width="159.32">
+      <note default-x="12.00" default-y="-770.00" eid="F16_note-191-2320">
+        <pitch eid="F16_pitch-165-2321">
+          <step eid="F16_step-165-2322">A</step>
+          <octave eid="F16_octave-165-2323">2</octave>
+          </pitch>
+        <duration eid="F16_duration-191-2324">8</duration>
+        <voice eid="F16_voice-191-2325">1</voice>
+        <type eid="F16_type-191-2326">whole</type>
+        <notations eid="F16_notations-125-2327">
+          <articulations eid="F16_articulations-37-2328">
+            <accent eid="F16_accent-7-2329" />
+            </articulations>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-46-2330" number="5" width="160.66">
+      <note default-x="18.42" default-y="-770.00" eid="F16_note-192-2331">
+        <pitch eid="F16_pitch-166-2332">
+          <step eid="F16_step-166-2333">A</step>
+          <alter eid="F16_alter-41-2334">1</alter>
+          <octave eid="F16_octave-166-2335">2</octave>
+          </pitch>
+        <duration eid="F16_duration-192-2336">8</duration>
+        <voice eid="F16_voice-192-2337">1</voice>
+        <type eid="F16_type-192-2338">whole</type>
+        <accidental eid="F16_accidental-10-2339">sharp</accidental>
+        <notations eid="F16_notations-126-2340">
+          <articulations eid="F16_articulations-38-2341">
+            <accent eid="F16_accent-8-2342" />
+            </articulations>
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F16_measure-47-2343" number="6" width="396.33">
+      <print eid="F16_print-15-2344" new-page="yes">
+        <staff-layout eid="F16_staff-layout-13-2345" number="1">
+          <staff-distance eid="F16_staff-distance-13-2346">65.00</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="84.13" default-y="-770.00" eid="F16_note-193-2347">
+        <pitch eid="F16_pitch-167-2348">
+          <step eid="F16_step-167-2349">A</step>
+          <alter eid="F16_alter-42-2350">1</alter>
+          <octave eid="F16_octave-167-2351">2</octave>
+          </pitch>
+        <duration eid="F16_duration-193-2352">8</duration>
+        <voice eid="F16_voice-193-2353">1</voice>
+        <type eid="F16_type-193-2354">whole</type>
+        <accidental eid="F16_accidental-11-2355">sharp</accidental>
+        <notations eid="F16_notations-127-2356">
+          <articulations eid="F16_articulations-39-2357">
+            <accent eid="F16_accent-9-2358" />
+            </articulations>
+          </notations>
+        </note>
+      </measure>
+    </part>
+  </score-partwise>

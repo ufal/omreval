@@ -1,0 +1,4 @@
+<doc eid="test_doc-0-0">
+    <blah eid="test_blah-0-1">some-other-blah</blah>
+    <music eid="test_music-0-2"><blah eid="test_blah-1-3" /></music>
+</doc>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xs:annotation>
+    <xs:documentation>MFF-MUSCIMA symbolic W3C XML schema.
+
+        Version 0.1
+
+        Annotation of music notation symbols.
+        </xs:documentation>
+    </xs:annotation>
+
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.musicxml.org/xsd/xml.xsd"/>
+	<xs:import namespace="http://www.w3.org/1999/xlink" schemaLocation="http://www.musicxml.org/xsd/xlink.xsd"/>
+
+    <xs:simpleType name="color">
+        <xs:annotation>
+            <xs:documentation>The color entity indicates the color of an element. Color may be represented as hexadecimal RGB triples, as in HTML, or as hexadecimal ARGB tuples, with the A indicating alpha of transparency. An alpha value of 00 is totally transparent; FF is totally opaque. If RGB is used, the A value is assumed to be FF. For instance, the RGB value "#800080" represents purple. An ARGB value of "#40800080" would be a transparent purple. As in SVG 1.1, colors are defined in terms of the sRGB color space (IEC 61966).</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:token">
+            <xs:pattern value="#[\dA-F]{6}([\dA-F][\dA-F])?"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="MLClass">
+        <xs:element name="Id" type="xs:integer"/>
+        <xs:element name="Name" type="xs:string"/>
+        <xs:element name="Folder" type="xs:string"/>
+        <xs:element name="Color" type="color"/>
+    </xs:complexType>
+
+    <xs:element name="MLClassList">
+        <xs:element name="MLClasses">
+            <xs:sequence>
+                <xs:element name="MLClass" type="MLClass"/>
+                </xs:sequence>
+            </xs:element>
+        <xs:attribute name="xmlns:xsi"/>
+        <xs:attribute name="xmlns:xsd"/>
+    </xs:element>
+
+</xs:schema>

@@ -1,0 +1,59 @@
+SIGN__duration-dot	note
+SIGN__sharp	note
+SIGN__flat	note
+SIGN__natural	note
+SIGN__double_sharp	note
+SIGN__double_flat	note
+SIGN__half_rest	note
+SIGN__whole_rest	note
+SIGN__quarter_rest	note
+SIGN__8th_rest	note
+SIGN__16th_rest	note
+SIGN__32th_rest	note
+SIGN__64th_and_higher_rest	note
+SIGN__multi-measure_rest	note
+SIGN__repeat_measure	note
+SIGN__grace_note	note
+SIGN__grace-strikethrough	note
+SIGN__solitary_note	note
+SIGN__beamed_note	note
+
+SIGN__staff_grouping	layout
+SIGN__measure_separator	layout
+SIGN__repeat	layout
+SIGN__segno	layout
+SIGN__coda	layout
+SIGN__volta	layout
+SIGN__SIGN__
+SIGN__slur	notations
+SIGN__tie	notations
+SIGN__hairpin-cresc.	notations
+SIGN__hairpin-decr.	notations
+SIGN__ornament(s)	notations
+SIGN__trill	notations
+SIGN__arpeggio_"wobble"	notations
+SIGN__glissando	notations
+SIGN__fermata	notations
+SIGN__pedalization_marks	notations
+SIGN__single-note_tremolo	notations
+SIGN__multiple-note_tremolo	notations
+SIGN__tuple	notations
+
+SIGN__g-clef	part-defaults
+SIGN__f-clef	part-defaults
+SIGN__c-clef	part-defaults
+SIGN__key_signature	part-defaults
+SIGN__time_signature	part-defaults
+
+SIGN__dynamics	text
+SIGN__instrument_names	text
+SIGN__other_text_sign	text
+SIGN__lyrics  text
+SIGN__tempo   text
+
+SIGN__bar_number	numeral
+SIGN__other_numeric_sign	numeral
+
+SIGN__instrument_specific	misc
+SIGN__unclassified	misc
+

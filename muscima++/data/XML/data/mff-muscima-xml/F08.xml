@@ -1,0 +1,3162 @@
+<score-partwise eid="F08_score-partwise-0-0">
+  <identification eid="F08_identification-0-1">
+    <rights eid="F08_rights-0-2">Charles University in Prague 2015</rights>
+    <encoding eid="F08_encoding-0-3">
+      <software eid="F08_software-0-4">MuseScore 2.0.2</software>
+      <encoding-date eid="F08_encoding-date-0-5">2015-12-17</encoding-date>
+      <supports eid="F08_supports-0-6" element="accidental" type="yes" />
+      <supports eid="F08_supports-1-7" element="beam" type="yes" />
+      <supports attribute="new-page" eid="F08_supports-2-8" element="print" type="yes" value="yes" />
+      <supports attribute="new-system" eid="F08_supports-3-9" element="print" type="yes" value="yes" />
+      <supports eid="F08_supports-4-10" element="stem" type="yes" />
+      </encoding>
+    </identification>
+  <defaults eid="F08_defaults-0-11">
+    <scaling eid="F08_scaling-0-12">
+      <millimeters eid="F08_millimeters-0-13">7.05556</millimeters>
+      <tenths eid="F08_tenths-0-14">40</tenths>
+      </scaling>
+    <page-layout eid="F08_page-layout-0-15">
+      <page-height eid="F08_page-height-0-16">1683.36</page-height>
+      <page-width eid="F08_page-width-0-17">1190.88</page-width>
+      <page-margins eid="F08_page-margins-0-18" type="even">
+        <left-margin eid="F08_left-margin-0-19">56.6929</left-margin>
+        <right-margin eid="F08_right-margin-0-20">56.6929</right-margin>
+        <top-margin eid="F08_top-margin-0-21">56.6929</top-margin>
+        <bottom-margin eid="F08_bottom-margin-0-22">113.386</bottom-margin>
+        </page-margins>
+      <page-margins eid="F08_page-margins-1-23" type="odd">
+        <left-margin eid="F08_left-margin-1-24">56.6929</left-margin>
+        <right-margin eid="F08_right-margin-1-25">56.6929</right-margin>
+        <top-margin eid="F08_top-margin-1-26">56.6929</top-margin>
+        <bottom-margin eid="F08_bottom-margin-1-27">113.386</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <word-font eid="F08_word-font-0-28" font-family="FreeSerif" font-size="10" />
+    <lyric-font eid="F08_lyric-font-0-29" font-family="FreeSerif" font-size="11" />
+    </defaults>
+  <credit eid="F08_credit-0-30" page="1">
+    <credit-words default-x="595.44" default-y="113.386" eid="F08_credit-words-0-31" font-size="8" justify="center" valign="bottom">Charles University in Prague 2015</credit-words>
+    </credit>
+  <part-list eid="F08_part-list-0-32">
+    <score-part eid="F08_score-part-0-33" id="P1">
+      <part-name eid="F08_part-name-0-34">Piano</part-name>
+      <part-abbreviation eid="F08_part-abbreviation-0-35">Pno.</part-abbreviation>
+      <score-instrument eid="F08_score-instrument-0-36" id="P1-I1">
+        <instrument-name eid="F08_instrument-name-0-37">Piano</instrument-name>
+        </score-instrument>
+      <midi-device eid="F08_midi-device-0-38" id="P1-I1" port="1" />
+      <midi-instrument eid="F08_midi-instrument-0-39" id="P1-I1">
+        <midi-channel eid="F08_midi-channel-0-40">1</midi-channel>
+        <midi-program eid="F08_midi-program-0-41">1</midi-program>
+        <volume eid="F08_volume-0-42">78.7402</volume>
+        <pan eid="F08_pan-0-43">0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part eid="F08_part-0-44" id="P1">
+    <measure eid="F08_measure-0-45" number="1" width="246.26">
+      <print eid="F08_print-0-46">
+        <system-layout eid="F08_system-layout-0-47">
+          <system-margins eid="F08_system-margins-0-48">
+            <left-margin eid="F08_left-margin-2-49">21.00</left-margin>
+            <right-margin eid="F08_right-margin-2-50">0.00</right-margin>
+            </system-margins>
+          <top-system-distance eid="F08_top-system-distance-0-51">70.00</top-system-distance>
+          </system-layout>
+        <staff-layout eid="F08_staff-layout-0-52" number="2">
+          <staff-distance eid="F08_staff-distance-0-53">75.00</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes eid="F08_attributes-0-54">
+        <divisions eid="F08_divisions-0-55">8</divisions>
+        <key eid="F08_key-0-56">
+          <fifths eid="F08_fifths-0-57">1</fifths>
+          </key>
+        <time eid="F08_time-0-58">
+          <beats eid="F08_beats-0-59">3</beats>
+          <beat-type eid="F08_beat-type-0-60">4</beat-type>
+          </time>
+        <staves eid="F08_staves-0-61">2</staves>
+        <part-symbol bottom-staff="2" eid="F08_part-symbol-0-62" top-staff="1">brace</part-symbol>
+        <clef eid="F08_clef-0-63" number="1">
+          <sign eid="F08_sign-0-64">G</sign>
+          <line eid="F08_line-0-65">2</line>
+          </clef>
+        <clef eid="F08_clef-1-66" number="2">
+          <sign eid="F08_sign-1-67">F</sign>
+          <line eid="F08_line-1-68">4</line>
+          </clef>
+        </attributes>
+      <direction eid="F08_direction-0-69" placement="above">
+        <direction-type eid="F08_direction-type-0-70">
+          <words eid="F08_words-0-71">Andante espressivo</words>
+          </direction-type>
+        <staff eid="F08_staff-0-72">1</staff>
+        </direction>
+      <direction eid="F08_direction-1-73" placement="below">
+        <direction-type eid="F08_direction-type-1-74">
+          <dynamics eid="F08_dynamics-0-75">
+            <p eid="F08_p-0-76" />
+            </dynamics>
+          </direction-type>
+        <staff eid="F08_staff-1-77">1</staff>
+        <sound dynamics="54.44" eid="F08_sound-0-78" />
+        </direction>
+      <note default-x="89.31" default-y="5.00" eid="F08_note-0-79">
+        <pitch eid="F08_pitch-0-80">
+          <step eid="F08_step-0-81">G</step>
+          <octave eid="F08_octave-0-82">5</octave>
+          </pitch>
+        <duration eid="F08_duration-0-83">8</duration>
+        <voice eid="F08_voice-0-84">1</voice>
+        <type eid="F08_type-0-85">quarter</type>
+        <stem eid="F08_stem-0-86">down</stem>
+        <staff eid="F08_staff-2-87">1</staff>
+        <notations eid="F08_notations-0-88">
+          <articulations eid="F08_articulations-0-89">
+            <staccato eid="F08_staccato-0-90" />
+            </articulations>
+          </notations>
+        </note>
+      <direction eid="F08_direction-2-91" placement="below">
+        <direction-type eid="F08_direction-type-2-92">
+          <words eid="F08_words-1-93" font-style="italic">dolce</words>
+          </direction-type>
+        <staff eid="F08_staff-3-94">1</staff>
+        </direction>
+      <note default-x="135.10" default-y="5.00" eid="F08_note-1-95">
+        <pitch eid="F08_pitch-1-96">
+          <step eid="F08_step-1-97">G</step>
+          <octave eid="F08_octave-1-98">5</octave>
+          </pitch>
+        <duration eid="F08_duration-1-99">8</duration>
+        <voice eid="F08_voice-1-100">1</voice>
+        <type eid="F08_type-1-101">quarter</type>
+        <stem eid="F08_stem-1-102">down</stem>
+        <staff eid="F08_staff-4-103">1</staff>
+        <notations eid="F08_notations-1-104">
+          <slur eid="F08_slur-0-105" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="180.89" default-y="10.00" eid="F08_note-2-106">
+        <pitch eid="F08_pitch-2-107">
+          <step eid="F08_step-2-108">A</step>
+          <octave eid="F08_octave-2-109">5</octave>
+          </pitch>
+        <duration eid="F08_duration-2-110">6</duration>
+        <voice eid="F08_voice-2-111">1</voice>
+        <type eid="F08_type-2-112">eighth</type>
+        <dot eid="F08_dot-0-113" />
+        <stem eid="F08_stem-2-114">down</stem>
+        <staff eid="F08_staff-5-115">1</staff>
+        <beam eid="F08_beam-0-116" number="1">begin</beam>
+        <notations eid="F08_notations-2-117">
+          <slur eid="F08_slur-1-118" number="1" type="stop" />
+          <ornaments eid="F08_ornaments-0-119">
+            <mordent eid="F08_mordent-0-120" />
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="221.49" default-y="15.00" eid="F08_note-3-121">
+        <pitch eid="F08_pitch-3-122">
+          <step eid="F08_step-3-123">B</step>
+          <octave eid="F08_octave-3-124">5</octave>
+          </pitch>
+        <duration eid="F08_duration-3-125">2</duration>
+        <voice eid="F08_voice-3-126">1</voice>
+        <type eid="F08_type-3-127">16th</type>
+        <stem eid="F08_stem-3-128">down</stem>
+        <staff eid="F08_staff-6-129">1</staff>
+        <beam eid="F08_beam-1-130" number="1">end</beam>
+        <beam eid="F08_beam-2-131" number="2">backward hook</beam>
+        </note>
+      <backup eid="F08_backup-0-132">
+        <duration eid="F08_duration-4-133">24</duration>
+        </backup>
+      <note default-x="88.95" default-y="-120.00" eid="F08_note-4-134">
+        <pitch eid="F08_pitch-4-135">
+          <step eid="F08_step-4-136">G</step>
+          <octave eid="F08_octave-4-137">3</octave>
+          </pitch>
+        <duration eid="F08_duration-5-138">24</duration>
+        <voice eid="F08_voice-4-139">5</voice>
+        <type eid="F08_type-4-140">half</type>
+        <dot eid="F08_dot-1-141" />
+        <stem eid="F08_stem-4-142">up</stem>
+        <staff eid="F08_staff-7-143">2</staff>
+        </note>
+      <backup eid="F08_backup-1-144">
+        <duration eid="F08_duration-6-145">24</duration>
+        </backup>
+      <note eid="F08_note-5-146">
+        <rest eid="F08_rest-0-147">
+          <display-step eid="F08_display-step-0-148">G</display-step>
+          <display-octave eid="F08_display-octave-0-149">4</display-octave>
+          </rest>
+        <duration eid="F08_duration-7-150">8</duration>
+        <voice eid="F08_voice-5-151">6</voice>
+        <type eid="F08_type-5-152">quarter</type>
+        <staff eid="F08_staff-8-153">2</staff>
+        </note>
+      <note default-x="134.74" default-y="-110.00" eid="F08_note-6-154">
+        <pitch eid="F08_pitch-5-155">
+          <step eid="F08_step-5-156">B</step>
+          <octave eid="F08_octave-5-157">3</octave>
+          </pitch>
+        <duration eid="F08_duration-8-158">16</duration>
+        <voice eid="F08_voice-6-159">6</voice>
+        <type eid="F08_type-6-160">half</type>
+        <stem eid="F08_stem-5-161">up</stem>
+        <staff eid="F08_staff-9-162">2</staff>
+        </note>
+      <backup eid="F08_backup-2-163">
+        <duration eid="F08_duration-9-164">16</duration>
+        </backup>
+      <note eid="F08_note-7-165">
+        <rest eid="F08_rest-1-166">
+          <display-step eid="F08_display-step-1-167">A</display-step>
+          <display-octave eid="F08_display-octave-1-168">3</display-octave>
+          </rest>
+        <duration eid="F08_duration-10-169">8</duration>
+        <voice eid="F08_voice-7-170">7</voice>
+        <type eid="F08_type-7-171">quarter</type>
+        <staff eid="F08_staff-10-172">2</staff>
+        </note>
+      <note default-x="180.89" default-y="-100.00" eid="F08_note-8-173">
+        <pitch eid="F08_pitch-6-174">
+          <step eid="F08_step-6-175">D</step>
+          <octave eid="F08_octave-6-176">4</octave>
+          </pitch>
+        <duration eid="F08_duration-11-177">8</duration>
+        <voice eid="F08_voice-8-178">7</voice>
+        <type eid="F08_type-8-179">quarter</type>
+        <stem eid="F08_stem-6-180">up</stem>
+        <staff eid="F08_staff-11-181">2</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-1-182" number="2" width="194.01">
+      <note default-x="12.94" default-y="10.00" eid="F08_note-9-183">
+        <pitch eid="F08_pitch-7-184">
+          <step eid="F08_step-7-185">A</step>
+          <octave eid="F08_octave-7-186">5</octave>
+          </pitch>
+        <duration eid="F08_duration-12-187">4</duration>
+        <voice eid="F08_voice-9-188">1</voice>
+        <type eid="F08_type-9-189">eighth</type>
+        <stem eid="F08_stem-7-190">down</stem>
+        <staff eid="F08_staff-12-191">1</staff>
+        <beam eid="F08_beam-3-192" number="1">begin</beam>
+        </note>
+      <note default-x="30.35" default-y="5.00" eid="F08_note-10-193">
+        <grace eid="F08_grace-0-194" />
+        <pitch eid="F08_pitch-8-195">
+          <step eid="F08_step-8-196">G</step>
+          <octave eid="F08_octave-8-197">5</octave>
+          </pitch>
+        <voice eid="F08_voice-10-198">1</voice>
+        <type eid="F08_type-10-199">16th</type>
+        <stem eid="F08_stem-8-200">up</stem>
+        <staff eid="F08_staff-13-201">1</staff>
+        <notations eid="F08_notations-3-202">
+          <slur eid="F08_slur-2-203" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="48.81" default-y="0.00" eid="F08_note-11-204">
+        <pitch eid="F08_pitch-9-205">
+          <step eid="F08_step-9-206">F</step>
+          <alter eid="F08_alter-0-207">1</alter>
+          <octave eid="F08_octave-9-208">5</octave>
+          </pitch>
+        <duration eid="F08_duration-13-209">4</duration>
+        <voice eid="F08_voice-11-210">1</voice>
+        <type eid="F08_type-11-211">eighth</type>
+        <stem eid="F08_stem-9-212">down</stem>
+        <staff eid="F08_staff-14-213">1</staff>
+        <beam eid="F08_beam-4-214" number="1">end</beam>
+        <notations eid="F08_notations-4-215">
+          <slur eid="F08_slur-3-216" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="65.87" default-y="-5.00" eid="F08_note-12-217">
+        <grace eid="F08_grace-1-218" />
+        <pitch eid="F08_pitch-10-219">
+          <step eid="F08_step-10-220">E</step>
+          <octave eid="F08_octave-10-221">5</octave>
+          </pitch>
+        <voice eid="F08_voice-12-222">1</voice>
+        <type eid="F08_type-12-223">16th</type>
+        <stem eid="F08_stem-10-224">up</stem>
+        <staff eid="F08_staff-15-225">1</staff>
+        <notations eid="F08_notations-5-226">
+          <slur eid="F08_slur-4-227" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="84.33" default-y="-10.00" eid="F08_note-13-228">
+        <pitch eid="F08_pitch-11-229">
+          <step eid="F08_step-11-230">D</step>
+          <octave eid="F08_octave-11-231">5</octave>
+          </pitch>
+        <duration eid="F08_duration-14-232">16</duration>
+        <voice eid="F08_voice-13-233">1</voice>
+        <type eid="F08_type-13-234">half</type>
+        <stem eid="F08_stem-11-235">down</stem>
+        <staff eid="F08_staff-16-236">1</staff>
+        <notations eid="F08_notations-6-237">
+          <slur eid="F08_slur-5-238" number="1" type="stop" />
+          </notations>
+        </note>
+      <backup eid="F08_backup-3-239">
+        <duration eid="F08_duration-15-240">24</duration>
+        </backup>
+      <note default-x="12.58" default-y="-125.00" eid="F08_note-14-241">
+        <pitch eid="F08_pitch-12-242">
+          <step eid="F08_step-12-243">F</step>
+          <alter eid="F08_alter-1-244">1</alter>
+          <octave eid="F08_octave-12-245">3</octave>
+          </pitch>
+        <duration eid="F08_duration-16-246">24</duration>
+        <voice eid="F08_voice-14-247">5</voice>
+        <type eid="F08_type-14-248">half</type>
+        <dot eid="F08_dot-2-249" />
+        <stem eid="F08_stem-12-250">down</stem>
+        <staff eid="F08_staff-17-251">2</staff>
+        </note>
+      <backup eid="F08_backup-4-252">
+        <duration eid="F08_duration-17-253">24</duration>
+        </backup>
+      <note eid="F08_note-15-254">
+        <rest eid="F08_rest-2-255">
+          <display-step eid="F08_display-step-2-256">G</display-step>
+          <display-octave eid="F08_display-octave-2-257">4</display-octave>
+          </rest>
+        <duration eid="F08_duration-18-258">8</duration>
+        <voice eid="F08_voice-15-259">6</voice>
+        <type eid="F08_type-15-260">quarter</type>
+        <staff eid="F08_staff-18-261">2</staff>
+        </note>
+      <note default-x="84.33" default-y="-115.00" eid="F08_note-16-262">
+        <pitch eid="F08_pitch-13-263">
+          <step eid="F08_step-13-264">A</step>
+          <octave eid="F08_octave-13-265">3</octave>
+          </pitch>
+        <duration eid="F08_duration-19-266">16</duration>
+        <voice eid="F08_voice-16-267">6</voice>
+        <type eid="F08_type-16-268">half</type>
+        <stem eid="F08_stem-13-269">up</stem>
+        <staff eid="F08_staff-19-270">2</staff>
+        </note>
+      <backup eid="F08_backup-5-271">
+        <duration eid="F08_duration-20-272">16</duration>
+        </backup>
+      <note eid="F08_note-17-273">
+        <rest eid="F08_rest-3-274">
+          <display-step eid="F08_display-step-3-275">A</display-step>
+          <display-octave eid="F08_display-octave-3-276">3</display-octave>
+          </rest>
+        <duration eid="F08_duration-21-277">8</duration>
+        <voice eid="F08_voice-17-278">7</voice>
+        <type eid="F08_type-17-279">quarter</type>
+        <staff eid="F08_staff-20-280">2</staff>
+        </note>
+      <note default-x="138.55" default-y="-100.00" eid="F08_note-18-281">
+        <pitch eid="F08_pitch-14-282">
+          <step eid="F08_step-14-283">D</step>
+          <octave eid="F08_octave-14-284">4</octave>
+          </pitch>
+        <duration eid="F08_duration-22-285">8</duration>
+        <voice eid="F08_voice-18-286">7</voice>
+        <type eid="F08_type-18-287">quarter</type>
+        <stem eid="F08_stem-14-288">up</stem>
+        <staff eid="F08_staff-21-289">2</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-2-290" number="3" width="177.84">
+      <note default-x="12.94" default-y="-30.00" eid="F08_note-19-291">
+        <pitch eid="F08_pitch-15-292">
+          <step eid="F08_step-15-293">G</step>
+          <octave eid="F08_octave-15-294">4</octave>
+          </pitch>
+        <duration eid="F08_duration-23-295">8</duration>
+        <voice eid="F08_voice-19-296">1</voice>
+        <type eid="F08_type-19-297">quarter</type>
+        <stem eid="F08_stem-15-298">up</stem>
+        <staff eid="F08_staff-22-299">1</staff>
+        <notations eid="F08_notations-7-300">
+          <articulations eid="F08_articulations-1-301">
+            <staccato eid="F08_staccato-1-302" />
+            </articulations>
+          <ornaments eid="F08_ornaments-1-303">
+            <mordent eid="F08_mordent-1-304" />
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="56.98" default-y="-30.00" eid="F08_note-20-305">
+        <pitch eid="F08_pitch-16-306">
+          <step eid="F08_step-16-307">G</step>
+          <octave eid="F08_octave-16-308">4</octave>
+          </pitch>
+        <duration eid="F08_duration-24-309">12</duration>
+        <voice eid="F08_voice-20-310">1</voice>
+        <type eid="F08_type-20-311">quarter</type>
+        <dot eid="F08_dot-3-312" />
+        <stem eid="F08_stem-16-313">up</stem>
+        <staff eid="F08_staff-23-314">1</staff>
+        </note>
+      <note default-x="133.05" default-y="-35.00" eid="F08_note-21-315">
+        <pitch eid="F08_pitch-17-316">
+          <step eid="F08_step-17-317">F</step>
+          <alter eid="F08_alter-2-318">1</alter>
+          <octave eid="F08_octave-17-319">4</octave>
+          </pitch>
+        <duration eid="F08_duration-25-320">2</duration>
+        <voice eid="F08_voice-21-321">1</voice>
+        <type eid="F08_type-21-322">16th</type>
+        <stem eid="F08_stem-17-323">up</stem>
+        <staff eid="F08_staff-24-324">1</staff>
+        <beam eid="F08_beam-5-325" number="1">begin</beam>
+        <beam eid="F08_beam-6-326" number="2">begin</beam>
+        </note>
+      <note default-x="153.07" default-y="-30.00" eid="F08_note-22-327">
+        <pitch eid="F08_pitch-18-328">
+          <step eid="F08_step-18-329">G</step>
+          <octave eid="F08_octave-18-330">4</octave>
+          </pitch>
+        <duration eid="F08_duration-26-331">2</duration>
+        <voice eid="F08_voice-22-332">1</voice>
+        <type eid="F08_type-22-333">16th</type>
+        <stem eid="F08_stem-18-334">up</stem>
+        <staff eid="F08_staff-25-335">1</staff>
+        <beam eid="F08_beam-7-336" number="1">end</beam>
+        <beam eid="F08_beam-8-337" number="2">end</beam>
+        </note>
+      <backup eid="F08_backup-6-338">
+        <duration eid="F08_duration-27-339">24</duration>
+        </backup>
+      <note default-x="12.58" default-y="-130.00" eid="F08_note-23-340">
+        <pitch eid="F08_pitch-19-341">
+          <step eid="F08_step-19-342">E</step>
+          <octave eid="F08_octave-19-343">3</octave>
+          </pitch>
+        <duration eid="F08_duration-28-344">24</duration>
+        <voice eid="F08_voice-23-345">5</voice>
+        <type eid="F08_type-23-346">half</type>
+        <dot eid="F08_dot-4-347" />
+        <stem eid="F08_stem-19-348">down</stem>
+        <staff eid="F08_staff-26-349">2</staff>
+        </note>
+      <backup eid="F08_backup-7-350">
+        <duration eid="F08_duration-29-351">24</duration>
+        </backup>
+      <note eid="F08_note-24-352">
+        <rest eid="F08_rest-4-353">
+          <display-step eid="F08_display-step-4-354">G</display-step>
+          <display-octave eid="F08_display-octave-4-355">4</display-octave>
+          </rest>
+        <duration eid="F08_duration-30-356">8</duration>
+        <voice eid="F08_voice-24-357">6</voice>
+        <type eid="F08_type-24-358">quarter</type>
+        <staff eid="F08_staff-27-359">2</staff>
+        </note>
+      <note default-x="56.62" default-y="-120.00" eid="F08_note-25-360">
+        <pitch eid="F08_pitch-20-361">
+          <step eid="F08_step-20-362">G</step>
+          <octave eid="F08_octave-20-363">3</octave>
+          </pitch>
+        <duration eid="F08_duration-31-364">16</duration>
+        <voice eid="F08_voice-25-365">6</voice>
+        <type eid="F08_type-25-366">half</type>
+        <stem eid="F08_stem-20-367">up</stem>
+        <staff eid="F08_staff-28-368">2</staff>
+        </note>
+      <backup eid="F08_backup-8-369">
+        <duration eid="F08_duration-32-370">16</duration>
+        </backup>
+      <note eid="F08_note-26-371">
+        <rest eid="F08_rest-5-372">
+          <display-step eid="F08_display-step-5-373">A</display-step>
+          <display-octave eid="F08_display-octave-5-374">3</display-octave>
+          </rest>
+        <duration eid="F08_duration-33-375">8</duration>
+        <voice eid="F08_voice-26-376">7</voice>
+        <type eid="F08_type-26-377">quarter</type>
+        <staff eid="F08_staff-29-378">2</staff>
+        </note>
+      <note default-x="101.02" default-y="-105.00" eid="F08_note-27-379">
+        <pitch eid="F08_pitch-21-380">
+          <step eid="F08_step-21-381">C</step>
+          <alter eid="F08_alter-3-382">1</alter>
+          <octave eid="F08_octave-21-383">4</octave>
+          </pitch>
+        <duration eid="F08_duration-34-384">8</duration>
+        <voice eid="F08_voice-27-385">7</voice>
+        <type eid="F08_type-27-386">quarter</type>
+        <accidental eid="F08_accidental-0-387">sharp</accidental>
+        <stem eid="F08_stem-21-388">up</stem>
+        <staff eid="F08_staff-30-389">2</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-3-390" number="4" width="261.08">
+      <note default-x="12.94" default-y="-25.00" eid="F08_note-28-391">
+        <pitch eid="F08_pitch-22-392">
+          <step eid="F08_step-22-393">A</step>
+          <octave eid="F08_octave-22-394">4</octave>
+          </pitch>
+        <duration eid="F08_duration-35-395">1</duration>
+        <voice eid="F08_voice-28-396">1</voice>
+        <type eid="F08_type-28-397">32nd</type>
+        <stem eid="F08_stem-22-398">up</stem>
+        <staff eid="F08_staff-31-399">1</staff>
+        <beam eid="F08_beam-9-400" number="1">begin</beam>
+        <beam eid="F08_beam-10-401" number="2">begin</beam>
+        <beam eid="F08_beam-11-402" number="3">begin</beam>
+        <notations eid="F08_notations-8-403">
+          <slur eid="F08_slur-6-404" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="29.34" default-y="-30.00" eid="F08_note-29-405">
+        <pitch eid="F08_pitch-23-406">
+          <step eid="F08_step-23-407">G</step>
+          <octave eid="F08_octave-23-408">4</octave>
+          </pitch>
+        <duration eid="F08_duration-36-409">1</duration>
+        <voice eid="F08_voice-29-410">1</voice>
+        <type eid="F08_type-29-411">32nd</type>
+        <stem eid="F08_stem-23-412">up</stem>
+        <staff eid="F08_staff-32-413">1</staff>
+        <beam eid="F08_beam-12-414" number="1">continue</beam>
+        <beam eid="F08_beam-13-415" number="2">continue</beam>
+        <beam eid="F08_beam-14-416" number="3">end</beam>
+        </note>
+      <note default-x="45.74" default-y="-35.00" eid="F08_note-30-417">
+        <pitch eid="F08_pitch-24-418">
+          <step eid="F08_step-24-419">F</step>
+          <alter eid="F08_alter-4-420">1</alter>
+          <octave eid="F08_octave-24-421">4</octave>
+          </pitch>
+        <duration eid="F08_duration-37-422">2</duration>
+        <voice eid="F08_voice-30-423">1</voice>
+        <type eid="F08_type-30-424">16th</type>
+        <stem eid="F08_stem-24-425">up</stem>
+        <staff eid="F08_staff-33-426">1</staff>
+        <beam eid="F08_beam-15-427" number="1">continue</beam>
+        <beam eid="F08_beam-16-428" number="2">continue</beam>
+        <notations eid="F08_notations-9-429">
+          <slur eid="F08_slur-7-430" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="71.99" default-y="-30.00" eid="F08_note-31-431">
+        <pitch eid="F08_pitch-25-432">
+          <step eid="F08_step-25-433">G</step>
+          <octave eid="F08_octave-25-434">4</octave>
+          </pitch>
+        <duration eid="F08_duration-38-435">1</duration>
+        <voice eid="F08_voice-31-436">1</voice>
+        <type eid="F08_type-31-437">32nd</type>
+        <stem eid="F08_stem-25-438">up</stem>
+        <staff eid="F08_staff-34-439">1</staff>
+        <beam eid="F08_beam-17-440" number="1">continue</beam>
+        <beam eid="F08_beam-18-441" number="2">continue</beam>
+        <beam eid="F08_beam-19-442" number="3">begin</beam>
+        <notations eid="F08_notations-10-443">
+          <slur eid="F08_slur-8-444" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="88.39" default-y="-35.00" eid="F08_note-32-445">
+        <pitch eid="F08_pitch-26-446">
+          <step eid="F08_step-26-447">F</step>
+          <alter eid="F08_alter-5-448">1</alter>
+          <octave eid="F08_octave-26-449">4</octave>
+          </pitch>
+        <duration eid="F08_duration-39-450">1</duration>
+        <voice eid="F08_voice-32-451">1</voice>
+        <type eid="F08_type-32-452">32nd</type>
+        <stem eid="F08_stem-26-453">up</stem>
+        <staff eid="F08_staff-35-454">1</staff>
+        <beam eid="F08_beam-20-455" number="1">continue</beam>
+        <beam eid="F08_beam-21-456" number="2">continue</beam>
+        <beam eid="F08_beam-22-457" number="3">end</beam>
+        </note>
+      <note default-x="104.80" default-y="-40.00" eid="F08_note-33-458">
+        <pitch eid="F08_pitch-27-459">
+          <step eid="F08_step-27-460">E</step>
+          <octave eid="F08_octave-27-461">4</octave>
+          </pitch>
+        <duration eid="F08_duration-40-462">2</duration>
+        <voice eid="F08_voice-33-463">1</voice>
+        <type eid="F08_type-33-464">16th</type>
+        <stem eid="F08_stem-27-465">up</stem>
+        <staff eid="F08_staff-36-466">1</staff>
+        <beam eid="F08_beam-23-467" number="1">end</beam>
+        <beam eid="F08_beam-24-468" number="2">end</beam>
+        <notations eid="F08_notations-11-469">
+          <slur eid="F08_slur-9-470" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="122.57" default-y="-40.00" eid="F08_note-34-471">
+        <grace eid="F08_grace-2-472" />
+        <pitch eid="F08_pitch-28-473">
+          <step eid="F08_step-28-474">E</step>
+          <octave eid="F08_octave-28-475">4</octave>
+          </pitch>
+        <voice eid="F08_voice-34-476">1</voice>
+        <type eid="F08_type-34-477">eighth</type>
+        <stem eid="F08_stem-28-478">up</stem>
+        <staff eid="F08_staff-37-479">1</staff>
+        <notations eid="F08_notations-12-480">
+          <slur eid="F08_slur-10-481" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="141.02" default-y="-45.00" eid="F08_note-35-482">
+        <pitch eid="F08_pitch-29-483">
+          <step eid="F08_step-29-484">D</step>
+          <octave eid="F08_octave-29-485">4</octave>
+          </pitch>
+        <duration eid="F08_duration-41-486">16</duration>
+        <voice eid="F08_voice-35-487">1</voice>
+        <type eid="F08_type-35-488">half</type>
+        <stem eid="F08_stem-29-489">up</stem>
+        <staff eid="F08_staff-38-490">1</staff>
+        <notations eid="F08_notations-13-491">
+          <slur eid="F08_slur-11-492" number="1" type="stop" />
+          </notations>
+        </note>
+      <backup eid="F08_backup-9-493">
+        <duration eid="F08_duration-42-494">24</duration>
+        </backup>
+      <note default-x="12.58" default-y="-135.00" eid="F08_note-36-495">
+        <pitch eid="F08_pitch-30-496">
+          <step eid="F08_step-30-497">D</step>
+          <octave eid="F08_octave-30-498">3</octave>
+          </pitch>
+        <duration eid="F08_duration-43-499">16</duration>
+        <tie eid="F08_tie-0-500" type="start" />
+        <voice eid="F08_voice-36-501">5</voice>
+        <type eid="F08_type-36-502">half</type>
+        <stem eid="F08_stem-30-503">down</stem>
+        <staff eid="F08_staff-39-504">2</staff>
+        <notations eid="F08_notations-14-505">
+          <tied eid="F08_tied-0-506" type="start" />
+          </notations>
+        </note>
+      <note default-x="187.31" default-y="-135.00" eid="F08_note-37-507">
+        <pitch eid="F08_pitch-31-508">
+          <step eid="F08_step-31-509">D</step>
+          <octave eid="F08_octave-31-510">3</octave>
+          </pitch>
+        <duration eid="F08_duration-44-511">4</duration>
+        <tie eid="F08_tie-1-512" type="stop" />
+        <voice eid="F08_voice-37-513">5</voice>
+        <type eid="F08_type-37-514">eighth</type>
+        <stem eid="F08_stem-31-515">down</stem>
+        <staff eid="F08_staff-40-516">2</staff>
+        <beam eid="F08_beam-25-517" number="1">begin</beam>
+        <notations eid="F08_notations-15-518">
+          <tied eid="F08_tied-1-519" type="stop" />
+          </notations>
+        </note>
+      <note default-x="223.39" default-y="-140.00" eid="F08_note-38-520">
+        <pitch eid="F08_pitch-32-521">
+          <step eid="F08_step-32-522">C</step>
+          <octave eid="F08_octave-32-523">3</octave>
+          </pitch>
+        <duration eid="F08_duration-45-524">4</duration>
+        <voice eid="F08_voice-38-525">5</voice>
+        <type eid="F08_type-38-526">eighth</type>
+        <stem eid="F08_stem-32-527">down</stem>
+        <staff eid="F08_staff-41-528">2</staff>
+        <beam eid="F08_beam-26-529" number="1">end</beam>
+        </note>
+      <backup eid="F08_backup-10-530">
+        <duration eid="F08_duration-46-531">24</duration>
+        </backup>
+      <note eid="F08_note-39-532">
+        <rest eid="F08_rest-6-533">
+          <display-step eid="F08_display-step-6-534">G</display-step>
+          <display-octave eid="F08_display-octave-6-535">4</display-octave>
+          </rest>
+        <duration eid="F08_duration-47-536">8</duration>
+        <voice eid="F08_voice-39-537">6</voice>
+        <type eid="F08_type-39-538">quarter</type>
+        <staff eid="F08_staff-42-539">2</staff>
+        </note>
+      <note default-x="141.02" default-y="-125.00" eid="F08_note-40-540">
+        <pitch eid="F08_pitch-33-541">
+          <step eid="F08_step-33-542">F</step>
+          <alter eid="F08_alter-6-543">1</alter>
+          <octave eid="F08_octave-33-544">3</octave>
+          </pitch>
+        <duration eid="F08_duration-48-545">16</duration>
+        <voice eid="F08_voice-40-546">6</voice>
+        <type eid="F08_type-40-547">half</type>
+        <stem eid="F08_stem-33-548">up</stem>
+        <staff eid="F08_staff-43-549">2</staff>
+        </note>
+      <backup eid="F08_backup-11-550">
+        <duration eid="F08_duration-49-551">16</duration>
+        </backup>
+      <note eid="F08_note-41-552">
+        <rest eid="F08_rest-7-553">
+          <display-step eid="F08_display-step-7-554">A</display-step>
+          <display-octave eid="F08_display-octave-7-555">3</display-octave>
+          </rest>
+        <duration eid="F08_duration-50-556">8</duration>
+        <voice eid="F08_voice-41-557">7</voice>
+        <type eid="F08_type-41-558">quarter</type>
+        <staff eid="F08_staff-44-559">2</staff>
+        </note>
+      <note default-x="187.31" default-y="-115.00" eid="F08_note-42-560">
+        <pitch eid="F08_pitch-34-561">
+          <step eid="F08_step-34-562">A</step>
+          <octave eid="F08_octave-34-563">3</octave>
+          </pitch>
+        <duration eid="F08_duration-51-564">8</duration>
+        <voice eid="F08_voice-42-565">7</voice>
+        <type eid="F08_type-42-566">quarter</type>
+        <stem eid="F08_stem-34-567">up</stem>
+        <staff eid="F08_staff-45-568">2</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-4-569" number="5" width="177.31">
+      <note default-x="12.94" default-y="-10.00" eid="F08_note-43-570">
+        <pitch eid="F08_pitch-35-571">
+          <step eid="F08_step-35-572">D</step>
+          <octave eid="F08_octave-35-573">5</octave>
+          </pitch>
+        <duration eid="F08_duration-52-574">8</duration>
+        <voice eid="F08_voice-43-575">1</voice>
+        <type eid="F08_type-43-576">quarter</type>
+        <stem eid="F08_stem-35-577">down</stem>
+        <staff eid="F08_staff-46-578">1</staff>
+        <notations eid="F08_notations-16-579">
+          <articulations eid="F08_articulations-2-580">
+            <staccato eid="F08_staccato-2-581" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="61.30" default-y="-10.00" eid="F08_note-44-582">
+        <pitch eid="F08_pitch-36-583">
+          <step eid="F08_step-36-584">D</step>
+          <octave eid="F08_octave-36-585">5</octave>
+          </pitch>
+        <duration eid="F08_duration-53-586">8</duration>
+        <voice eid="F08_voice-44-587">1</voice>
+        <type eid="F08_type-44-588">quarter</type>
+        <stem eid="F08_stem-36-589">down</stem>
+        <staff eid="F08_staff-47-590">1</staff>
+        <notations eid="F08_notations-17-591">
+          <slur eid="F08_slur-12-592" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="109.66" default-y="-5.00" eid="F08_note-45-593">
+        <pitch eid="F08_pitch-37-594">
+          <step eid="F08_step-37-595">E</step>
+          <octave eid="F08_octave-37-596">5</octave>
+          </pitch>
+        <duration eid="F08_duration-54-597">6</duration>
+        <voice eid="F08_voice-45-598">1</voice>
+        <type eid="F08_type-45-599">eighth</type>
+        <dot eid="F08_dot-5-600" />
+        <stem eid="F08_stem-37-601">down</stem>
+        <staff eid="F08_staff-48-602">1</staff>
+        <beam eid="F08_beam-27-603" number="1">begin</beam>
+        <notations eid="F08_notations-18-604">
+          <slur eid="F08_slur-13-605" number="1" type="stop" />
+          <ornaments eid="F08_ornaments-2-606">
+            <mordent eid="F08_mordent-2-607" />
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="152.54" default-y="0.00" eid="F08_note-46-608">
+        <pitch eid="F08_pitch-38-609">
+          <step eid="F08_step-38-610">F</step>
+          <octave eid="F08_octave-38-611">5</octave>
+          </pitch>
+        <duration eid="F08_duration-55-612">2</duration>
+        <voice eid="F08_voice-46-613">1</voice>
+        <type eid="F08_type-46-614">16th</type>
+        <accidental eid="F08_accidental-1-615">natural</accidental>
+        <stem eid="F08_stem-38-616">down</stem>
+        <staff eid="F08_staff-49-617">1</staff>
+        <beam eid="F08_beam-28-618" number="1">end</beam>
+        <beam eid="F08_beam-29-619" number="2">backward hook</beam>
+        </note>
+      <backup eid="F08_backup-12-620">
+        <duration eid="F08_duration-56-621">24</duration>
+        </backup>
+      <note default-x="12.58" default-y="-145.00" eid="F08_note-47-622">
+        <pitch eid="F08_pitch-39-623">
+          <step eid="F08_step-39-624">B</step>
+          <octave eid="F08_octave-39-625">2</octave>
+          </pitch>
+        <duration eid="F08_duration-57-626">24</duration>
+        <voice eid="F08_voice-47-627">5</voice>
+        <type eid="F08_type-47-628">half</type>
+        <dot eid="F08_dot-6-629" />
+        <stem eid="F08_stem-39-630">down</stem>
+        <staff eid="F08_staff-50-631">2</staff>
+        </note>
+      <backup eid="F08_backup-13-632">
+        <duration eid="F08_duration-58-633">24</duration>
+        </backup>
+      <note eid="F08_note-48-634">
+        <rest eid="F08_rest-8-635">
+          <display-step eid="F08_display-step-8-636">C</display-step>
+          <display-octave eid="F08_display-octave-8-637">4</display-octave>
+          </rest>
+        <duration eid="F08_duration-59-638">8</duration>
+        <voice eid="F08_voice-48-639">6</voice>
+        <type eid="F08_type-48-640">quarter</type>
+        <staff eid="F08_staff-51-641">2</staff>
+        </note>
+      <note default-x="60.94" default-y="-135.00" eid="F08_note-49-642">
+        <pitch eid="F08_pitch-40-643">
+          <step eid="F08_step-40-644">D</step>
+          <octave eid="F08_octave-40-645">3</octave>
+          </pitch>
+        <duration eid="F08_duration-60-646">16</duration>
+        <voice eid="F08_voice-49-647">6</voice>
+        <type eid="F08_type-49-648">half</type>
+        <stem eid="F08_stem-40-649">up</stem>
+        <staff eid="F08_staff-52-650">2</staff>
+        </note>
+      <backup eid="F08_backup-14-651">
+        <duration eid="F08_duration-61-652">16</duration>
+        </backup>
+      <note eid="F08_note-50-653">
+        <rest eid="F08_rest-9-654" />
+        <duration eid="F08_duration-62-655">8</duration>
+        <voice eid="F08_voice-50-656">7</voice>
+        <type eid="F08_type-50-657">quarter</type>
+        <staff eid="F08_staff-53-658">2</staff>
+        </note>
+      <note default-x="109.66" default-y="-120.00" eid="F08_note-51-659">
+        <pitch eid="F08_pitch-41-660">
+          <step eid="F08_step-41-661">G</step>
+          <octave eid="F08_octave-41-662">3</octave>
+          </pitch>
+        <duration eid="F08_duration-63-663">8</duration>
+        <voice eid="F08_voice-51-664">7</voice>
+        <type eid="F08_type-51-665">quarter</type>
+        <stem eid="F08_stem-41-666">up</stem>
+        <staff eid="F08_staff-54-667">2</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-5-668" number="6" width="277.94">
+      <print eid="F08_print-1-669" new-system="yes">
+        <system-layout eid="F08_system-layout-1-670">
+          <system-margins eid="F08_system-margins-1-671">
+            <left-margin eid="F08_left-margin-3-672">21.00</left-margin>
+            <right-margin eid="F08_right-margin-3-673">0.00</right-margin>
+            </system-margins>
+          <system-distance eid="F08_system-distance-0-674">150.00</system-distance>
+          </system-layout>
+        <staff-layout eid="F08_staff-layout-1-675" number="2">
+          <staff-distance eid="F08_staff-distance-1-676">75.00</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="68.21" default-y="-5.00" eid="F08_note-52-677">
+        <pitch eid="F08_pitch-42-678">
+          <step eid="F08_step-42-679">E</step>
+          <octave eid="F08_octave-42-680">5</octave>
+          </pitch>
+        <duration eid="F08_duration-64-681">4</duration>
+        <voice eid="F08_voice-52-682">1</voice>
+        <type eid="F08_type-52-683">eighth</type>
+        <stem eid="F08_stem-42-684">down</stem>
+        <staff eid="F08_staff-55-685">1</staff>
+        <beam eid="F08_beam-30-686" number="1">begin</beam>
+        </note>
+      <note default-x="86.91" default-y="-10.00" eid="F08_note-53-687">
+        <grace eid="F08_grace-3-688" />
+        <pitch eid="F08_pitch-43-689">
+          <step eid="F08_step-43-690">D</step>
+          <octave eid="F08_octave-43-691">5</octave>
+          </pitch>
+        <voice eid="F08_voice-53-692">1</voice>
+        <type eid="F08_type-53-693">16th</type>
+        <stem eid="F08_stem-43-694">up</stem>
+        <staff eid="F08_staff-56-695">1</staff>
+        <notations eid="F08_notations-19-696">
+          <slur eid="F08_slur-14-697" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="105.37" default-y="-15.00" eid="F08_note-54-698">
+        <pitch eid="F08_pitch-44-699">
+          <step eid="F08_step-44-700">C</step>
+          <octave eid="F08_octave-44-701">5</octave>
+          </pitch>
+        <duration eid="F08_duration-65-702">4</duration>
+        <voice eid="F08_voice-54-703">1</voice>
+        <type eid="F08_type-54-704">eighth</type>
+        <stem eid="F08_stem-44-705">down</stem>
+        <staff eid="F08_staff-57-706">1</staff>
+        <beam eid="F08_beam-31-707" number="1">end</beam>
+        <notations eid="F08_notations-20-708">
+          <slur eid="F08_slur-15-709" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="124.08" default-y="-20.00" eid="F08_note-55-710">
+        <grace eid="F08_grace-4-711" />
+        <pitch eid="F08_pitch-45-712">
+          <step eid="F08_step-45-713">B</step>
+          <octave eid="F08_octave-45-714">4</octave>
+          </pitch>
+        <voice eid="F08_voice-55-715">1</voice>
+        <type eid="F08_type-55-716">16th</type>
+        <stem eid="F08_stem-45-717">up</stem>
+        <staff eid="F08_staff-58-718">1</staff>
+        <notations eid="F08_notations-21-719">
+          <slur eid="F08_slur-16-720" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="142.54" default-y="-25.00" eid="F08_note-56-721">
+        <pitch eid="F08_pitch-46-722">
+          <step eid="F08_step-46-723">A</step>
+          <octave eid="F08_octave-46-724">4</octave>
+          </pitch>
+        <duration eid="F08_duration-66-725">12</duration>
+        <voice eid="F08_voice-56-726">1</voice>
+        <type eid="F08_type-56-727">quarter</type>
+        <dot eid="F08_dot-7-728" />
+        <stem eid="F08_stem-46-729">up</stem>
+        <staff eid="F08_staff-59-730">1</staff>
+        <notations eid="F08_notations-22-731">
+          <slur eid="F08_slur-17-732" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="239.18" default-y="0.00" eid="F08_note-57-733">
+        <pitch eid="F08_pitch-47-734">
+          <step eid="F08_step-47-735">F</step>
+          <alter eid="F08_alter-7-736">1</alter>
+          <octave eid="F08_octave-47-737">5</octave>
+          </pitch>
+        <duration eid="F08_duration-67-738">4</duration>
+        <voice eid="F08_voice-57-739">1</voice>
+        <type eid="F08_type-57-740">eighth</type>
+        <accidental eid="F08_accidental-2-741">sharp</accidental>
+        <stem eid="F08_stem-47-742">down</stem>
+        <staff eid="F08_staff-60-743">1</staff>
+        <notations eid="F08_notations-23-744">
+          <ornaments eid="F08_ornaments-3-745">
+            <turn eid="F08_turn-0-746" />
+            </ornaments>
+          </notations>
+        </note>
+      <backup eid="F08_backup-15-747">
+        <duration eid="F08_duration-68-748">24</duration>
+        </backup>
+      <note default-x="67.85" default-y="-140.00" eid="F08_note-58-749">
+        <pitch eid="F08_pitch-48-750">
+          <step eid="F08_step-48-751">C</step>
+          <octave eid="F08_octave-48-752">3</octave>
+          </pitch>
+        <duration eid="F08_duration-69-753">16</duration>
+        <tie eid="F08_tie-2-754" type="start" />
+        <voice eid="F08_voice-58-755">5</voice>
+        <type eid="F08_type-58-756">half</type>
+        <stem eid="F08_stem-48-757">down</stem>
+        <staff eid="F08_staff-61-758">2</staff>
+        <notations eid="F08_notations-24-759">
+          <tied eid="F08_tied-2-760" type="start" />
+          </notations>
+        </note>
+      <note default-x="202.01" default-y="-140.00" eid="F08_note-59-761">
+        <pitch eid="F08_pitch-49-762">
+          <step eid="F08_step-49-763">C</step>
+          <octave eid="F08_octave-49-764">3</octave>
+          </pitch>
+        <duration eid="F08_duration-70-765">4</duration>
+        <tie eid="F08_tie-3-766" type="stop" />
+        <voice eid="F08_voice-59-767">5</voice>
+        <type eid="F08_type-59-768">eighth</type>
+        <stem eid="F08_stem-49-769">down</stem>
+        <staff eid="F08_staff-62-770">2</staff>
+        <beam eid="F08_beam-32-771" number="1">begin</beam>
+        <notations eid="F08_notations-25-772">
+          <tied eid="F08_tied-3-773" type="stop" />
+          </notations>
+        </note>
+      <note default-x="239.18" default-y="-135.00" eid="F08_note-60-774">
+        <pitch eid="F08_pitch-50-775">
+          <step eid="F08_step-50-776">D</step>
+          <octave eid="F08_octave-50-777">3</octave>
+          </pitch>
+        <duration eid="F08_duration-71-778">4</duration>
+        <voice eid="F08_voice-60-779">5</voice>
+        <type eid="F08_type-60-780">eighth</type>
+        <stem eid="F08_stem-50-781">down</stem>
+        <staff eid="F08_staff-63-782">2</staff>
+        <beam eid="F08_beam-33-783" number="1">end</beam>
+        </note>
+      <backup eid="F08_backup-16-784">
+        <duration eid="F08_duration-72-785">24</duration>
+        </backup>
+      <note eid="F08_note-61-786">
+        <rest eid="F08_rest-10-787">
+          <display-step eid="F08_display-step-9-788">E</display-step>
+          <display-octave eid="F08_display-octave-9-789">4</display-octave>
+          </rest>
+        <duration eid="F08_duration-73-790">8</duration>
+        <voice eid="F08_voice-61-791">6</voice>
+        <type eid="F08_type-61-792">quarter</type>
+        <staff eid="F08_staff-64-793">2</staff>
+        </note>
+      <note default-x="142.18" default-y="-130.00" eid="F08_note-62-794">
+        <pitch eid="F08_pitch-51-795">
+          <step eid="F08_step-51-796">E</step>
+          <octave eid="F08_octave-51-797">3</octave>
+          </pitch>
+        <duration eid="F08_duration-74-798">16</duration>
+        <voice eid="F08_voice-62-799">6</voice>
+        <type eid="F08_type-62-800">half</type>
+        <stem eid="F08_stem-51-801">up</stem>
+        <staff eid="F08_staff-65-802">2</staff>
+        </note>
+      <backup eid="F08_backup-17-803">
+        <duration eid="F08_duration-75-804">16</duration>
+        </backup>
+      <note eid="F08_note-63-805">
+        <rest eid="F08_rest-11-806">
+          <display-step eid="F08_display-step-10-807">F</display-step>
+          <display-octave eid="F08_display-octave-10-808">3</display-octave>
+          </rest>
+        <duration eid="F08_duration-76-809">8</duration>
+        <voice eid="F08_voice-63-810">7</voice>
+        <type eid="F08_type-63-811">quarter</type>
+        <staff eid="F08_staff-66-812">2</staff>
+        </note>
+      <note default-x="202.01" default-y="-115.00" eid="F08_note-64-813">
+        <pitch eid="F08_pitch-52-814">
+          <step eid="F08_step-52-815">A</step>
+          <octave eid="F08_octave-52-816">3</octave>
+          </pitch>
+        <duration eid="F08_duration-77-817">8</duration>
+        <voice eid="F08_voice-64-818">7</voice>
+        <type eid="F08_type-64-819">quarter</type>
+        <stem eid="F08_stem-52-820">up</stem>
+        <staff eid="F08_staff-67-821">2</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-6-822" number="7" width="341.85">
+      <direction eid="F08_direction-3-823" placement="below">
+        <direction-type eid="F08_direction-type-3-824">
+          <wedge eid="F08_wedge-0-825" number="1" type="crescendo" />
+          </direction-type>
+        <staff eid="F08_staff-68-826">1</staff>
+        </direction>
+      <note default-x="12.20" default-y="5.00" eid="F08_note-65-827">
+        <pitch eid="F08_pitch-53-828">
+          <step eid="F08_step-53-829">G</step>
+          <octave eid="F08_octave-53-830">5</octave>
+          </pitch>
+        <duration eid="F08_duration-78-831">1</duration>
+        <voice eid="F08_voice-65-832">1</voice>
+        <type eid="F08_type-65-833">32nd</type>
+        <stem eid="F08_stem-53-834">down</stem>
+        <staff eid="F08_staff-69-835">1</staff>
+        <beam eid="F08_beam-34-836" number="1">begin</beam>
+        <beam eid="F08_beam-35-837" number="2">begin</beam>
+        <beam eid="F08_beam-36-838" number="3">forward hook</beam>
+        <notations eid="F08_notations-26-839">
+          <slur eid="F08_slur-18-840" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="28.56" default-y="0.00" eid="F08_note-66-841">
+        <pitch eid="F08_pitch-54-842">
+          <step eid="F08_step-54-843">F</step>
+          <alter eid="F08_alter-8-844">1</alter>
+          <octave eid="F08_octave-54-845">5</octave>
+          </pitch>
+        <duration eid="F08_duration-79-846">3</duration>
+        <voice eid="F08_voice-66-847">1</voice>
+        <type eid="F08_type-66-848">16th</type>
+        <dot eid="F08_dot-8-849" />
+        <stem eid="F08_stem-54-850">down</stem>
+        <staff eid="F08_staff-70-851">1</staff>
+        <beam eid="F08_beam-37-852" number="1">continue</beam>
+        <beam eid="F08_beam-38-853" number="2">continue</beam>
+        <notations eid="F08_notations-27-854">
+          <slur eid="F08_slur-19-855" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="60.48" default-y="10.00" eid="F08_note-67-856">
+        <pitch eid="F08_pitch-55-857">
+          <step eid="F08_step-55-858">A</step>
+          <octave eid="F08_octave-55-859">5</octave>
+          </pitch>
+        <duration eid="F08_duration-80-860">1</duration>
+        <voice eid="F08_voice-67-861">1</voice>
+        <type eid="F08_type-67-862">32nd</type>
+        <stem eid="F08_stem-55-863">down</stem>
+        <staff eid="F08_staff-71-864">1</staff>
+        <beam eid="F08_beam-39-865" number="1">continue</beam>
+        <beam eid="F08_beam-40-866" number="2">continue</beam>
+        <beam eid="F08_beam-41-867" number="3">forward hook</beam>
+        <notations eid="F08_notations-28-868">
+          <slur eid="F08_slur-20-869" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="76.84" default-y="5.00" eid="F08_note-68-870">
+        <pitch eid="F08_pitch-56-871">
+          <step eid="F08_step-56-872">G</step>
+          <octave eid="F08_octave-56-873">5</octave>
+          </pitch>
+        <duration eid="F08_duration-81-874">3</duration>
+        <voice eid="F08_voice-68-875">1</voice>
+        <type eid="F08_type-68-876">16th</type>
+        <dot eid="F08_dot-9-877" />
+        <stem eid="F08_stem-56-878">down</stem>
+        <staff eid="F08_staff-72-879">1</staff>
+        <beam eid="F08_beam-42-880" number="1">end</beam>
+        <beam eid="F08_beam-43-881" number="2">end</beam>
+        <notations eid="F08_notations-29-882">
+          <slur eid="F08_slur-21-883" number="1" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F08_direction-4-884" placement="below">
+        <direction-type eid="F08_direction-type-4-885">
+          <wedge eid="F08_wedge-1-886" number="1" type="stop" />
+          </direction-type>
+        <staff eid="F08_staff-73-887">1</staff>
+        </direction>
+      <direction eid="F08_direction-5-888" placement="below">
+        <direction-type eid="F08_direction-type-5-889">
+          <wedge eid="F08_wedge-2-890" number="1" type="diminuendo" />
+          </direction-type>
+        <staff eid="F08_staff-74-891">1</staff>
+        </direction>
+      <note default-x="108.75" default-y="0.00" eid="F08_note-69-892">
+        <pitch eid="F08_pitch-57-893">
+          <step eid="F08_step-57-894">F</step>
+          <alter eid="F08_alter-9-895">1</alter>
+          <octave eid="F08_octave-57-896">5</octave>
+          </pitch>
+        <duration eid="F08_duration-82-897">1</duration>
+        <voice eid="F08_voice-69-898">1</voice>
+        <type eid="F08_type-69-899">32nd</type>
+        <stem eid="F08_stem-57-900">down</stem>
+        <staff eid="F08_staff-75-901">1</staff>
+        <beam eid="F08_beam-44-902" number="1">begin</beam>
+        <beam eid="F08_beam-45-903" number="2">begin</beam>
+        <beam eid="F08_beam-46-904" number="3">forward hook</beam>
+        <notations eid="F08_notations-30-905">
+          <slur eid="F08_slur-22-906" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="125.11" default-y="-5.00" eid="F08_note-70-907">
+        <pitch eid="F08_pitch-58-908">
+          <step eid="F08_step-58-909">E</step>
+          <octave eid="F08_octave-58-910">5</octave>
+          </pitch>
+        <duration eid="F08_duration-83-911">3</duration>
+        <voice eid="F08_voice-70-912">1</voice>
+        <type eid="F08_type-70-913">16th</type>
+        <dot eid="F08_dot-10-914" />
+        <stem eid="F08_stem-58-915">down</stem>
+        <staff eid="F08_staff-76-916">1</staff>
+        <beam eid="F08_beam-47-917" number="1">continue</beam>
+        <beam eid="F08_beam-48-918" number="2">continue</beam>
+        <notations eid="F08_notations-31-919">
+          <slur eid="F08_slur-23-920" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="157.03" default-y="-10.00" eid="F08_note-71-921">
+        <pitch eid="F08_pitch-59-922">
+          <step eid="F08_step-59-923">D</step>
+          <octave eid="F08_octave-59-924">5</octave>
+          </pitch>
+        <duration eid="F08_duration-84-925">1</duration>
+        <voice eid="F08_voice-71-926">1</voice>
+        <type eid="F08_type-71-927">32nd</type>
+        <stem eid="F08_stem-59-928">down</stem>
+        <staff eid="F08_staff-77-929">1</staff>
+        <beam eid="F08_beam-49-930" number="1">continue</beam>
+        <beam eid="F08_beam-50-931" number="2">continue</beam>
+        <beam eid="F08_beam-51-932" number="3">forward hook</beam>
+        <notations eid="F08_notations-32-933">
+          <slur eid="F08_slur-24-934" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="173.39" default-y="-15.00" eid="F08_note-72-935">
+        <pitch eid="F08_pitch-60-936">
+          <step eid="F08_step-60-937">C</step>
+          <octave eid="F08_octave-60-938">5</octave>
+          </pitch>
+        <duration eid="F08_duration-85-939">3</duration>
+        <voice eid="F08_voice-72-940">1</voice>
+        <type eid="F08_type-72-941">16th</type>
+        <dot eid="F08_dot-11-942" />
+        <stem eid="F08_stem-60-943">down</stem>
+        <staff eid="F08_staff-78-944">1</staff>
+        <beam eid="F08_beam-52-945" number="1">end</beam>
+        <beam eid="F08_beam-53-946" number="2">end</beam>
+        <notations eid="F08_notations-33-947">
+          <slur eid="F08_slur-25-948" number="1" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F08_direction-6-949" placement="below">
+        <direction-type eid="F08_direction-type-6-950">
+          <wedge eid="F08_wedge-3-951" number="1" type="stop" />
+          </direction-type>
+        <staff eid="F08_staff-79-952">1</staff>
+        </direction>
+      <note default-x="212.69" default-y="-15.00" eid="F08_note-73-953">
+        <grace eid="F08_grace-5-954" />
+        <pitch eid="F08_pitch-61-955">
+          <step eid="F08_step-61-956">C</step>
+          <octave eid="F08_octave-61-957">5</octave>
+          </pitch>
+        <voice eid="F08_voice-73-958">1</voice>
+        <type eid="F08_type-73-959">16th</type>
+        <stem eid="F08_stem-61-960">up</stem>
+        <staff eid="F08_staff-80-961">1</staff>
+        <notations eid="F08_notations-34-962">
+          <slur eid="F08_slur-26-963" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="235.55" default-y="10.00" eid="F08_note-74-964">
+        <pitch eid="F08_pitch-62-965">
+          <step eid="F08_step-62-966">A</step>
+          <octave eid="F08_octave-62-967">5</octave>
+          </pitch>
+        <duration eid="F08_duration-86-968">6</duration>
+        <voice eid="F08_voice-74-969">1</voice>
+        <type eid="F08_type-74-970">eighth</type>
+        <dot eid="F08_dot-12-971" />
+        <stem eid="F08_stem-62-972">down</stem>
+        <staff eid="F08_staff-81-973">1</staff>
+        <beam eid="F08_beam-54-974" number="1">begin</beam>
+        <notations eid="F08_notations-35-975">
+          <slur eid="F08_slur-27-976" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="314.08" default-y="-15.00" eid="F08_note-75-977">
+        <pitch eid="F08_pitch-63-978">
+          <step eid="F08_step-63-979">C</step>
+          <octave eid="F08_octave-63-980">5</octave>
+          </pitch>
+        <duration eid="F08_duration-87-981">2</duration>
+        <voice eid="F08_voice-75-982">1</voice>
+        <type eid="F08_type-75-983">16th</type>
+        <stem eid="F08_stem-63-984">down</stem>
+        <staff eid="F08_staff-82-985">1</staff>
+        <beam eid="F08_beam-55-986" number="1">end</beam>
+        <beam eid="F08_beam-56-987" number="2">backward hook</beam>
+        </note>
+      <backup eid="F08_backup-18-988">
+        <duration eid="F08_duration-88-989">24</duration>
+        </backup>
+      <note default-x="12.20" default-y="-130.00" eid="F08_note-76-990">
+        <pitch eid="F08_pitch-64-991">
+          <step eid="F08_step-64-992">E</step>
+          <octave eid="F08_octave-64-993">3</octave>
+          </pitch>
+        <duration eid="F08_duration-89-994">4</duration>
+        <voice eid="F08_voice-76-995">5</voice>
+        <type eid="F08_type-76-996">eighth</type>
+        <stem eid="F08_stem-64-997">down</stem>
+        <staff eid="F08_staff-83-998">2</staff>
+        <beam eid="F08_beam-57-999" number="1">begin</beam>
+        </note>
+      <note default-x="60.48" default-y="-140.00" eid="F08_note-77-1000">
+        <pitch eid="F08_pitch-65-1001">
+          <step eid="F08_step-65-1002">C</step>
+          <octave eid="F08_octave-65-1003">3</octave>
+          </pitch>
+        <duration eid="F08_duration-90-1004">4</duration>
+        <voice eid="F08_voice-77-1005">5</voice>
+        <type eid="F08_type-77-1006">eighth</type>
+        <stem eid="F08_stem-65-1007">down</stem>
+        <staff eid="F08_staff-84-1008">2</staff>
+        <beam eid="F08_beam-58-1009" number="1">end</beam>
+        </note>
+      <note default-x="108.39" default-y="-135.00" eid="F08_note-78-1010">
+        <pitch eid="F08_pitch-66-1011">
+          <step eid="F08_step-66-1012">D</step>
+          <octave eid="F08_octave-66-1013">3</octave>
+          </pitch>
+        <duration eid="F08_duration-91-1014">16</duration>
+        <voice eid="F08_voice-78-1015">5</voice>
+        <type eid="F08_type-78-1016">half</type>
+        <stem eid="F08_stem-66-1017">down</stem>
+        <staff eid="F08_staff-85-1018">2</staff>
+        </note>
+      <backup eid="F08_backup-19-1019">
+        <duration eid="F08_duration-92-1020">24</duration>
+        </backup>
+      <note eid="F08_note-79-1021">
+        <rest eid="F08_rest-12-1022">
+          <display-step eid="F08_display-step-11-1023">G</display-step>
+          <display-octave eid="F08_display-octave-11-1024">4</display-octave>
+          </rest>
+        <duration eid="F08_duration-93-1025">4</duration>
+        <voice eid="F08_voice-79-1026">6</voice>
+        <type eid="F08_type-79-1027">eighth</type>
+        <staff eid="F08_staff-86-1028">2</staff>
+        </note>
+      <note default-x="60.48" default-y="-105.00" eid="F08_note-80-1029">
+        <pitch eid="F08_pitch-67-1030">
+          <step eid="F08_step-67-1031">C</step>
+          <octave eid="F08_octave-67-1032">4</octave>
+          </pitch>
+        <duration eid="F08_duration-94-1033">4</duration>
+        <tie eid="F08_tie-4-1034" type="start" />
+        <voice eid="F08_voice-80-1035">6</voice>
+        <type eid="F08_type-80-1036">eighth</type>
+        <stem eid="F08_stem-67-1037">up</stem>
+        <staff eid="F08_staff-87-1038">2</staff>
+        <notations eid="F08_notations-36-1039">
+          <tied eid="F08_tied-4-1040" type="start" />
+          </notations>
+        </note>
+      <note default-x="108.75" default-y="-105.00" eid="F08_note-81-1041">
+        <pitch eid="F08_pitch-68-1042">
+          <step eid="F08_step-68-1043">C</step>
+          <octave eid="F08_octave-68-1044">4</octave>
+          </pitch>
+        <duration eid="F08_duration-95-1045">4</duration>
+        <tie eid="F08_tie-5-1046" type="stop" />
+        <voice eid="F08_voice-81-1047">6</voice>
+        <type eid="F08_type-81-1048">eighth</type>
+        <stem eid="F08_stem-68-1049">up</stem>
+        <staff eid="F08_staff-88-1050">2</staff>
+        <beam eid="F08_beam-59-1051" number="1">begin</beam>
+        <notations eid="F08_notations-37-1052">
+          <tied eid="F08_tied-5-1053" type="stop" />
+          </notations>
+        </note>
+      <note default-x="157.03" default-y="-110.00" eid="F08_note-82-1054">
+        <pitch eid="F08_pitch-69-1055">
+          <step eid="F08_step-69-1056">B</step>
+          <octave eid="F08_octave-69-1057">3</octave>
+          </pitch>
+        <duration eid="F08_duration-96-1058">2</duration>
+        <voice eid="F08_voice-82-1059">6</voice>
+        <type eid="F08_type-82-1060">16th</type>
+        <stem eid="F08_stem-69-1061">up</stem>
+        <staff eid="F08_staff-89-1062">2</staff>
+        <beam eid="F08_beam-60-1063" number="1">continue</beam>
+        <beam eid="F08_beam-61-1064" number="2">begin</beam>
+        </note>
+      <note default-x="189.75" default-y="-115.00" eid="F08_note-83-1065">
+        <pitch eid="F08_pitch-70-1066">
+          <step eid="F08_step-70-1067">A</step>
+          <octave eid="F08_octave-70-1068">3</octave>
+          </pitch>
+        <duration eid="F08_duration-97-1069">2</duration>
+        <voice eid="F08_voice-83-1070">6</voice>
+        <type eid="F08_type-83-1071">16th</type>
+        <stem eid="F08_stem-70-1072">up</stem>
+        <staff eid="F08_staff-90-1073">2</staff>
+        <beam eid="F08_beam-62-1074" number="1">end</beam>
+        <beam eid="F08_beam-63-1075" number="2">end</beam>
+        </note>
+      <note default-x="235.55" default-y="-120.00" eid="F08_note-84-1076">
+        <pitch eid="F08_pitch-71-1077">
+          <step eid="F08_step-71-1078">G</step>
+          <octave eid="F08_octave-71-1079">3</octave>
+          </pitch>
+        <duration eid="F08_duration-98-1080">2</duration>
+        <voice eid="F08_voice-84-1081">6</voice>
+        <type eid="F08_type-84-1082">16th</type>
+        <stem eid="F08_stem-71-1083">up</stem>
+        <staff eid="F08_staff-91-1084">2</staff>
+        <beam eid="F08_beam-64-1085" number="1">begin</beam>
+        <beam eid="F08_beam-65-1086" number="2">begin</beam>
+        </note>
+      <note default-x="261.73" default-y="-125.00" eid="F08_note-85-1087">
+        <pitch eid="F08_pitch-72-1088">
+          <step eid="F08_step-72-1089">F</step>
+          <alter eid="F08_alter-10-1090">1</alter>
+          <octave eid="F08_octave-72-1091">3</octave>
+          </pitch>
+        <duration eid="F08_duration-99-1092">2</duration>
+        <voice eid="F08_voice-85-1093">6</voice>
+        <type eid="F08_type-85-1094">16th</type>
+        <stem eid="F08_stem-72-1095">up</stem>
+        <staff eid="F08_staff-92-1096">2</staff>
+        <beam eid="F08_beam-66-1097" number="1">continue</beam>
+        <beam eid="F08_beam-67-1098" number="2">continue</beam>
+        </note>
+      <note default-x="287.90" default-y="-130.00" eid="F08_note-86-1099">
+        <pitch eid="F08_pitch-73-1100">
+          <step eid="F08_step-73-1101">E</step>
+          <octave eid="F08_octave-73-1102">3</octave>
+          </pitch>
+        <duration eid="F08_duration-100-1103">2</duration>
+        <voice eid="F08_voice-86-1104">6</voice>
+        <type eid="F08_type-86-1105">16th</type>
+        <stem eid="F08_stem-73-1106">up</stem>
+        <staff eid="F08_staff-93-1107">2</staff>
+        <beam eid="F08_beam-68-1108" number="1">continue</beam>
+        <beam eid="F08_beam-69-1109" number="2">continue</beam>
+        </note>
+      <note default-x="314.08" default-y="-125.00" eid="F08_note-87-1110">
+        <pitch eid="F08_pitch-74-1111">
+          <step eid="F08_step-74-1112">F</step>
+          <alter eid="F08_alter-11-1113">1</alter>
+          <octave eid="F08_octave-74-1114">3</octave>
+          </pitch>
+        <duration eid="F08_duration-101-1115">2</duration>
+        <voice eid="F08_voice-87-1116">6</voice>
+        <type eid="F08_type-87-1117">16th</type>
+        <stem eid="F08_stem-74-1118">up</stem>
+        <staff eid="F08_staff-94-1119">2</staff>
+        <beam eid="F08_beam-70-1120" number="1">end</beam>
+        <beam eid="F08_beam-71-1121" number="2">end</beam>
+        </note>
+      </measure>
+    <measure eid="F08_measure-7-1122" number="8" width="244.13">
+      <note default-x="12.00" default-y="-20.00" eid="F08_note-88-1123">
+        <pitch eid="F08_pitch-75-1124">
+          <step eid="F08_step-75-1125">B</step>
+          <octave eid="F08_octave-75-1126">4</octave>
+          </pitch>
+        <duration eid="F08_duration-102-1127">1</duration>
+        <voice eid="F08_voice-88-1128">1</voice>
+        <type eid="F08_type-88-1129">32nd</type>
+        <stem eid="F08_stem-75-1130">up</stem>
+        <staff eid="F08_staff-95-1131">1</staff>
+        <beam eid="F08_beam-72-1132" number="1">begin</beam>
+        <beam eid="F08_beam-73-1133" number="2">begin</beam>
+        <beam eid="F08_beam-74-1134" number="3">forward hook</beam>
+        <notations eid="F08_notations-38-1135">
+          <slur eid="F08_slur-28-1136" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="28.82" default-y="-30.00" eid="F08_note-89-1137">
+        <pitch eid="F08_pitch-76-1138">
+          <step eid="F08_step-76-1139">G</step>
+          <octave eid="F08_octave-76-1140">4</octave>
+          </pitch>
+        <duration eid="F08_duration-103-1141">3</duration>
+        <voice eid="F08_voice-89-1142">1</voice>
+        <type eid="F08_type-89-1143">16th</type>
+        <dot eid="F08_dot-13-1144" />
+        <stem eid="F08_stem-76-1145">up</stem>
+        <staff eid="F08_staff-96-1146">1</staff>
+        <beam eid="F08_beam-75-1147" number="1">continue</beam>
+        <beam eid="F08_beam-76-1148" number="2">end</beam>
+        <notations eid="F08_notations-39-1149">
+          <slur eid="F08_slur-29-1150" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="61.65" default-y="-35.00" eid="F08_note-90-1151">
+        <pitch eid="F08_pitch-77-1152">
+          <step eid="F08_step-77-1153">F</step>
+          <alter eid="F08_alter-12-1154">1</alter>
+          <octave eid="F08_octave-77-1155">4</octave>
+          </pitch>
+        <duration eid="F08_duration-104-1156">4</duration>
+        <voice eid="F08_voice-90-1157">1</voice>
+        <type eid="F08_type-90-1158">eighth</type>
+        <stem eid="F08_stem-77-1159">up</stem>
+        <staff eid="F08_staff-97-1160">1</staff>
+        <beam eid="F08_beam-77-1161" number="1">end</beam>
+        </note>
+      <note default-x="79.86" default-y="-35.00" eid="F08_note-91-1162">
+        <grace eid="F08_grace-6-1163" />
+        <pitch eid="F08_pitch-78-1164">
+          <step eid="F08_step-78-1165">F</step>
+          <alter eid="F08_alter-13-1166">1</alter>
+          <octave eid="F08_octave-78-1167">4</octave>
+          </pitch>
+        <voice eid="F08_voice-91-1168">1</voice>
+        <type eid="F08_type-91-1169">eighth</type>
+        <stem eid="F08_stem-78-1170">up</stem>
+        <staff eid="F08_staff-98-1171">1</staff>
+        <notations eid="F08_notations-40-1172">
+          <slur eid="F08_slur-30-1173" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="98.30" default-y="-30.00" eid="F08_note-92-1174">
+        <pitch eid="F08_pitch-79-1175">
+          <step eid="F08_step-79-1176">G</step>
+          <octave eid="F08_octave-79-1177">4</octave>
+          </pitch>
+        <duration eid="F08_duration-105-1178">16</duration>
+        <voice eid="F08_voice-92-1179">1</voice>
+        <type eid="F08_type-92-1180">half</type>
+        <stem eid="F08_stem-79-1181">up</stem>
+        <staff eid="F08_staff-99-1182">1</staff>
+        <notations eid="F08_notations-41-1183">
+          <slur eid="F08_slur-31-1184" number="1" type="stop" />
+          <ornaments eid="F08_ornaments-4-1185">
+            <mordent eid="F08_mordent-3-1186" />
+            </ornaments>
+          </notations>
+        </note>
+      <backup eid="F08_backup-20-1187">
+        <duration eid="F08_duration-106-1188">24</duration>
+        </backup>
+      <note default-x="12.00" default-y="-155.00" eid="F08_note-93-1189">
+        <pitch eid="F08_pitch-80-1190">
+          <step eid="F08_step-80-1191">G</step>
+          <octave eid="F08_octave-80-1192">2</octave>
+          </pitch>
+        <duration eid="F08_duration-107-1193">12</duration>
+        <voice eid="F08_voice-93-1194">5</voice>
+        <type eid="F08_type-93-1195">quarter</type>
+        <dot eid="F08_dot-14-1196" />
+        <stem eid="F08_stem-80-1197">down</stem>
+        <staff eid="F08_staff-100-1198">2</staff>
+        </note>
+      <direction eid="F08_direction-7-1199" placement="below">
+        <direction-type eid="F08_direction-type-7-1200">
+          <wedge eid="F08_wedge-4-1201" number="1" type="crescendo" />
+          </direction-type>
+        <staff eid="F08_staff-101-1202">2</staff>
+        </direction>
+      <note default-x="135.68" default-y="-135.00" eid="F08_note-94-1203">
+        <pitch eid="F08_pitch-81-1204">
+          <step eid="F08_step-81-1205">D</step>
+          <octave eid="F08_octave-81-1206">3</octave>
+          </pitch>
+        <duration eid="F08_duration-108-1207">4</duration>
+        <voice eid="F08_voice-94-1208">5</voice>
+        <type eid="F08_type-94-1209">eighth</type>
+        <stem eid="F08_stem-81-1210">down</stem>
+        <staff eid="F08_staff-102-1211">2</staff>
+        <beam eid="F08_beam-78-1212" number="1">begin</beam>
+        </note>
+      <note default-x="172.69" default-y="-130.00" eid="F08_note-95-1213">
+        <pitch eid="F08_pitch-82-1214">
+          <step eid="F08_step-82-1215">E</step>
+          <octave eid="F08_octave-82-1216">3</octave>
+          </pitch>
+        <duration eid="F08_duration-109-1217">6</duration>
+        <voice eid="F08_voice-95-1218">5</voice>
+        <type eid="F08_type-95-1219">eighth</type>
+        <dot eid="F08_dot-15-1220" />
+        <stem eid="F08_stem-82-1221">down</stem>
+        <staff eid="F08_staff-103-1222">2</staff>
+        <beam eid="F08_beam-79-1223" number="1">continue</beam>
+        <notations eid="F08_notations-42-1224">
+          <ornaments eid="F08_ornaments-5-1225">
+            <mordent eid="F08_mordent-4-1226" />
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="215.61" default-y="-125.00" eid="F08_note-96-1227">
+        <pitch eid="F08_pitch-83-1228">
+          <step eid="F08_step-83-1229">F</step>
+          <alter eid="F08_alter-14-1230">1</alter>
+          <octave eid="F08_octave-83-1231">3</octave>
+          </pitch>
+        <duration eid="F08_duration-110-1232">2</duration>
+        <voice eid="F08_voice-96-1233">5</voice>
+        <type eid="F08_type-96-1234">16th</type>
+        <stem eid="F08_stem-83-1235">down</stem>
+        <staff eid="F08_staff-104-1236">2</staff>
+        <beam eid="F08_beam-80-1237" number="1">end</beam>
+        <beam eid="F08_beam-81-1238" number="2">backward hook</beam>
+        </note>
+      <direction eid="F08_direction-8-1239" placement="below">
+        <direction-type eid="F08_direction-type-8-1240">
+          <wedge eid="F08_wedge-5-1241" number="1" type="stop" />
+          </direction-type>
+        <staff eid="F08_staff-105-1242">2</staff>
+        </direction>
+      <backup eid="F08_backup-21-1243">
+        <duration eid="F08_duration-111-1244">24</duration>
+        </backup>
+      <note default-x="12.00" default-y="-120.00" eid="F08_note-97-1245">
+        <pitch eid="F08_pitch-84-1246">
+          <step eid="F08_step-84-1247">G</step>
+          <octave eid="F08_octave-84-1248">3</octave>
+          </pitch>
+        <duration eid="F08_duration-112-1249">4</duration>
+        <voice eid="F08_voice-97-1250">6</voice>
+        <type eid="F08_type-97-1251">eighth</type>
+        <stem eid="F08_stem-84-1252">up</stem>
+        <staff eid="F08_staff-106-1253">2</staff>
+        <beam eid="F08_beam-82-1254" number="1">begin</beam>
+        </note>
+      <note default-x="61.65" default-y="-115.00" eid="F08_note-98-1255">
+        <pitch eid="F08_pitch-85-1256">
+          <step eid="F08_step-85-1257">A</step>
+          <octave eid="F08_octave-85-1258">3</octave>
+          </pitch>
+        <duration eid="F08_duration-113-1259">4</duration>
+        <voice eid="F08_voice-98-1260">6</voice>
+        <type eid="F08_type-98-1261">eighth</type>
+        <stem eid="F08_stem-85-1262">up</stem>
+        <staff eid="F08_staff-107-1263">2</staff>
+        <beam eid="F08_beam-83-1264" number="1">end</beam>
+        </note>
+      <note default-x="98.30" default-y="-110.00" eid="F08_note-99-1265">
+        <pitch eid="F08_pitch-86-1266">
+          <step eid="F08_step-86-1267">B</step>
+          <octave eid="F08_octave-86-1268">3</octave>
+          </pitch>
+        <duration eid="F08_duration-114-1269">16</duration>
+        <voice eid="F08_voice-99-1270">6</voice>
+        <type eid="F08_type-99-1271">half</type>
+        <stem eid="F08_stem-86-1272">up</stem>
+        <staff eid="F08_staff-108-1273">2</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-8-1274" number="9" width="192.57">
+      <note default-x="12.94" default-y="-20.00" eid="F08_note-100-1275">
+        <pitch eid="F08_pitch-87-1276">
+          <step eid="F08_step-87-1277">B</step>
+          <octave eid="F08_octave-87-1278">4</octave>
+          </pitch>
+        <duration eid="F08_duration-115-1279">8</duration>
+        <voice eid="F08_voice-100-1280">1</voice>
+        <type eid="F08_type-100-1281">quarter</type>
+        <stem eid="F08_stem-87-1282">down</stem>
+        <staff eid="F08_staff-109-1283">1</staff>
+        <notations eid="F08_notations-43-1284">
+          <articulations eid="F08_articulations-3-1285">
+            <staccato eid="F08_staccato-3-1286" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="66.22" default-y="-20.00" eid="F08_note-101-1287">
+        <pitch eid="F08_pitch-88-1288">
+          <step eid="F08_step-88-1289">B</step>
+          <octave eid="F08_octave-88-1290">4</octave>
+          </pitch>
+        <duration eid="F08_duration-116-1291">8</duration>
+        <voice eid="F08_voice-101-1292">1</voice>
+        <type eid="F08_type-101-1293">quarter</type>
+        <stem eid="F08_stem-88-1294">down</stem>
+        <staff eid="F08_staff-110-1295">1</staff>
+        <notations eid="F08_notations-44-1296">
+          <slur eid="F08_slur-32-1297" number="1" type="start" />
+          </notations>
+        </note>
+      <direction eid="F08_direction-9-1298" placement="below">
+        <direction-type eid="F08_direction-type-9-1299">
+          <words eid="F08_words-2-1300" font-style="italic">cresc.</words>
+          </direction-type>
+        <staff eid="F08_staff-111-1301">1</staff>
+        </direction>
+      <note default-x="119.50" default-y="-15.00" eid="F08_note-102-1302">
+        <pitch eid="F08_pitch-89-1303">
+          <step eid="F08_step-89-1304">C</step>
+          <alter eid="F08_alter-15-1305">1</alter>
+          <octave eid="F08_octave-89-1306">5</octave>
+          </pitch>
+        <duration eid="F08_duration-117-1307">6</duration>
+        <voice eid="F08_voice-102-1308">1</voice>
+        <type eid="F08_type-102-1309">eighth</type>
+        <dot eid="F08_dot-16-1310" />
+        <accidental eid="F08_accidental-3-1311">sharp</accidental>
+        <stem eid="F08_stem-89-1312">down</stem>
+        <staff eid="F08_staff-112-1313">1</staff>
+        <beam eid="F08_beam-84-1314" number="1">begin</beam>
+        <notations eid="F08_notations-45-1315">
+          <slur eid="F08_slur-33-1316" number="1" type="stop" />
+          <ornaments eid="F08_ornaments-6-1317">
+            <mordent eid="F08_mordent-5-1318" />
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="166.75" default-y="-10.00" eid="F08_note-103-1319">
+        <pitch eid="F08_pitch-90-1320">
+          <step eid="F08_step-90-1321">D</step>
+          <octave eid="F08_octave-90-1322">5</octave>
+          </pitch>
+        <duration eid="F08_duration-118-1323">2</duration>
+        <voice eid="F08_voice-103-1324">1</voice>
+        <type eid="F08_type-103-1325">16th</type>
+        <stem eid="F08_stem-90-1326">down</stem>
+        <staff eid="F08_staff-113-1327">1</staff>
+        <beam eid="F08_beam-85-1328" number="1">end</beam>
+        <beam eid="F08_beam-86-1329" number="2">backward hook</beam>
+        </note>
+      <backup eid="F08_backup-22-1330">
+        <duration eid="F08_duration-119-1331">24</duration>
+        </backup>
+      <note default-x="12.58" default-y="-120.00" eid="F08_note-104-1332">
+        <pitch eid="F08_pitch-91-1333">
+          <step eid="F08_step-91-1334">G</step>
+          <octave eid="F08_octave-91-1335">3</octave>
+          </pitch>
+        <duration eid="F08_duration-120-1336">24</duration>
+        <tie eid="F08_tie-6-1337" type="start" />
+        <voice eid="F08_voice-104-1338">5</voice>
+        <type eid="F08_type-104-1339">half</type>
+        <dot eid="F08_dot-17-1340" />
+        <stem eid="F08_stem-91-1341">down</stem>
+        <staff eid="F08_staff-114-1342">2</staff>
+        <notations eid="F08_notations-46-1343">
+          <tied eid="F08_tied-6-1344" type="start" />
+          </notations>
+        </note>
+      <backup eid="F08_backup-23-1345">
+        <duration eid="F08_duration-121-1346">24</duration>
+        </backup>
+      <note eid="F08_note-105-1347">
+        <rest eid="F08_rest-13-1348">
+          <display-step eid="F08_display-step-12-1349">G</display-step>
+          <display-octave eid="F08_display-octave-12-1350">4</display-octave>
+          </rest>
+        <duration eid="F08_duration-122-1351">8</duration>
+        <voice eid="F08_voice-105-1352">6</voice>
+        <type eid="F08_type-105-1353">quarter</type>
+        <staff eid="F08_staff-115-1354">2</staff>
+        </note>
+      <note default-x="65.86" default-y="-110.00" eid="F08_note-106-1355">
+        <pitch eid="F08_pitch-92-1356">
+          <step eid="F08_step-92-1357">B</step>
+          <octave eid="F08_octave-92-1358">3</octave>
+          </pitch>
+        <duration eid="F08_duration-123-1359">16</duration>
+        <voice eid="F08_voice-106-1360">6</voice>
+        <type eid="F08_type-106-1361">half</type>
+        <stem eid="F08_stem-92-1362">up</stem>
+        <staff eid="F08_staff-116-1363">2</staff>
+        </note>
+      <backup eid="F08_backup-24-1364">
+        <duration eid="F08_duration-124-1365">16</duration>
+        </backup>
+      <note eid="F08_note-107-1366">
+        <rest eid="F08_rest-14-1367">
+          <display-step eid="F08_display-step-13-1368">A</display-step>
+          <display-octave eid="F08_display-octave-13-1369">3</display-octave>
+          </rest>
+        <duration eid="F08_duration-125-1370">8</duration>
+        <voice eid="F08_voice-107-1371">7</voice>
+        <type eid="F08_type-107-1372">quarter</type>
+        <staff eid="F08_staff-117-1373">2</staff>
+        </note>
+      <note default-x="119.50" default-y="-95.00" eid="F08_note-108-1374">
+        <pitch eid="F08_pitch-93-1375">
+          <step eid="F08_step-93-1376">E</step>
+          <octave eid="F08_octave-93-1377">4</octave>
+          </pitch>
+        <duration eid="F08_duration-126-1378">8</duration>
+        <voice eid="F08_voice-108-1379">7</voice>
+        <type eid="F08_type-108-1380">quarter</type>
+        <stem eid="F08_stem-93-1381">up</stem>
+        <staff eid="F08_staff-118-1382">2</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-9-1383" number="10" width="296.55">
+      <print eid="F08_print-2-1384" new-system="yes">
+        <system-layout eid="F08_system-layout-2-1385">
+          <system-margins eid="F08_system-margins-2-1386">
+            <left-margin eid="F08_left-margin-4-1387">21.00</left-margin>
+            <right-margin eid="F08_right-margin-4-1388">0.00</right-margin>
+            </system-margins>
+          <system-distance eid="F08_system-distance-1-1389">150.00</system-distance>
+          </system-layout>
+        <staff-layout eid="F08_staff-layout-2-1390" number="2">
+          <staff-distance eid="F08_staff-distance-2-1391">75.00</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="69.77" default-y="-10.00" eid="F08_note-109-1392">
+        <pitch eid="F08_pitch-94-1393">
+          <step eid="F08_step-94-1394">D</step>
+          <octave eid="F08_octave-94-1395">5</octave>
+          </pitch>
+        <duration eid="F08_duration-127-1396">2</duration>
+        <voice eid="F08_voice-109-1397">1</voice>
+        <type eid="F08_type-109-1398">16th</type>
+        <stem eid="F08_stem-94-1399">up</stem>
+        <staff eid="F08_staff-119-1400">1</staff>
+        <beam eid="F08_beam-87-1401" number="1">begin</beam>
+        <beam eid="F08_beam-88-1402" number="2">begin</beam>
+        </note>
+      <note default-x="100.85" default-y="-15.00" eid="F08_note-110-1403">
+        <pitch eid="F08_pitch-95-1404">
+          <step eid="F08_step-95-1405">C</step>
+          <alter eid="F08_alter-16-1406">1</alter>
+          <octave eid="F08_octave-95-1407">5</octave>
+          </pitch>
+        <duration eid="F08_duration-128-1408">2</duration>
+        <voice eid="F08_voice-110-1409">1</voice>
+        <type eid="F08_type-110-1410">16th</type>
+        <accidental eid="F08_accidental-4-1411">sharp</accidental>
+        <stem eid="F08_stem-95-1412">up</stem>
+        <staff eid="F08_staff-120-1413">1</staff>
+        <beam eid="F08_beam-89-1414" number="1">continue</beam>
+        <beam eid="F08_beam-90-1415" number="2">continue</beam>
+        </note>
+      <note default-x="121.45" default-y="-20.00" eid="F08_note-111-1416">
+        <pitch eid="F08_pitch-96-1417">
+          <step eid="F08_step-96-1418">B</step>
+          <octave eid="F08_octave-96-1419">4</octave>
+          </pitch>
+        <duration eid="F08_duration-129-1420">2</duration>
+        <voice eid="F08_voice-111-1421">1</voice>
+        <type eid="F08_type-111-1422">16th</type>
+        <stem eid="F08_stem-96-1423">up</stem>
+        <staff eid="F08_staff-121-1424">1</staff>
+        <beam eid="F08_beam-91-1425" number="1">continue</beam>
+        <beam eid="F08_beam-92-1426" number="2">continue</beam>
+        </note>
+      <note default-x="142.06" default-y="-25.00" eid="F08_note-112-1427">
+        <pitch eid="F08_pitch-97-1428">
+          <step eid="F08_step-97-1429">A</step>
+          <octave eid="F08_octave-97-1430">4</octave>
+          </pitch>
+        <duration eid="F08_duration-130-1431">2</duration>
+        <tie eid="F08_tie-7-1432" type="start" />
+        <voice eid="F08_voice-112-1433">1</voice>
+        <type eid="F08_type-112-1434">16th</type>
+        <stem eid="F08_stem-97-1435">up</stem>
+        <staff eid="F08_staff-122-1436">1</staff>
+        <beam eid="F08_beam-93-1437" number="1">end</beam>
+        <beam eid="F08_beam-94-1438" number="2">end</beam>
+        <notations eid="F08_notations-47-1439">
+          <tied eid="F08_tied-7-1440" type="start" />
+          </notations>
+        </note>
+      <note default-x="162.72" default-y="-25.00" eid="F08_note-113-1441">
+        <pitch eid="F08_pitch-98-1442">
+          <step eid="F08_step-98-1443">A</step>
+          <octave eid="F08_octave-98-1444">4</octave>
+          </pitch>
+        <duration eid="F08_duration-131-1445">16</duration>
+        <tie eid="F08_tie-8-1446" type="stop" />
+        <voice eid="F08_voice-113-1447">1</voice>
+        <type eid="F08_type-113-1448">half</type>
+        <stem eid="F08_stem-98-1449">up</stem>
+        <staff eid="F08_staff-123-1450">1</staff>
+        <notations eid="F08_notations-48-1451">
+          <tied eid="F08_tied-8-1452" type="stop" />
+          </notations>
+        </note>
+      <backup eid="F08_backup-25-1453">
+        <duration eid="F08_duration-132-1454">16</duration>
+        </backup>
+      <note default-x="157.72" default-y="-10.00" eid="F08_note-114-1455">
+        <pitch eid="F08_pitch-99-1456">
+          <step eid="F08_step-99-1457">D</step>
+          <octave eid="F08_octave-99-1458">5</octave>
+          </pitch>
+        <duration eid="F08_duration-133-1459">16</duration>
+        <voice eid="F08_voice-114-1460">2</voice>
+        <type eid="F08_type-114-1461">half</type>
+        <stem eid="F08_stem-99-1462">up</stem>
+        <staff eid="F08_staff-124-1463">1</staff>
+        </note>
+      <backup eid="F08_backup-26-1464">
+        <duration eid="F08_duration-134-1465">24</duration>
+        </backup>
+      <note default-x="81.63" default-y="-120.00" eid="F08_note-115-1466">
+        <pitch eid="F08_pitch-100-1467">
+          <step eid="F08_step-100-1468">G</step>
+          <octave eid="F08_octave-100-1469">3</octave>
+          </pitch>
+        <duration eid="F08_duration-135-1470">8</duration>
+        <tie eid="F08_tie-9-1471" type="stop" />
+        <voice eid="F08_voice-115-1472">5</voice>
+        <type eid="F08_type-115-1473">quarter</type>
+        <stem eid="F08_stem-100-1474">down</stem>
+        <staff eid="F08_staff-125-1475">2</staff>
+        <notations eid="F08_notations-49-1476">
+          <tied eid="F08_tied-9-1477" type="stop" />
+          </notations>
+        </note>
+      <note default-x="163.09" default-y="-125.00" eid="F08_note-116-1478">
+        <pitch eid="F08_pitch-101-1479">
+          <step eid="F08_step-101-1480">F</step>
+          <alter eid="F08_alter-17-1481">1</alter>
+          <octave eid="F08_octave-101-1482">3</octave>
+          </pitch>
+        <duration eid="F08_duration-136-1483">4</duration>
+        <voice eid="F08_voice-116-1484">5</voice>
+        <type eid="F08_type-116-1485">eighth</type>
+        <stem eid="F08_stem-101-1486">down</stem>
+        <staff eid="F08_staff-126-1487">2</staff>
+        <beam eid="F08_beam-95-1488" number="1">begin</beam>
+        <notations eid="F08_notations-50-1489">
+          <ornaments eid="F08_ornaments-7-1490">
+            <inverted-mordent eid="F08_inverted-mordent-0-1491" />
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="196.05" default-y="-130.00" eid="F08_note-117-1492">
+        <pitch eid="F08_pitch-102-1493">
+          <step eid="F08_step-102-1494">E</step>
+          <octave eid="F08_octave-102-1495">3</octave>
+          </pitch>
+        <duration eid="F08_duration-137-1496">4</duration>
+        <voice eid="F08_voice-117-1497">5</voice>
+        <type eid="F08_type-117-1498">eighth</type>
+        <stem eid="F08_stem-102-1499">down</stem>
+        <staff eid="F08_staff-127-1500">2</staff>
+        <beam eid="F08_beam-96-1501" number="1">continue</beam>
+        </note>
+      <note default-x="229.02" default-y="-125.00" eid="F08_note-118-1502">
+        <pitch eid="F08_pitch-103-1503">
+          <step eid="F08_step-103-1504">F</step>
+          <alter eid="F08_alter-18-1505">1</alter>
+          <octave eid="F08_octave-103-1506">3</octave>
+          </pitch>
+        <duration eid="F08_duration-138-1507">4</duration>
+        <voice eid="F08_voice-118-1508">5</voice>
+        <type eid="F08_type-118-1509">eighth</type>
+        <stem eid="F08_stem-103-1510">down</stem>
+        <staff eid="F08_staff-128-1511">2</staff>
+        <beam eid="F08_beam-97-1512" number="1">continue</beam>
+        </note>
+      <note default-x="261.99" default-y="-110.00" eid="F08_note-119-1513">
+        <pitch eid="F08_pitch-104-1514">
+          <step eid="F08_step-104-1515">B</step>
+          <octave eid="F08_octave-104-1516">3</octave>
+          </pitch>
+        <duration eid="F08_duration-139-1517">4</duration>
+        <voice eid="F08_voice-119-1518">5</voice>
+        <type eid="F08_type-119-1519">eighth</type>
+        <stem eid="F08_stem-104-1520">down</stem>
+        <staff eid="F08_staff-129-1521">2</staff>
+        <beam eid="F08_beam-98-1522" number="1">end</beam>
+        </note>
+      <backup eid="F08_backup-27-1523">
+        <duration eid="F08_duration-140-1524">24</duration>
+        </backup>
+      <note default-x="69.77" default-y="-115.00" eid="F08_note-120-1525">
+        <pitch eid="F08_pitch-105-1526">
+          <step eid="F08_step-105-1527">A</step>
+          <octave eid="F08_octave-105-1528">3</octave>
+          </pitch>
+        <duration eid="F08_duration-141-1529">8</duration>
+        <voice eid="F08_voice-120-1530">6</voice>
+        <type eid="F08_type-120-1531">quarter</type>
+        <stem eid="F08_stem-105-1532">up</stem>
+        <staff eid="F08_staff-130-1533">2</staff>
+        </note>
+      <forward eid="F08_forward-0-1534">
+        <duration eid="F08_duration-142-1535">16</duration>
+        </forward>
+      </measure>
+    <measure eid="F08_measure-10-1536" number="11" width="250.20">
+      <direction eid="F08_direction-10-1537" placement="below">
+        <direction-type eid="F08_direction-type-10-1538">
+          <dynamics eid="F08_dynamics-1-1539">
+            <f eid="F08_f-0-1540" />
+            </dynamics>
+          </direction-type>
+        <staff eid="F08_staff-131-1541">1</staff>
+        <sound dynamics="106.67" eid="F08_sound-1-1542" />
+        </direction>
+      <note default-x="25.09" default-y="5.00" eid="F08_note-121-1543">
+        <pitch eid="F08_pitch-106-1544">
+          <step eid="F08_step-106-1545">G</step>
+          <octave eid="F08_octave-106-1546">5</octave>
+          </pitch>
+        <duration eid="F08_duration-143-1547">8</duration>
+        <voice eid="F08_voice-121-1548">1</voice>
+        <type eid="F08_type-121-1549">quarter</type>
+        <stem eid="F08_stem-106-1550">up</stem>
+        <staff eid="F08_staff-132-1551">1</staff>
+        </note>
+      <note default-x="96.32" default-y="5.00" eid="F08_note-122-1552">
+        <pitch eid="F08_pitch-107-1553">
+          <step eid="F08_step-107-1554">G</step>
+          <octave eid="F08_octave-107-1555">5</octave>
+          </pitch>
+        <duration eid="F08_duration-144-1556">12</duration>
+        <voice eid="F08_voice-122-1557">1</voice>
+        <type eid="F08_type-122-1558">quarter</type>
+        <dot eid="F08_dot-18-1559" />
+        <stem eid="F08_stem-107-1560">down</stem>
+        <staff eid="F08_staff-133-1561">1</staff>
+        <notations eid="F08_notations-51-1562">
+          <ornaments eid="F08_ornaments-8-1563">
+            <inverted-mordent approach="above" eid="F08_inverted-mordent-1-1564" long="yes" />
+            </ornaments>
+          </notations>
+        </note>
+      <note default-x="203.18" default-y="0.00" eid="F08_note-123-1565">
+        <pitch eid="F08_pitch-108-1566">
+          <step eid="F08_step-108-1567">F</step>
+          <alter eid="F08_alter-19-1568">1</alter>
+          <octave eid="F08_octave-108-1569">5</octave>
+          </pitch>
+        <duration eid="F08_duration-145-1570">2</duration>
+        <voice eid="F08_voice-123-1571">1</voice>
+        <type eid="F08_type-123-1572">16th</type>
+        <stem eid="F08_stem-108-1573">down</stem>
+        <staff eid="F08_staff-134-1574">1</staff>
+        <beam eid="F08_beam-99-1575" number="1">begin</beam>
+        <beam eid="F08_beam-100-1576" number="2">begin</beam>
+        </note>
+      <note default-x="225.44" default-y="5.00" eid="F08_note-124-1577">
+        <pitch eid="F08_pitch-109-1578">
+          <step eid="F08_step-109-1579">G</step>
+          <octave eid="F08_octave-109-1580">5</octave>
+          </pitch>
+        <duration eid="F08_duration-146-1581">2</duration>
+        <voice eid="F08_voice-124-1582">1</voice>
+        <type eid="F08_type-124-1583">16th</type>
+        <stem eid="F08_stem-109-1584">down</stem>
+        <staff eid="F08_staff-135-1585">1</staff>
+        <beam eid="F08_beam-101-1586" number="1">end</beam>
+        <beam eid="F08_beam-102-1587" number="2">end</beam>
+        </note>
+      <backup eid="F08_backup-28-1588">
+        <duration eid="F08_duration-147-1589">24</duration>
+        </backup>
+      <note default-x="25.09" default-y="-30.00" eid="F08_note-125-1590">
+        <pitch eid="F08_pitch-110-1591">
+          <step eid="F08_step-110-1592">G</step>
+          <octave eid="F08_octave-110-1593">4</octave>
+          </pitch>
+        <duration eid="F08_duration-148-1594">8</duration>
+        <voice eid="F08_voice-125-1595">2</voice>
+        <type eid="F08_type-125-1596">quarter</type>
+        <stem eid="F08_stem-110-1597">down</stem>
+        <staff eid="F08_staff-136-1598">1</staff>
+        <notations eid="F08_notations-52-1599">
+          <arpeggiate eid="F08_arpeggiate-0-1600" />
+          </notations>
+        </note>
+      <nsote default-x="25.09" default-y="-20.00" eid="F08_nsote-0-1601">
+        <chord eid="F08_chord-0-1602" />
+        <pitch eid="F08_pitch-111-1603">
+          <step eid="F08_step-111-1604">B</step>
+          <octave eid="F08_octave-111-1605">4</octave>
+          </pitch>
+        <duration eid="F08_duration-149-1606">8</duration>
+        <voice eid="F08_voice-126-1607">2</voice>
+        <type eid="F08_type-126-1608">quarter</type>
+        <stem eid="F08_stem-111-1609">down</stem>
+        <staff eid="F08_staff-137-1610">1</staff>
+        <notations eid="F08_notations-53-1611">
+          <arpeggiate eid="F08_arpeggiate-1-1612" />
+          </notations>
+        </nsote>
+      <note default-x="25.09" default-y="-5.00" eid="F08_note-126-1613">
+        <chord eid="F08_chord-1-1614" />
+        <pitch eid="F08_pitch-112-1615">
+          <step eid="F08_step-112-1616">E</step>
+          <octave eid="F08_octave-112-1617">5</octave>
+          </pitch>
+        <duration eid="F08_duration-150-1618">8</duration>
+        <voice eid="F08_voice-127-1619">2</voice>
+        <type eid="F08_type-127-1620">quarter</type>
+        <stem eid="F08_stem-112-1621">down</stem>
+        <staff eid="F08_staff-138-1622">1</staff>
+        <notations eid="F08_notations-54-1623">
+          <arpeggiate eid="F08_arpeggiate-2-1624" />
+          </notations>
+        </note>
+      <backup eid="F08_backup-29-1625">
+        <duration eid="F08_duration-151-1626">8</duration>
+        </backup>
+      <note default-x="25.09" default-y="-130.00" eid="F08_note-127-1627">
+        <pitch eid="F08_pitch-113-1628">
+          <step eid="F08_step-113-1629">E</step>
+          <octave eid="F08_octave-113-1630">3</octave>
+          </pitch>
+        <duration eid="F08_duration-152-1631">12</duration>
+        <voice eid="F08_voice-128-1632">5</voice>
+        <type eid="F08_type-128-1633">quarter</type>
+        <dot eid="F08_dot-19-1634" />
+        <stem eid="F08_stem-113-1635">down</stem>
+        <staff eid="F08_staff-139-1636">2</staff>
+        </note>
+      <note default-x="131.94" default-y="-130.00" eid="F08_note-128-1637">
+        <pitch eid="F08_pitch-114-1638">
+          <step eid="F08_step-114-1639">E</step>
+          <octave eid="F08_octave-114-1640">3</octave>
+          </pitch>
+        <duration eid="F08_duration-153-1641">4</duration>
+        <voice eid="F08_voice-129-1642">5</voice>
+        <type eid="F08_type-129-1643">eighth</type>
+        <stem eid="F08_stem-114-1644">down</stem>
+        <staff eid="F08_staff-140-1645">2</staff>
+        <beam eid="F08_beam-103-1646" number="1">begin</beam>
+        </note>
+      <note default-x="167.56" default-y="-125.00" eid="F08_note-129-1647">
+        <pitch eid="F08_pitch-115-1648">
+          <step eid="F08_step-115-1649">F</step>
+          <alter eid="F08_alter-20-1650">1</alter>
+          <octave eid="F08_octave-115-1651">3</octave>
+          </pitch>
+        <duration eid="F08_duration-154-1652">4</duration>
+        <voice eid="F08_voice-130-1653">5</voice>
+        <type eid="F08_type-130-1654">eighth</type>
+        <stem eid="F08_stem-115-1655">down</stem>
+        <staff eid="F08_staff-141-1656">2</staff>
+        <beam eid="F08_beam-104-1657" number="1">continue</beam>
+        </note>
+      <note default-x="203.18" default-y="-120.00" eid="F08_note-130-1658">
+        <pitch eid="F08_pitch-116-1659">
+          <step eid="F08_step-116-1660">G</step>
+          <octave eid="F08_octave-116-1661">3</octave>
+          </pitch>
+        <duration eid="F08_duration-155-1662">4</duration>
+        <voice eid="F08_voice-131-1663">5</voice>
+        <type eid="F08_type-131-1664">eighth</type>
+        <stem eid="F08_stem-116-1665">down</stem>
+        <staff eid="F08_staff-142-1666">2</staff>
+        <beam eid="F08_beam-105-1667" number="1">end</beam>
+        </note>
+      <backup eid="F08_backup-30-1668">
+        <duration eid="F08_duration-156-1669">24</duration>
+        </backup>
+      <note eid="F08_note-131-1670">
+        <rest eid="F08_rest-15-1671">
+          <display-step eid="F08_display-step-14-1672">G</display-step>
+          <display-octave eid="F08_display-octave-14-1673">4</display-octave>
+          </rest>
+        <duration eid="F08_duration-157-1674">4</duration>
+        <voice eid="F08_voice-132-1675">6</voice>
+        <type eid="F08_type-132-1676">eighth</type>
+        <staff eid="F08_staff-143-1677">2</staff>
+        </note>
+      <note default-x="60.71" default-y="-110.00" eid="F08_note-132-1678">
+        <pitch eid="F08_pitch-117-1679">
+          <step eid="F08_step-117-1680">B</step>
+          <octave eid="F08_octave-117-1681">3</octave>
+          </pitch>
+        <duration eid="F08_duration-158-1682">4</duration>
+        <voice eid="F08_voice-133-1683">6</voice>
+        <type eid="F08_type-133-1684">eighth</type>
+        <stem eid="F08_stem-117-1685">up</stem>
+        <staff eid="F08_staff-144-1686">2</staff>
+        </note>
+      <note default-x="96.32" default-y="-95.00" eid="F08_note-133-1687">
+        <pitch eid="F08_pitch-118-1688">
+          <step eid="F08_step-118-1689">E</step>
+          <octave eid="F08_octave-118-1690">4</octave>
+          </pitch>
+        <duration eid="F08_duration-159-1691">12</duration>
+        <voice eid="F08_voice-134-1692">6</voice>
+        <type eid="F08_type-134-1693">quarter</type>
+        <dot eid="F08_dot-20-1694" />
+        <stem eid="F08_stem-118-1695">up</stem>
+        <staff eid="F08_staff-145-1696">2</staff>
+        </note>
+      <note default-x="203.18" default-y="-100.00" eid="F08_note-134-1697">
+        <pitch eid="F08_pitch-119-1698">
+          <step eid="F08_step-119-1699">D</step>
+          <octave eid="F08_octave-119-1700">4</octave>
+          </pitch>
+        <duration eid="F08_duration-160-1701">4</duration>
+        <voice eid="F08_voice-135-1702">6</voice>
+        <type eid="F08_type-135-1703">eighth</type>
+        <stem eid="F08_stem-119-1704">up</stem>
+        <staff eid="F08_staff-146-1705">2</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-11-1706" number="12" width="244.18">
+      <note default-x="20.42" default-y="5.00" eid="F08_note-135-1707">
+        <pitch eid="F08_pitch-120-1708">
+          <step eid="F08_step-120-1709">G</step>
+          <octave eid="F08_octave-120-1710">5</octave>
+          </pitch>
+        <duration eid="F08_duration-161-1711">4</duration>
+        <voice eid="F08_voice-136-1712">1</voice>
+        <type eid="F08_type-136-1713">eighth</type>
+        <stem eid="F08_stem-120-1714">down</stem>
+        <staff eid="F08_staff-147-1715">1</staff>
+        <beam eid="F08_beam-106-1716" number="1">begin</beam>
+        </note>
+      <note default-x="38.98" default-y="0.00" eid="F08_note-136-1717">
+        <grace eid="F08_grace-7-1718" />
+        <pitch eid="F08_pitch-121-1719">
+          <step eid="F08_step-121-1720">F</step>
+          <alter eid="F08_alter-21-1721">1</alter>
+          <octave eid="F08_octave-121-1722">5</octave>
+          </pitch>
+        <voice eid="F08_voice-137-1723">1</voice>
+        <type eid="F08_type-137-1724">16th</type>
+        <stem eid="F08_stem-121-1725">up</stem>
+        <staff eid="F08_staff-148-1726">1</staff>
+        <notations eid="F08_notations-55-1727">
+          <slur eid="F08_slur-34-1728" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="57.44" default-y="-5.00" eid="F08_note-137-1729">
+        <pitch eid="F08_pitch-122-1730">
+          <step eid="F08_step-122-1731">E</step>
+          <octave eid="F08_octave-122-1732">5</octave>
+          </pitch>
+        <duration eid="F08_duration-162-1733">4</duration>
+        <voice eid="F08_voice-138-1734">1</voice>
+        <type eid="F08_type-138-1735">eighth</type>
+        <stem eid="F08_stem-122-1736">down</stem>
+        <staff eid="F08_staff-149-1737">1</staff>
+        <beam eid="F08_beam-107-1738" number="1">end</beam>
+        <notations eid="F08_notations-56-1739">
+          <slur eid="F08_slur-35-1740" number="1" type="stop" />
+          </notations>
+        </note>
+      <direction eid="F08_direction-11-1741" placement="below">
+        <direction-type eid="F08_direction-type-11-1742">
+          <wedge eid="F08_wedge-6-1743" number="1" type="diminuendo" />
+          </direction-type>
+        <staff eid="F08_staff-150-1744">1</staff>
+        </direction>
+      <note default-x="94.47" default-y="-15.00" eid="F08_note-138-1745">
+        <pitch eid="F08_pitch-123-1746">
+          <step eid="F08_step-123-1747">C</step>
+          <alter eid="F08_alter-22-1748">1</alter>
+          <octave eid="F08_octave-123-1749">5</octave>
+          </pitch>
+        <duration eid="F08_duration-163-1750">12</duration>
+        <voice eid="F08_voice-139-1751">1</voice>
+        <type eid="F08_type-139-1752">quarter</type>
+        <dot eid="F08_dot-21-1753" />
+        <accidental eid="F08_accidental-5-1754">sharp</accidental>
+        <stem eid="F08_stem-123-1755">down</stem>
+        <staff eid="F08_staff-151-1756">1</staff>
+        <notations eid="F08_notations-57-1757">
+          <ornaments eid="F08_ornaments-9-1758">
+            <inverted-mordent approach="above" eid="F08_inverted-mordent-2-1759" long="yes" />
+            </ornaments>
+          </notations>
+        </note>
+      <direction eid="F08_direction-12-1760" placement="below">
+        <direction-type eid="F08_direction-type-12-1761">
+          <wedge eid="F08_wedge-7-1762" number="1" type="stop" />
+          </direction-type>
+        <staff eid="F08_staff-152-1763">1</staff>
+        </direction>
+      <note default-x="205.55" default-y="-5.00" eid="F08_note-139-1764">
+        <pitch eid="F08_pitch-124-1765">
+          <step eid="F08_step-124-1766">E</step>
+          <octave eid="F08_octave-124-1767">5</octave>
+          </pitch>
+        <duration eid="F08_duration-164-1768">4</duration>
+        <voice eid="F08_voice-140-1769">1</voice>
+        <type eid="F08_type-140-1770">eighth</type>
+        <stem eid="F08_stem-124-1771">down</stem>
+        <staff eid="F08_staff-153-1772">1</staff>
+        </note>
+      <backup eid="F08_backup-31-1773">
+        <duration eid="F08_duration-165-1774">24</duration>
+        </backup>
+      <note default-x="20.42" default-y="-115.00" eid="F08_note-140-1775">
+        <pitch eid="F08_pitch-125-1776">
+          <step eid="F08_step-125-1777">A</step>
+          <octave eid="F08_octave-125-1778">3</octave>
+          </pitch>
+        <duration eid="F08_duration-166-1779">12</duration>
+        <voice eid="F08_voice-141-1780">5</voice>
+        <type eid="F08_type-141-1781">quarter</type>
+        <dot eid="F08_dot-22-1782" />
+        <stem eid="F08_stem-125-1783">down</stem>
+        <staff eid="F08_staff-154-1784">2</staff>
+        </note>
+      <note default-x="131.50" default-y="-110.00" eid="F08_note-141-1785">
+        <pitch eid="F08_pitch-126-1786">
+          <step eid="F08_step-126-1787">B</step>
+          <octave eid="F08_octave-126-1788">3</octave>
+          </pitch>
+        <duration eid="F08_duration-167-1789">4</duration>
+        <voice eid="F08_voice-142-1790">5</voice>
+        <type eid="F08_type-142-1791">eighth</type>
+        <stem eid="F08_stem-126-1792">down</stem>
+        <staff eid="F08_staff-155-1793">2</staff>
+        <beam eid="F08_beam-108-1794" number="1">begin</beam>
+        </note>
+      <note default-x="168.53" default-y="-115.00" eid="F08_note-142-1795">
+        <pitch eid="F08_pitch-127-1796">
+          <step eid="F08_step-127-1797">A</step>
+          <octave eid="F08_octave-127-1798">3</octave>
+          </pitch>
+        <duration eid="F08_duration-168-1799">4</duration>
+        <voice eid="F08_voice-143-1800">5</voice>
+        <type eid="F08_type-143-1801">eighth</type>
+        <stem eid="F08_stem-127-1802">down</stem>
+        <staff eid="F08_staff-156-1803">2</staff>
+        <beam eid="F08_beam-109-1804" number="1">continue</beam>
+        </note>
+      <note default-x="205.55" default-y="-120.00" eid="F08_note-143-1805">
+        <pitch eid="F08_pitch-128-1806">
+          <step eid="F08_step-128-1807">G</step>
+          <octave eid="F08_octave-128-1808">3</octave>
+          </pitch>
+        <duration eid="F08_duration-169-1809">4</duration>
+        <voice eid="F08_voice-144-1810">5</voice>
+        <type eid="F08_type-144-1811">eighth</type>
+        <stem eid="F08_stem-128-1812">down</stem>
+        <staff eid="F08_staff-157-1813">2</staff>
+        <beam eid="F08_beam-110-1814" number="1">end</beam>
+        </note>
+      <backup eid="F08_backup-32-1815">
+        <duration eid="F08_duration-170-1816">24</duration>
+        </backup>
+      <note default-x="20.42" default-y="-105.00" eid="F08_note-144-1817">
+        <pitch eid="F08_pitch-129-1818">
+          <step eid="F08_step-129-1819">C</step>
+          <alter eid="F08_alter-23-1820">1</alter>
+          <octave eid="F08_octave-129-1821">4</octave>
+          </pitch>
+        <duration eid="F08_duration-171-1822">4</duration>
+        <voice eid="F08_voice-145-1823">6</voice>
+        <type eid="F08_type-145-1824">eighth</type>
+        <accidental eid="F08_accidental-6-1825">sharp</accidental>
+        <stem eid="F08_stem-129-1826">up</stem>
+        <staff eid="F08_staff-158-1827">2</staff>
+        <beam eid="F08_beam-111-1828" number="1">begin</beam>
+        </note>
+      <note default-x="57.44" default-y="-100.00" eid="F08_note-145-1829">
+        <pitch eid="F08_pitch-130-1830">
+          <step eid="F08_step-130-1831">D</step>
+          <octave eid="F08_octave-130-1832">4</octave>
+          </pitch>
+        <duration eid="F08_duration-172-1833">4</duration>
+        <voice eid="F08_voice-146-1834">6</voice>
+        <type eid="F08_type-146-1835">eighth</type>
+        <stem eid="F08_stem-130-1836">up</stem>
+        <staff eid="F08_staff-159-1837">2</staff>
+        <beam eid="F08_beam-112-1838" number="1">end</beam>
+        </note>
+      <note default-x="94.11" default-y="-95.00" eid="F08_note-146-1839">
+        <pitch eid="F08_pitch-131-1840">
+          <step eid="F08_step-131-1841">E</step>
+          <octave eid="F08_octave-131-1842">4</octave>
+          </pitch>
+        <duration eid="F08_duration-173-1843">16</duration>
+        <voice eid="F08_voice-147-1844">6</voice>
+        <type eid="F08_type-147-1845">half</type>
+        <stem eid="F08_stem-131-1846">up</stem>
+        <staff eid="F08_staff-160-1847">2</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-12-1848" number="13" width="265.56">
+      <direction eid="F08_direction-13-1849" placement="below">
+        <direction-type eid="F08_direction-type-13-1850">
+          <dynamics eid="F08_dynamics-2-1851">
+            <mf eid="F08_mf-0-1852" />
+            </dynamics>
+          </direction-type>
+        <staff eid="F08_staff-161-1853">1</staff>
+        <sound dynamics="88.89" eid="F08_sound-2-1854" />
+        </direction>
+      <note default-x="12.94" default-y="10.00" eid="F08_note-147-1855">
+        <pitch eid="F08_pitch-132-1856">
+          <step eid="F08_step-132-1857">A</step>
+          <octave eid="F08_octave-132-1858">5</octave>
+          </pitch>
+        <duration eid="F08_duration-174-1859">2</duration>
+        <voice eid="F08_voice-148-1860">1</voice>
+        <type eid="F08_type-148-1861">16th</type>
+        <stem eid="F08_stem-132-1862">down</stem>
+        <staff eid="F08_staff-162-1863">1</staff>
+        <beam eid="F08_beam-113-1864" number="1">begin</beam>
+        <beam eid="F08_beam-114-1865" number="2">begin</beam>
+        <notations eid="F08_notations-58-1866">
+          <slur eid="F08_slur-36-1867" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="35.73" default-y="5.00" eid="F08_note-148-1868">
+        <pitch eid="F08_pitch-133-1869">
+          <step eid="F08_step-133-1870">G</step>
+          <octave eid="F08_octave-133-1871">5</octave>
+          </pitch>
+        <duration eid="F08_duration-175-1872">2</duration>
+        <voice eid="F08_voice-149-1873">1</voice>
+        <type eid="F08_type-149-1874">16th</type>
+        <stem eid="F08_stem-133-1875">down</stem>
+        <staff eid="F08_staff-163-1876">1</staff>
+        <beam eid="F08_beam-115-1877" number="1">continue</beam>
+        <beam eid="F08_beam-116-1878" number="2">continue</beam>
+        </note>
+      <note default-x="58.52" default-y="0.00" eid="F08_note-149-1879">
+        <pitch eid="F08_pitch-134-1880">
+          <step eid="F08_step-134-1881">F</step>
+          <alter eid="F08_alter-24-1882">1</alter>
+          <octave eid="F08_octave-134-1883">5</octave>
+          </pitch>
+        <duration eid="F08_duration-176-1884">2</duration>
+        <voice eid="F08_voice-150-1885">1</voice>
+        <type eid="F08_type-150-1886">16th</type>
+        <stem eid="F08_stem-134-1887">down</stem>
+        <staff eid="F08_staff-164-1888">1</staff>
+        <beam eid="F08_beam-117-1889" number="1">continue</beam>
+        <beam eid="F08_beam-118-1890" number="2">continue</beam>
+        </note>
+      <note default-x="81.31" default-y="-5.00" eid="F08_note-150-1891">
+        <pitch eid="F08_pitch-135-1892">
+          <step eid="F08_step-135-1893">E</step>
+          <octave eid="F08_octave-135-1894">5</octave>
+          </pitch>
+        <duration eid="F08_duration-177-1895">2</duration>
+        <voice eid="F08_voice-151-1896">1</voice>
+        <type eid="F08_type-151-1897">16th</type>
+        <stem eid="F08_stem-135-1898">down</stem>
+        <staff eid="F08_staff-165-1899">1</staff>
+        <beam eid="F08_beam-119-1900" number="1">end</beam>
+        <beam eid="F08_beam-120-1901" number="2">end</beam>
+        </note>
+      <note default-x="104.10" default-y="-10.00" eid="F08_note-151-1902">
+        <pitch eid="F08_pitch-136-1903">
+          <step eid="F08_step-136-1904">D</step>
+          <octave eid="F08_octave-136-1905">5</octave>
+          </pitch>
+        <duration eid="F08_duration-178-1906">4</duration>
+        <voice eid="F08_voice-152-1907">1</voice>
+        <type eid="F08_type-152-1908">eighth</type>
+        <stem eid="F08_stem-136-1909">down</stem>
+        <staff eid="F08_staff-166-1910">1</staff>
+        <notations eid="F08_notations-59-1911">
+          <slur eid="F08_slur-37-1912" number="1" type="stop" />
+          <articulations eid="F08_articulations-4-1913">
+            <staccato eid="F08_staccato-4-1914" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="135.43" default-y="-25.00" eid="F08_note-152-1915">
+        <pitch eid="F08_pitch-137-1916">
+          <step eid="F08_step-137-1917">A</step>
+          <octave eid="F08_octave-137-1918">4</octave>
+          </pitch>
+        <duration eid="F08_duration-179-1919">8</duration>
+        <tie eid="F08_tie-10-1920" type="start" />
+        <voice eid="F08_voice-153-1921">1</voice>
+        <type eid="F08_type-153-1922">quarter</type>
+        <stem eid="F08_stem-137-1923">up</stem>
+        <staff eid="F08_staff-167-1924">1</staff>
+        <notations eid="F08_notations-60-1925">
+          <tied eid="F08_tied-10-1926" type="start" />
+          </notations>
+        </note>
+      <note default-x="198.10" default-y="-25.00" eid="F08_note-153-1927">
+        <pitch eid="F08_pitch-138-1928">
+          <step eid="F08_step-138-1929">A</step>
+          <octave eid="F08_octave-138-1930">4</octave>
+          </pitch>
+        <duration eid="F08_duration-180-1931">1</duration>
+        <tie eid="F08_tie-11-1932" type="stop" />
+        <voice eid="F08_voice-154-1933">1</voice>
+        <type eid="F08_type-154-1934">32nd</type>
+        <stem eid="F08_stem-138-1935">down</stem>
+        <staff eid="F08_staff-168-1936">1</staff>
+        <beam eid="F08_beam-121-1937" number="1">begin</beam>
+        <beam eid="F08_beam-122-1938" number="2">begin</beam>
+        <beam eid="F08_beam-123-1939" number="3">begin</beam>
+        <notations eid="F08_notations-61-1940">
+          <tied eid="F08_tied-11-1941" type="stop" />
+          </notations>
+        </note>
+      <note default-x="213.77" default-y="-20.00" eid="F08_note-154-1942">
+        <pitch eid="F08_pitch-139-1943">
+          <step eid="F08_step-139-1944">B</step>
+          <octave eid="F08_octave-139-1945">4</octave>
+          </pitch>
+        <duration eid="F08_duration-181-1946">1</duration>
+        <voice eid="F08_voice-155-1947">1</voice>
+        <type eid="F08_type-155-1948">32nd</type>
+        <stem eid="F08_stem-139-1949">down</stem>
+        <staff eid="F08_staff-169-1950">1</staff>
+        <beam eid="F08_beam-124-1951" number="1">continue</beam>
+        <beam eid="F08_beam-125-1952" number="2">continue</beam>
+        <beam eid="F08_beam-126-1953" number="3">end</beam>
+        </note>
+      <note default-x="240.79" default-y="-15.00" eid="F08_note-155-1954">
+        <pitch eid="F08_pitch-140-1955">
+          <step eid="F08_step-140-1956">C</step>
+          <octave eid="F08_octave-140-1957">5</octave>
+          </pitch>
+        <duration eid="F08_duration-182-1958">2</duration>
+        <voice eid="F08_voice-156-1959">1</voice>
+        <type eid="F08_type-156-1960">16th</type>
+        <accidental eid="F08_accidental-7-1961">natural</accidental>
+        <stem eid="F08_stem-140-1962">down</stem>
+        <staff eid="F08_staff-170-1963">1</staff>
+        <beam eid="F08_beam-127-1964" number="1">end</beam>
+        <beam eid="F08_beam-128-1965" number="2">end</beam>
+        </note>
+      <backup eid="F08_backup-33-1966">
+        <duration eid="F08_duration-183-1967">24</duration>
+        </backup>
+      <note default-x="12.58" default-y="-125.00" eid="F08_note-156-1968">
+        <pitch eid="F08_pitch-141-1969">
+          <step eid="F08_step-141-1970">F</step>
+          <alter eid="F08_alter-25-1971">1</alter>
+          <octave eid="F08_octave-141-1972">3</octave>
+          </pitch>
+        <duration eid="F08_duration-184-1973">24</duration>
+        <voice eid="F08_voice-157-1974">5</voice>
+        <type eid="F08_type-157-1975">half</type>
+        <dot eid="F08_dot-23-1976" />
+        <stem eid="F08_stem-141-1977">down</stem>
+        <staff eid="F08_staff-171-1978">2</staff>
+        </note>
+      <backup eid="F08_backup-34-1979">
+        <duration eid="F08_duration-185-1980">24</duration>
+        </backup>
+      <note eid="F08_note-157-1981">
+        <rest eid="F08_rest-16-1982">
+          <display-step eid="F08_display-step-15-1983">G</display-step>
+          <display-octave eid="F08_display-octave-15-1984">4</display-octave>
+          </rest>
+        <duration eid="F08_duration-186-1985">8</duration>
+        <voice eid="F08_voice-158-1986">6</voice>
+        <type eid="F08_type-158-1987">quarter</type>
+        <staff eid="F08_staff-172-1988">2</staff>
+        </note>
+      <note default-x="103.73" default-y="-115.00" eid="F08_note-158-1989">
+        <pitch eid="F08_pitch-142-1990">
+          <step eid="F08_step-142-1991">A</step>
+          <octave eid="F08_octave-142-1992">3</octave>
+          </pitch>
+        <duration eid="F08_duration-187-1993">16</duration>
+        <voice eid="F08_voice-159-1994">6</voice>
+        <type eid="F08_type-159-1995">half</type>
+        <stem eid="F08_stem-142-1996">up</stem>
+        <staff eid="F08_staff-173-1997">2</staff>
+        </note>
+      <backup eid="F08_backup-35-1998">
+        <duration eid="F08_duration-188-1999">16</duration>
+        </backup>
+      <note eid="F08_note-159-2000">
+        <rest eid="F08_rest-17-2001">
+          <display-step eid="F08_display-step-16-2002">A</display-step>
+          <display-octave eid="F08_display-octave-16-2003">3</display-octave>
+          </rest>
+        <duration eid="F08_duration-189-2004">8</duration>
+        <voice eid="F08_voice-160-2005">7</voice>
+        <type eid="F08_type-160-2006">quarter</type>
+        <staff eid="F08_staff-174-2007">2</staff>
+        </note>
+      <note default-x="166.77" default-y="-100.00" eid="F08_note-160-2008">
+        <pitch eid="F08_pitch-143-2009">
+          <step eid="F08_step-143-2010">D</step>
+          <octave eid="F08_octave-143-2011">4</octave>
+          </pitch>
+        <duration eid="F08_duration-190-2012">8</duration>
+        <voice eid="F08_voice-161-2013">7</voice>
+        <type eid="F08_type-161-2014">quarter</type>
+        <stem eid="F08_stem-143-2015">up</stem>
+        <staff eid="F08_staff-175-2016">2</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-13-2017" number="14" width="384.73">
+      <print eid="F08_print-3-2018" new-system="yes">
+        <system-layout eid="F08_system-layout-3-2019">
+          <system-margins eid="F08_system-margins-3-2020">
+            <left-margin eid="F08_left-margin-5-2021">21.00</left-margin>
+            <right-margin eid="F08_right-margin-5-2022">0.00</right-margin>
+            </system-margins>
+          <system-distance eid="F08_system-distance-2-2023">150.00</system-distance>
+          </system-layout>
+        <staff-layout eid="F08_staff-layout-3-2024" number="2">
+          <staff-distance eid="F08_staff-distance-3-2025">75.00</staff-distance>
+          </staff-layout>
+        </print>
+      <note default-x="68.21" default-y="-20.00" eid="F08_note-161-2026">
+        <pitch eid="F08_pitch-144-2027">
+          <step eid="F08_step-144-2028">B</step>
+          <octave eid="F08_octave-144-2029">4</octave>
+          </pitch>
+        <duration eid="F08_duration-191-2030">2</duration>
+        <voice eid="F08_voice-162-2031">1</voice>
+        <type eid="F08_type-162-2032">16th</type>
+        <stem eid="F08_stem-144-2033">up</stem>
+        <staff eid="F08_staff-176-2034">1</staff>
+        <beam eid="F08_beam-129-2035" number="1">begin</beam>
+        <beam eid="F08_beam-130-2036" number="2">begin</beam>
+        <notations eid="F08_notations-62-2037">
+          <slur eid="F08_slur-38-2038" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="96.43" default-y="-25.00" eid="F08_note-162-2039">
+        <pitch eid="F08_pitch-145-2040">
+          <step eid="F08_step-145-2041">A</step>
+          <octave eid="F08_octave-145-2042">4</octave>
+          </pitch>
+        <duration eid="F08_duration-192-2043">2</duration>
+        <voice eid="F08_voice-163-2044">1</voice>
+        <type eid="F08_type-163-2045">16th</type>
+        <stem eid="F08_stem-145-2046">up</stem>
+        <staff eid="F08_staff-177-2047">1</staff>
+        <beam eid="F08_beam-131-2048" number="1">continue</beam>
+        <beam eid="F08_beam-132-2049" number="2">continue</beam>
+        </note>
+      <note default-x="124.66" default-y="-30.00" eid="F08_note-163-2050">
+        <pitch eid="F08_pitch-146-2051">
+          <step eid="F08_step-146-2052">G</step>
+          <octave eid="F08_octave-146-2053">4</octave>
+          </pitch>
+        <duration eid="F08_duration-193-2054">2</duration>
+        <voice eid="F08_voice-164-2055">1</voice>
+        <type eid="F08_type-164-2056">16th</type>
+        <stem eid="F08_stem-146-2057">up</stem>
+        <staff eid="F08_staff-178-2058">1</staff>
+        <beam eid="F08_beam-133-2059" number="1">continue</beam>
+        <beam eid="F08_beam-134-2060" number="2">continue</beam>
+        </note>
+      <note default-x="152.88" default-y="-35.00" eid="F08_note-164-2061">
+        <pitch eid="F08_pitch-147-2062">
+          <step eid="F08_step-147-2063">F</step>
+          <alter eid="F08_alter-26-2064">1</alter>
+          <octave eid="F08_octave-147-2065">4</octave>
+          </pitch>
+        <duration eid="F08_duration-194-2066">2</duration>
+        <voice eid="F08_voice-165-2067">1</voice>
+        <type eid="F08_type-165-2068">16th</type>
+        <stem eid="F08_stem-147-2069">up</stem>
+        <staff eid="F08_staff-179-2070">1</staff>
+        <beam eid="F08_beam-135-2071" number="1">end</beam>
+        <beam eid="F08_beam-136-2072" number="2">end</beam>
+        </note>
+      <note default-x="181.11" default-y="-40.00" eid="F08_note-165-2073">
+        <pitch eid="F08_pitch-148-2074">
+          <step eid="F08_step-148-2075">E</step>
+          <octave eid="F08_octave-148-2076">4</octave>
+          </pitch>
+        <duration eid="F08_duration-195-2077">4</duration>
+        <voice eid="F08_voice-166-2078">1</voice>
+        <type eid="F08_type-166-2079">eighth</type>
+        <stem eid="F08_stem-148-2080">up</stem>
+        <staff eid="F08_staff-180-2081">1</staff>
+        <notations eid="F08_notations-63-2082">
+          <slur eid="F08_slur-39-2083" number="1" type="stop" />
+          <articulations eid="F08_articulations-5-2084">
+            <staccato eid="F08_staccato-5-2085" />
+            </articulations>
+          </notations>
+        </note>
+      <note default-x="208.13" default-y="-10.00" eid="F08_note-166-2086">
+        <grace eid="F08_grace-8-2087" />
+        <pitch eid="F08_pitch-149-2088">
+          <step eid="F08_step-149-2089">D</step>
+          <octave eid="F08_octave-149-2090">5</octave>
+          </pitch>
+        <voice eid="F08_voice-167-2091">1</voice>
+        <type eid="F08_type-167-2092">16th</type>
+        <stem eid="F08_stem-149-2093">up</stem>
+        <staff eid="F08_staff-181-2094">1</staff>
+        <notations eid="F08_notations-64-2095">
+          <slur eid="F08_slur-40-2096" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="242.01" default-y="-15.00" eid="F08_note-167-2097">
+        <pitch eid="F08_pitch-150-2098">
+          <step eid="F08_step-150-2099">C</step>
+          <alter eid="F08_alter-27-2100">1</alter>
+          <octave eid="F08_octave-150-2101">5</octave>
+          </pitch>
+        <duration eid="F08_duration-196-2102">8</duration>
+        <tie eid="F08_tie-12-2103" type="start" />
+        <voice eid="F08_voice-168-2104">1</voice>
+        <type eid="F08_type-168-2105">quarter</type>
+        <accidental eid="F08_accidental-8-2106">sharp</accidental>
+        <stem eid="F08_stem-150-2107">up</stem>
+        <staff eid="F08_staff-182-2108">1</staff>
+        <notations eid="F08_notations-65-2109">
+          <tied eid="F08_tied-12-2110" type="start" />
+          <slur eid="F08_slur-41-2111" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="319.62" default-y="-15.00" eid="F08_note-168-2112">
+        <pitch eid="F08_pitch-151-2113">
+          <step eid="F08_step-151-2114">C</step>
+          <alter eid="F08_alter-28-2115">1</alter>
+          <octave eid="F08_octave-151-2116">5</octave>
+          </pitch>
+        <duration eid="F08_duration-197-2117">1</duration>
+        <tie eid="F08_tie-13-2118" type="stop" />
+        <voice eid="F08_voice-169-2119">1</voice>
+        <type eid="F08_type-169-2120">32nd</type>
+        <stem eid="F08_stem-151-2121">up</stem>
+        <staff eid="F08_staff-183-2122">1</staff>
+        <beam eid="F08_beam-137-2123" number="1">begin</beam>
+        <beam eid="F08_beam-138-2124" number="2">begin</beam>
+        <beam eid="F08_beam-139-2125" number="3">begin</beam>
+        <notations eid="F08_notations-66-2126">
+          <tied eid="F08_tied-13-2127" type="stop" />
+          </notations>
+        </note>
+      <note default-x="337.26" default-y="-10.00" eid="F08_note-169-2128">
+        <pitch eid="F08_pitch-152-2129">
+          <step eid="F08_step-152-2130">D</step>
+          <octave eid="F08_octave-152-2131">5</octave>
+          </pitch>
+        <duration eid="F08_duration-198-2132">1</duration>
+        <voice eid="F08_voice-170-2133">1</voice>
+        <type eid="F08_type-170-2134">32nd</type>
+        <stem eid="F08_stem-152-2135">up</stem>
+        <staff eid="F08_staff-184-2136">1</staff>
+        <beam eid="F08_beam-140-2137" number="1">continue</beam>
+        <beam eid="F08_beam-141-2138" number="2">continue</beam>
+        <beam eid="F08_beam-142-2139" number="3">end</beam>
+        </note>
+      <note default-x="354.90" default-y="-5.00" eid="F08_note-170-2140">
+        <pitch eid="F08_pitch-153-2141">
+          <step eid="F08_step-153-2142">E</step>
+          <octave eid="F08_octave-153-2143">5</octave>
+          </pitch>
+        <duration eid="F08_duration-199-2144">2</duration>
+        <voice eid="F08_voice-171-2145">1</voice>
+        <type eid="F08_type-171-2146">16th</type>
+        <stem eid="F08_stem-153-2147">up</stem>
+        <staff eid="F08_staff-185-2148">1</staff>
+        <beam eid="F08_beam-143-2149" number="1">end</beam>
+        <beam eid="F08_beam-144-2150" number="2">end</beam>
+        </note>
+      <backup eid="F08_backup-36-2151">
+        <duration eid="F08_duration-200-2152">24</duration>
+        </backup>
+      <note default-x="67.85" default-y="-120.00" eid="F08_note-171-2153">
+        <pitch eid="F08_pitch-154-2154">
+          <step eid="F08_step-154-2155">G</step>
+          <octave eid="F08_octave-154-2156">3</octave>
+          </pitch>
+        <duration eid="F08_duration-201-2157">24</duration>
+        <voice eid="F08_voice-172-2158">5</voice>
+        <type eid="F08_type-172-2159">half</type>
+        <dot eid="F08_dot-24-2160" />
+        <stem eid="F08_stem-154-2161">down</stem>
+        <staff eid="F08_staff-186-2162">2</staff>
+        </note>
+      <backup eid="F08_backup-37-2163">
+        <duration eid="F08_duration-202-2164">24</duration>
+        </backup>
+      <note eid="F08_note-172-2165">
+        <rest eid="F08_rest-18-2166">
+          <display-step eid="F08_display-step-17-2167">G</display-step>
+          <display-octave eid="F08_display-octave-17-2168">4</display-octave>
+          </rest>
+        <duration eid="F08_duration-203-2169">8</duration>
+        <voice eid="F08_voice-173-2170">6</voice>
+        <type eid="F08_type-173-2171">quarter</type>
+        <staff eid="F08_staff-187-2172">2</staff>
+        </note>
+      <note default-x="181.11" default-y="-110.00" eid="F08_note-173-2173">
+        <pitch eid="F08_pitch-155-2174">
+          <step eid="F08_step-155-2175">B</step>
+          <octave eid="F08_octave-155-2176">3</octave>
+          </pitch>
+        <duration eid="F08_duration-204-2177">8</duration>
+        <voice eid="F08_voice-174-2178">6</voice>
+        <type eid="F08_type-174-2179">quarter</type>
+        <stem eid="F08_stem-155-2180">down</stem>
+        <staff eid="F08_staff-188-2181">2</staff>
+        </note>
+      <note default-x="280.81" default-y="-40.00" eid="F08_note-174-2182">
+        <pitch eid="F08_pitch-156-2183">
+          <step eid="F08_step-156-2184">E</step>
+          <octave eid="F08_octave-156-2185">4</octave>
+          </pitch>
+        <duration eid="F08_duration-205-2186">8</duration>
+        <voice eid="F08_voice-175-2187">6</voice>
+        <type eid="F08_type-175-2188">quarter</type>
+        <stem eid="F08_stem-156-2189">down</stem>
+        <staff eid="F08_staff-189-2190">1</staff>
+        </note>
+      </measure>
+    <measure eid="F08_measure-14-2191" number="15" width="316.22">
+      <direction eid="F08_direction-14-2192" placement="below">
+        <direction-type eid="F08_direction-type-14-2193">
+          <wedge eid="F08_wedge-8-2194" number="1" type="crescendo" />
+          </direction-type>
+        <staff eid="F08_staff-190-2195">1</staff>
+        </direction>
+      <note default-x="12.36" default-y="-10.00" eid="F08_note-175-2196">
+        <pitch eid="F08_pitch-157-2197">
+          <step eid="F08_step-157-2198">D</step>
+          <octave eid="F08_octave-157-2199">5</octave>
+          </pitch>
+        <duration eid="F08_duration-206-2200">2</duration>
+        <voice eid="F08_voice-176-2201">1</voice>
+        <type eid="F08_type-176-2202">16th</type>
+        <stem eid="F08_stem-157-2203">up</stem>
+        <staff eid="F08_staff-191-2204">1</staff>
+        <beam eid="F08_beam-145-2205" number="1">begin</beam>
+        <beam eid="F08_beam-146-2206" number="2">begin</beam>
+        <notations eid="F08_notations-67-2207">
+          <slur eid="F08_slur-42-2208" number="1" placement="above" type="start" />
+          </notations>
+        </note>
+      <note default-x="43.44" default-y="-15.00" eid="F08_note-176-2209">
+        <pitch eid="F08_pitch-158-2210">
+          <step eid="F08_step-158-2211">C</step>
+          <alter eid="F08_alter-29-2212">1</alter>
+          <octave eid="F08_octave-158-2213">5</octave>
+          </pitch>
+        <duration eid="F08_duration-207-2214">2</duration>
+        <voice eid="F08_voice-177-2215">1</voice>
+        <type eid="F08_type-177-2216">16th</type>
+        <accidental eid="F08_accidental-9-2217">sharp</accidental>
+        <stem eid="F08_stem-158-2218">up</stem>
+        <staff eid="F08_staff-192-2219">1</staff>
+        <beam eid="F08_beam-147-2220" number="1">continue</beam>
+        <beam eid="F08_beam-148-2221" number="2">continue</beam>
+        </note>
+      <note default-x="71.11" default-y="-20.00" eid="F08_note-177-2222">
+        <pitch eid="F08_pitch-159-2223">
+          <step eid="F08_step-159-2224">B</step>
+          <octave eid="F08_octave-159-2225">4</octave>
+          </pitch>
+        <duration eid="F08_duration-208-2226">2</duration>
+        <voice eid="F08_voice-178-2227">1</voice>
+        <type eid="F08_type-178-2228">16th</type>
+        <stem eid="F08_stem-159-2229">up</stem>
+        <staff eid="F08_staff-193-2230">1</staff>
+        <beam eid="F08_beam-149-2231" number="1">continue</beam>
+        <beam eid="F08_beam-150-2232" number="2">continue</beam>
+        </note>
+      <note default-x="98.79" default-y="-25.00" eid="F08_note-178-2233">
+        <pitch eid="F08_pitch-160-2234">
+          <step eid="F08_step-160-2235">A</step>
+          <octave eid="F08_octave-160-2236">4</octave>
+          </pitch>
+        <duration eid="F08_duration-209-2237">2</duration>
+        <voice eid="F08_voice-179-2238">1</voice>
+        <type eid="F08_type-179-2239">16th</type>
+        <stem eid="F08_stem-160-2240">up</stem>
+        <staff eid="F08_staff-194-2241">1</staff>
+        <beam eid="F08_beam-151-2242" number="1">end</beam>
+        <beam eid="F08_beam-152-2243" number="2">end</beam>
+        </note>
+      <direction eid="F08_direction-15-2244" placement="below">
+        <direction-type eid="F08_direction-type-15-2245">
+          <wedge eid="F08_wedge-9-2246" number="1" type="stop" />
+          </direction-type>
+        <staff eid="F08_staff-195-2247">1</staff>
+        </direction>
+      <note default-x="126.46" default-y="5.00" eid="F08_note-179-2248">
+        <pitch eid="F08_pitch-161-2249">
+          <step eid="F08_step-161-2250">G</step>
+          <octave eid="F08_octave-161-2251">5</octave>
+          </pitch>
+        <duration eid="F08_duration-210-2252">4</duration>
+        <voice eid="F08_voice-180-2253">1</voice>
+        <type eid="F08_type-180-2254">eighth</type>
+        <stem eid="F08_stem-161-2255">up</stem>
+        <staff eid="F08_staff-196-2256">1</staff>
+        <notations eid="F08_notations-68-2257">
+          <slur eid="F08_slur-43-2258" number="1" type="stop" />
+          <articulations eid="F08_articulations-6-2259">
+            <staccato eid="F08_staccato-6-2260" />
+            </articulations>
+          </notations>
+        </note>
+      <direction eid="F08_direction-16-2261" placement="below">
+        <direction-type eid="F08_direction-type-16-2262">
+          <wedge eid="F08_wedge-10-2263" number="1" type="diminuendo" />
+          </direction-type>
+        <staff eid="F08_staff-197-2264">1</staff>
+        </direction>
+      <note default-x="170.73" default-y="-20.00" eid="F08_note-180-2265">
+        <pitch eid="F08_pitch-162-2266">
+          <step eid="F08_step-162-2267">B</step>
+          <octave eid="F08_octave-162-2268">4</octave>
+          </pitch>
+        <duration eid="F08_duration-211-2269">8</duration>
+        <voice eid="F08_voice-181-2270">1</voice>
+        <type eid="F08_type-181-2271">quarter</type>
+        <stem eid="F08_stem-162-2272">up</stem>
+        <staff eid="F08_staff-198-2273">1</staff>
+        </note>
+      <direction eid="F08_direction-17-2274" placement="below">
+        <direction-type eid="F08_direction-type-17-2275">
+          <wedge eid="F08_wedge-11-2276" number="1" type="stop" />
+          </direction-type>
+        <staff eid="F08_staff-199-2277">1</staff>
+        </direction>
+      <note default-x="270.35" default-y="-15.00" eid="F08_note-181-2278">
+        <pitch eid="F08_pitch-163-2279">
+          <step eid="F08_step-163-2280">C</step>
+          <alter eid="F08_alter-30-2281">1</alter>
+          <octave eid="F08_octave-163-2282">5</octave>
+          </pitch>
+        <duration eid="F08_duration-212-2283">4</duration>
+        <voice eid="F08_voice-182-2284">1</voice>
+        <type eid="F08_type-182-2285">eighth</type>
+        <accidental eid="F08_accidental-10-2286">sharp</accidental>
+        <stem eid="F08_stem-163-2287">up</stem>
+        <staff eid="F08_staff-200-2288">1</staff>
+        </note>
+      <backup eid="F08_backup-38-2289">
+        <duration eid="F08_duration-213-2290">24</duration>
+        </backup>
+      <note default-x="12.00" default-y="-115.00" eid="F08_note-182-2291">
+        <pitch eid="F08_pitch-164-2292">
+          <step eid="F08_step-164-2293">A</step>
+          <octave eid="F08_octave-164-2294">3</octave>
+          </pitch>
+        <duration eid="F08_duration-214-2295">24</duration>
+        <voice eid="F08_voice-183-2296">5</voice>
+        <type eid="F08_type-183-2297">half</type>
+        <dot eid="F08_dot-25-2298" />
+        <stem eid="F08_stem-164-2299">down</stem>
+        <staff eid="F08_staff-201-2300">2</staff>
+        </note>
+      <backup eid="F08_backup-39-2301">
+        <duration eid="F08_duration-215-2302">24</duration>
+        </backup>
+      <note default-x="12.00" default-y="-35.00" eid="F08_note-183-2303">
+        <pitch eid="F08_pitch-165-2304">
+          <step eid="F08_step-165-2305">F</step>
+          <alter eid="F08_alter-31-2306">1</alter>
+          <octave eid="F08_octave-165-2307">4</octave>
+          </pitch>
+        <duration eid="F08_duration-216-2308">8</duration>
+        <voice eid="F08_voice-184-2309">6</voice>
+        <type eid="F08_type-184-2310">quarter</type>
+        <stem eid="F08_stem-165-2311">down</stem>
+        <staff eid="F08_staff-202-2312">1</staff>
+        </note>
+      <note default-x="126.46" default-y="-40.00" eid="F08_note-184-2313">
+        <pitch eid="F08_pitch-166-2314">
+          <step eid="F08_step-166-2315">E</step>
+          <octave eid="F08_octave-166-2316">4</octave>
+          </pitch>
+        <duration eid="F08_duration-217-2317">6</duration>
+        <voice eid="F08_voice-185-2318">6</voice>
+        <type eid="F08_type-185-2319">eighth</type>
+        <dot eid="F08_dot-26-2320" />
+        <stem eid="F08_stem-166-2321">down</stem>
+        <staff eid="F08_staff-203-2322">1</staff>
+        <beam eid="F08_beam-153-2323" number="1">begin</beam>
+        </note>
+      <note default-x="198.40" default-y="-35.00" eid="F08_note-185-2324">
+        <pitch eid="F08_pitch-167-2325">
+          <step eid="F08_step-167-2326">F</step>
+          <alter eid="F08_alter-32-2327">1</alter>
+          <octave eid="F08_octave-167-2328">4</octave>
+          </pitch>
+        <duration eid="F08_duration-218-2329">2</duration>
+        <voice eid="F08_voice-186-2330">6</voice>
+        <type eid="F08_type-186-2331">16th</type>
+        <stem eid="F08_stem-167-2332">down</stem>
+        <staff eid="F08_staff-204-2333">1</staff>
+        <beam eid="F08_beam-154-2334" number="1">end</beam>
+        <beam eid="F08_beam-155-2335" number="2">backward hook</beam>
+        </note>
+      <note default-x="226.07" default-y="-30.00" eid="F08_note-186-2336">
+        <pitch eid="F08_pitch-168-2337">
+          <step eid="F08_step-168-2338">G</step>
+          <octave eid="F08_octave-168-2339">4</octave>
+          </pitch>
+        <duration eid="F08_duration-219-2340">8</duration>
+        <tie eid="F08_tie-14-2341" type="start" />
+        <voice eid="F08_voice-187-2342">6</voice>
+        <type eid="F08_type-187-2343">quarter</type>
+        <stem eid="F08_stem-168-2344">down</stem>
+        <staff eid="F08_staff-205-2345">1</staff>
+        <notations eid="F08_notations-69-2346">
+          <tied eid="F08_tied-14-2347" type="start" />
+          </notations>
+        </note>
+      </measure>
+    <measure eid="F08_measure-15-2348" number="16" width="355.54">
+      <direction eid="F08_direction-18-2349" placement="below">
+        <direction-type eid="F08_direction-type-18-2350">
+          <dynamics eid="F08_dynamics-3-2351">
+            <p eid="F08_p-1-2352" />
+            </dynamics>
+          </direction-type>
+        <staff eid="F08_staff-206-2353">1</staff>
+        <sound dynamics="54.44" eid="F08_sound-3-2354" />
+        </direction>
+      <note default-x="19.20" default-y="-15.00" eid="F08_note-187-2355">
+        <grace eid="F08_grace-9-2356" />
+        <pitch eid="F08_pitch-169-2357">
+          <step eid="F08_step-169-2358">C</step>
+          <alter eid="F08_alter-33-2359">1</alter>
+          <octave eid="F08_octave-169-2360">5</octave>
+          </pitch>
+        <voice eid="F08_voice-188-2361">1</voice>
+        <type eid="F08_type-188-2362">16th</type>
+        <accidental eid="F08_accidental-11-2363">sharp</accidental>
+        <stem eid="F08_stem-169-2364">up</stem>
+        <staff eid="F08_staff-207-2365">1</staff>
+        <notations eid="F08_notations-70-2366">
+          <slur eid="F08_slur-44-2367" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="37.66" default-y="-10.00" eid="F08_note-188-2368">
+        <pitch eid="F08_pitch-170-2369">
+          <step eid="F08_step-170-2370">D</step>
+          <octave eid="F08_octave-170-2371">5</octave>
+          </pitch>
+        <duration eid="F08_duration-220-2372">4</duration>
+        <tie eid="F08_tie-15-2373" type="start" />
+        <voice eid="F08_voice-189-2374">1</voice>
+        <type eid="F08_type-189-2375">eighth</type>
+        <stem eid="F08_stem-170-2376">up</stem>
+        <staff eid="F08_staff-208-2377">1</staff>
+        <beam eid="F08_beam-156-2378" number="1">begin</beam>
+        <notations eid="F08_notations-71-2379">
+          <tied eid="F08_tied-15-2380" type="start" />
+          <slur eid="F08_slur-45-2381" number="1" type="stop" />
+          </notations>
+        </note>
+      <note default-x="84.17" default-y="-10.00" eid="F08_note-189-2382">
+        <pitch eid="F08_pitch-171-2383">
+          <step eid="F08_step-171-2384">D</step>
+          <octave eid="F08_octave-171-2385">5</octave>
+          </pitch>
+        <duration eid="F08_duration-221-2386">1</duration>
+        <tie eid="F08_tie-16-2387" type="stop" />
+        <voice eid="F08_voice-190-2388">1</voice>
+        <type eid="F08_type-190-2389">32nd</type>
+        <stem eid="F08_stem-171-2390">up</stem>
+        <staff eid="F08_staff-209-2391">1</staff>
+        <beam eid="F08_beam-157-2392" number="1">continue</beam>
+        <beam eid="F08_beam-158-2393" number="2">begin</beam>
+        <beam eid="F08_beam-159-2394" number="3">begin</beam>
+        <notations eid="F08_notations-72-2395">
+          <tied eid="F08_tied-16-2396" type="stop" />
+          </notations>
+        </note>
+      <note default-x="105.32" default-y="-5.00" eid="F08_note-190-2397">
+        <pitch eid="F08_pitch-172-2398">
+          <step eid="F08_step-172-2399">E</step>
+          <octave eid="F08_octave-172-2400">5</octave>
+          </pitch>
+        <duration eid="F08_duration-222-2401">1</duration>
+        <voice eid="F08_voice-191-2402">1</voice>
+        <type eid="F08_type-191-2403">32nd</type>
+        <stem eid="F08_stem-172-2404">up</stem>
+        <staff eid="F08_staff-210-2405">1</staff>
+        <beam eid="F08_beam-160-2406" number="1">continue</beam>
+        <beam eid="F08_beam-161-2407" number="2">continue</beam>
+        <beam eid="F08_beam-162-2408" number="3">continue</beam>
+        </note>
+      <note default-x="126.46" default-y="-10.00" eid="F08_note-191-2409">
+        <pitch eid="F08_pitch-173-2410">
+          <step eid="F08_step-173-2411">D</step>
+          <octave eid="F08_octave-173-2412">5</octave>
+          </pitch>
+        <duration eid="F08_duration-223-2413">1</duration>
+        <voice eid="F08_voice-192-2414">1</voice>
+        <type eid="F08_type-192-2415">32nd</type>
+        <stem eid="F08_stem-173-2416">up</stem>
+        <staff eid="F08_staff-211-2417">1</staff>
+        <beam eid="F08_beam-163-2418" number="1">continue</beam>
+        <beam eid="F08_beam-164-2419" number="2">continue</beam>
+        <beam eid="F08_beam-165-2420" number="3">continue</beam>
+        </note>
+      <note default-x="147.60" default-y="-15.00" eid="F08_note-192-2421">
+        <pitch eid="F08_pitch-174-2422">
+          <step eid="F08_step-174-2423">C</step>
+          <alter eid="F08_alter-34-2424">1</alter>
+          <octave eid="F08_octave-174-2425">5</octave>
+          </pitch>
+        <duration eid="F08_duration-224-2426">1</duration>
+        <voice eid="F08_voice-193-2427">1</voice>
+        <type eid="F08_type-193-2428">32nd</type>
+        <stem eid="F08_stem-174-2429">up</stem>
+        <staff eid="F08_staff-212-2430">1</staff>
+        <beam eid="F08_beam-166-2431" number="1">end</beam>
+        <beam eid="F08_beam-167-2432" number="2">end</beam>
+        <beam eid="F08_beam-168-2433" number="3">end</beam>
+        </note>
+      <note default-x="165.38" default-y="-15.00" eid="F08_note-193-2434">
+        <grace eid="F08_grace-10-2435" />
+        <pitch eid="F08_pitch-175-2436">
+          <step eid="F08_step-175-2437">C</step>
+          <alter eid="F08_alter-35-2438">1</alter>
+          <octave eid="F08_octave-175-2439">5</octave>
+          </pitch>
+        <voice eid="F08_voice-194-2440">1</voice>
+        <type eid="F08_type-194-2441">eighth</type>
+        <stem eid="F08_stem-175-2442">up</stem>
+        <staff eid="F08_staff-213-2443">1</staff>
+        <notations eid="F08_notations-73-2444">
+          <slur eid="F08_slur-46-2445" number="1" type="start" />
+          </notations>
+        </note>
+      <note default-x="183.82" default-y="-10.00" eid="F08_note-194-2446">
+        <pitch eid="F08_pitch-176-2447">
+          <step eid="F08_step-176-2448">D</step>
+          <octave eid="F08_octave-176-2449">5</octave>
+          </pitch>
+        <duration eid="F08_duration-225-2450">16</duration>
+        <voice eid="F08_voice-195-2451">1</voice>
+        <type eid="F08_type-195-2452">half</type>
+        <stem eid="F08_stem-176-2453">up</stem>
+        <staff eid="F08_staff-214-2454">1</staff>
+        <notations eid="F08_notations-74-2455">
+          <slur eid="F08_slur-47-2456" number="1" type="stop" />
+          </notations>
+        </note>
+      <backup eid="F08_backup-40-2457">
+        <duration eid="F08_duration-226-2458">24</duration>
+        </backup>
+      <note default-x="37.30" default-y="-135.00" eid="F08_note-195-2459">
+        <pitch eid="F08_pitch-177-2460">
+          <step eid="F08_step-177-2461">D</step>
+          <octave eid="F08_octave-177-2462">3</octave>
+          </pitch>
+        <duration eid="F08_duration-227-2463">24</duration>
+        <voice eid="F08_voice-196-2464">5</voice>
+        <type eid="F08_type-196-2465">half</type>
+        <dot eid="F08_dot-27-2466" />
+        <stem eid="F08_stem-177-2467">down</stem>
+        <staff eid="F08_staff-215-2468">2</staff>
+        </note>
+      <backup eid="F08_backup-41-2469">
+        <duration eid="F08_duration-228-2470">24</duration>
+        </backup>
+      <note default-x="37.30" default-y="-30.00" eid="F08_note-196-2471">
+        <pitch eid="F08_pitch-178-2472">
+          <step eid="F08_step-178-2473">G</step>
+          <octave eid="F08_octave-178-2474">4</octave>
+          </pitch>
+        <duration eid="F08_duration-229-2475">8</duration>
+        <tie eid="F08_tie-17-2476" type="stop" />
+        <voice eid="F08_voice-197-2477">6</voice>
+        <type eid="F08_type-197-2478">quarter</type>
+        <stem eid="F08_stem-178-2479">down</stem>
+        <staff eid="F08_staff-216-2480">1</staff>
+        <notations eid="F08_notations-75-2481">
+          <tied eid="F08_tied-17-2482" type="stop" />
+          </notations>
+        </note>
+      <note default-x="183.82" default-y="-35.00" eid="F08_note-197-2483">
+        <pitch eid="F08_pitch-179-2484">
+          <step eid="F08_step-179-2485">F</step>
+          <alter eid="F08_alter-36-2486">1</alter>
+          <octave eid="F08_octave-179-2487">4</octave>
+          </pitch>
+        <duration eid="F08_duration-230-2488">16</duration>
+        <voice eid="F08_voice-198-2489">6</voice>
+        <type eid="F08_type-198-2490">half</type>
+        <stem eid="F08_stem-179-2491">down</stem>
+        <staff eid="F08_staff-217-2492">1</staff>
+        </note>
+      <backup eid="F08_backup-42-2493">
+        <duration eid="F08_duration-231-2494">24</duration>
+        </backup>
+      <note eid="F08_note-198-2495">
+        <rest eid="F08_rest-19-2496" />
+        <duration eid="F08_duration-232-2497">8</duration>
+        <voice eid="F08_voice-199-2498">7</voice>
+        <type eid="F08_type-199-2499">quarter</type>
+        <staff eid="F08_staff-218-2500">2</staff>
+        </note>
+      <note eid="F08_note-199-2501">
+        <rest eid="F08_rest-20-2502" />
+        <duration eid="F08_duration-233-2503">4</duration>
+        <voice eid="F08_voice-200-2504">7</voice>
+        <type eid="F08_type-200-2505">eighth</type>
+        <staff eid="F08_staff-219-2506">2</staff>
+        </note>
+      <note default-x="230.70" default-y="-115.00" eid="F08_note-200-2507">
+        <pitch eid="F08_pitch-180-2508">
+          <step eid="F08_step-180-2509">A</step>
+          <octave eid="F08_octave-180-2510">3</octave>
+          </pitch>
+        <duration eid="F08_duration-234-2511">4</duration>
+        <voice eid="F08_voice-201-2512">7</voice>
+        <type eid="F08_type-201-2513">eighth</type>
+        <stem eid="F08_stem-180-2514">up</stem>
+        <staff eid="F08_staff-220-2515">2</staff>
+        </note>
+      <note default-x="277.21" default-y="-100.00" eid="F08_note-201-2516">
+        <pitch eid="F08_pitch-181-2517">
+          <step eid="F08_step-181-2518">D</step>
+          <octave eid="F08_octave-181-2519">4</octave>
+          </pitch>
+        <duration eid="F08_duration-235-2520">8</duration>
+        <voice eid="F08_voice-202-2521">7</voice>
+        <type eid="F08_type-202-2522">quarter</type>
+        <stem eid="F08_stem-181-2523">up</stem>
+        <staff eid="F08_staff-221-2524">2</staff>
+        </note>
+      <barline eid="F08_barline-0-2525" location="right">
+        <bar-style eid="F08_bar-style-0-2526">light-heavy</bar-style>
+        <repeat direction="backward" eid="F08_repeat-0-2527" />
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>

@@ -1,0 +1,18 @@
+notehead	note
+stem	note
+accidental_sharp	note
+accidental_flat	note
+slur	notation
+tie	notation
+staccato	notation
+dot	notation
+G-clef	defaults
+C-clef	defaults
+F-clef	defaults
+barline	layout
+staff	layout
+letter_x	text
+num_1	numerals
+alla_breve	defaults
+beam	note
+
