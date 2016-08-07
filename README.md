@@ -14,3 +14,18 @@ Directories and Files
   of the article.
 
 Each subdirectory has its own README.md file with more details.
+
+
+Acknowledgments
+---------------
+
+We would like to thank Alicia Fornes and her colleagues for creating
+and making available the [CVC-MUSCIMA](http://www.cvc.uab.es/cvcmuscima/) 
+dataset of handwritten music, and for providing extra background
+information and material. Their [publication about CVC-MUSCIMA is available as well.](http://refbase.cvc.uab.es/files/FDG2012.pdf)
+
+Also, we wish to thank our annotators, both from the Janacek Academy
+of Performing Arts in Brno and elsewhere.
+
+Our work was supported by grant no. P103/12/G084, in part by Charles University projects SVV-2016-260331 and SVV-2016-260332.
+
